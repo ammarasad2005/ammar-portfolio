@@ -1,0 +1,394 @@
+     1→     1→# personal_portfolio.md — Living Design Document
+     2→     2→
+     3→     3→> **Status**: Evolving knowledge base. Updated after every research batch.
+     4→     4→> **Source corpus**: 100 portfolios sampled from `emmabostian/developer-portfolios` (1797 entries indexed).
+     5→     5→> **Goal**: Synthesize a unified, original design language for a premium Full Stack Developer portfolio.
+     6→     6→
+     7→     7→---
+     8→     8→
+     9→     9→## 0. Methodology
+    10→    10→
+    11→    11→- Portfolios analyzed in batches of 5.
+    12→    12→- After each batch, insights merged into this document.
+    13→    13→- Earlier conclusions can be revised, refined, or replaced as the corpus grows.
+    14→    14→- Each noteworthy feature records: source, why it works, improvements, compatibility, complexity, performance, accessibility, and adopt-or-not.
+    15→    15→- The document converges toward a single coherent design language, not a collage of inspirations.
+    16→    16→
+    17→    17→## 1. Running Synthesis (Latest First)
+    18→    18→
+    19→    19→### Round 2 Synthesis (Batches 5-8, portfolios 21-40) — Four open tensions resolved
+    20→    20→
+    21→    21→After 40 portfolios, four of the six open tensions carried from round 1 are now resolved or partially resolved:
+    22→    22→
+    23→    23→| Tension | Status after round 2 |
+    24→    24→|---|---|
+    25→    25→| Hero motion that orients | **Partially resolved** — Bhavesh's scroll progress bar (2px gradient lime→pink→cyan→volt, `transform:scaleX`) tells the user where they are in the page; Dale's mouse-responsive WebGL2 fluid canvas orients by responding to input. Still missing: hero motion that tells the user *where to go next*. |
+    26→    26→| Custom cursor that adds UX | **Resolved** — Bhavesh Gudlani's dual-element cursor: instant-follow dot (8px lime, `mix-blend-mode: difference`) + eased-lerp ring (32px white border, lerp factor .11), with hover state growth + `@media(hover:none)` fallback. The dual-element pattern (instant + eased) gives both precision and weight. |
+    27→    27→| Scroll-driven section transitions | **Still unsolved.** 0 in 40 portfolios. |
+    28→    28→| Sound | **Still unsolved.** 0 in 40 portfolios. |
+    29→    29→| Real 3D scene | **Partially resolved** — Dale Larroder's WebGL2 fluid canvas (`#fluid`, pointer-events:none) is the first WebGL beyond particles; Whilmar's particle field was the first WebGL overall. Still no real 3D geometric scene (Three.js / Spline / model viewer). |
+    30→    30→| Code-as-interface, deeper | **Resolved by two patterns**: Vinit Shahdeo's `$ npx vinitshahdeo` CLI portfolio companion (cheapest code-as-interface signal in the corpus); Artur Bień's embedded live Generators inside articles (deeper than EMF's typography panel — the live demo *is* the article). |
+    31→    31→
+    32→    32→**Six newly codified patterns from round 2**:
+    33→    33→
+    34→    34→14. **CLI portfolio companion** (`$ npx <name>`) — Vinit Shahdeo. Cheapest, most original code-as-interface signal. The portfolio is *also* a CLI tool.
+    35→    35→15. **"Ask AI" CTA → curated Google search for own name** — Vinit. Self-aware nod to the AI-search era.
+    36→    36→16. **/now page** (Derek Sivers pattern) — Vinit. What I'm doing now; signals the site is alive more honestly than a live timestamp.
+    37→    37→17. **/practices page** (links to dev-culture articles: No Hello, XY Problem, Don't Ask to Ask) — Vinit. Signals engineering culture literacy.
+    38→    38→18. **/books senior bookshelf** (4 categories: Staff Engineer, DDIA, SRE, Team Topologies) — Vinit. Senior-consultant credibility signal.
+    39→    39→19. **Dual-accent system** — Vinit (mustard `#ffe895` + cyan `#00abda`). Two accents can coexist if they have distinct semantic roles (e.g., primary action vs secondary metadata).
+    40→    40→
+    41→    41→**Plus six more**:
+    42→    42→
+    43→    43→20. **/uses page** (uses.tech pattern) — Dale. Standardized equipment list.
+    44→    44→21. **/stats page with Wakatime** — Dale. Live coding stats as credibility signal.
+    45→    45→22. **Three-style H1** (regular + bold + italic-underlined keyword) — Dale. Lets one keyword pop without an accent color.
+    46→    46→23. **Embedded live Generators inside articles** — Artur Bień. The demo *is* the article. Deepest code-as-interface pattern in the corpus.
+    47→    47→24. **`.sr-only` H1** (visible name vs document outline tension) — Ganesh Angadi. The visible name can be a styled `<div>` while a `.sr-only` `<h1>` provides clean document outline.
+    48→    48→25. **Section-specific Unix command eyebrows** — Ganesh (`$ man ganesh` / `$ history | grep` / `$ ls -lh` / `$ cat` / `$ systemctl` / `$ ping`). Most semantically-coherent Unix metaphor: each Unix command maps to a content type (`man` = about, `history` = experience, `ls` = work, `cat` = writing, `systemctl` = skills, `ping` = contact).
+    49→    49→
+    50→    50→**Round-2 anti-patterns** (newly observed):
+    51→    51→
+    52→    52→| # | Anti-pattern | Observed in |
+    53→    53→|---|---|---|
+    54→    54→| 19 | Deployed portfolio that doesn't deploy (404) | Vinay Katikireddy |
+    55→    55→| 20 | Deployed portfolio that doesn't SSR (HTTP 500 to curl) | Juan Benito |
+    56→    56→| 21 | Bare "Portfolio" title | Abhijeet |
+    57→    57→| 22 | Self-rated skill percentages | Abhijeet |
+    58→    58→| 23 | 0 OG metadata | Abhijeet, Jay Bhavsar |
+    59→    59→| 24 | 84 continuous pulse animations | Abhijeet |
+    60→    60→| 25 | Template-fork email href pointing to template author's email | Jay Bhavsar (`thanks@mldangelo.com`) |
+    61→    61→| 26 | "Lets's" typo | Jay Bhavsar |
+    62→    62→| 27 | Empty `<footer>` element | (round-2 instance) |
+    63→    63→| 28 | Second H1 for embedded tool section | (round-2 instance) |
+    64→    64→| 29 | "Log In" link in public nav | Hungry Bear Studio |
+    65→    65→| 30 | Generic wave-SVG background from generator | Amit Kumar Raj |
+    66→    66→| 31 | 90+ nested `<section>` elements | Amit Kumar Raj |
+    67→    67→| 32 | Broken OG image pointing to a different domain | (round-2 instance) |
+    68→    68→| 33 | "Portfolio" word in title | (round-2 instance) |
+    69→    69→| 34 | Indigo-500 default Tailwind | John Clayton Blanc |
+    70→    70→
+    71→    71→**Round-2 strongest portfolios (in order)**:
+    72→    72→
+    73→    73→1. **Vinit Shahdeo** (vinitshahdeo.com) — Astro + Partytown + 6-page architecture. Eight corpus-first patterns. Most original: `$ npx vinitshahdeo` CLI companion, /now + /practices + /books senior content architecture.
+    74→    74→2. **Luca Félix** (luca-felix.com) — warm OKLCH tinted-light, Next.js i18n, definitive case study template (`/projects/odo`), third-person About narrative, "Slide to send" anti-spam.
+    75→    75→3. **Artur Bień** (expensive.toys) — Windows 95 aesthetic committed fully; embedded live Generators inside articles (deepest code-as-interface pattern).
+    76→    76→4. **Bhavesh Gudlani** (bhaveshgudlani.me) — lightest in corpus (3 scripts); dual-element custom cursor (resolves open tension); scroll progress bar; Canvas2D geometric particle field.
+    77→    77→5. **Milan Milanovic** (milan.milanovic.org) — full-serif portfolio (Lora 900 H1 + Source Serif 4 body on pure white); plain-text contact (senior-consultant extreme); newsletter subscriber count credibility signal.
+    78→    78→6. **Ganesh Angadi** (ganeshangadi.online) — pure white + Playfair Display + bright orange; `.sr-only` H1; section-specific Unix command eyebrows; authored engineering-principles manifesto.
+    79→    79→7. **Dale Larroder** (dalelarroder.com) — pure black + WebGL2 fluid canvas (mouse-responsive); /uses + /stats + /thoughts; three-style H1.
+    80→    80→
+    81→    81→### Round 1 Synthesis (Batches 1-4, 20 portfolios) — Codified signals
+    82→    82→
+    83→    83→After 20 portfolios, six signals are stable enough to call "codified":
+    84→    84→
+    85→    85→1. **Commitment beats kitchen-sink.** Cade (1 keyframe) and Whilmar (3 keyframes + WebGL) both feel senior because each commits to a register. Ghulam (86 keyframes) does not. The whole site must sing in one key.
+    86→    86→2. **Tinted-neutral background, never pure.** Warm-tinted lights (peach `rgb(254,215,170)`, cream) and tinted-darks (navy `#1E2749`, near-black-warm `#0D0D0E`) both work. Pure black/white is what to avoid — *unless* paired with ultralight (200-300 weight) display type at very large sizes (Electric Magic Factory's 109px weight-200 Soehne on pure white). The pure-white escape hatch requires typographic confidence.
+    87→    87→3. **Domain-native conceptual metaphor shapes content architecture.** Triet (Unix shell), Whilmar (architectural-engineering), Zyon (Steam achievements) — each reframes section labels, hero metadata, and footer copy through the dev's domain. The metaphor shapes content structure, not just decoration.
+    88→    88→4. **Two-font developer-coded feel.** Workhorse sans (Inter / Geist Sans / Soehne) + monospace eyebrows on labels (`// about`, `// work`). Universal, low-risk, high-signal.
+    89→    89→5. **Hero-only home + linked content subpages.** Nico Bachner (`/projects` + `/notes`), Ajvad (Astro view transitions), EMF (Vue view transitions). The home page is a brand statement; depth lives one click away. Multi-page hybrid with view transitions is the leading architecture.
+    90→    90→6. **Footer is a real design surface.** Whilmar's `V2.0.26_STABLE` version stamp, EMF's live local time + timezone + location, Ajvad's live date stamp — the footer carries "site is alive" signals that undermine the static-portfolio feeling.
+    91→    91→
+    92→    92→**Newly codified (round 1)**:
+    93→    93→
+    94→    94→7. **Typography Options Panel as code-as-interface.** EMF's live type-scale editor (12 named ratios from Minor Second 1.067 through Octave 2 + Custom) is the first non-cosmetic "code-as-interface" pattern. It positions the developer's *craft* (typography engineering) as the central interactive exhibit. Partial resolution of the "code-as-interface" tension.
+    95→    95→8. **View Transitions API with shared-element names.** EMF uses `view-transition-name: main` + `title-1` + `title-2` for designed blur+opacity page transitions. This is the first *designed* page-transition pattern (not a browser default).
+    96→    96→9. **Single accent applied only to the role phrase.** Phat Tran Tan applies the accent color *only* to the role phrase inside the H1. Concentrates attention without colorizing the entire hero.
+    97→    97→10. **Pull-over keyframe.** Barthélémy's sticky-note tab slides up to become the page — an original page-entry transition. Steal the principle (an element from the previous screen "becomes" the next), not the literal sticky-note.
+    98→    98→
+    99→    99→**Open tensions — status after round 1**:
+   100→   100→
+   101→   101→| Tension | Status |
+   102→   102→|---|---|
+   103→   103→| Restraint vs richness | → reframed as **commitment vs kitchen-sink** |
+   104→   104→| Light vs dark | → **tinted-light or tinted-dark**; pure only with ultralight display type |
+   105→   105→| Single-page vs multi-page | → **multi-page hybrid with view transitions** |
+   106→   106→| 3D: tasteful or gimmicky? | → **tasteful when scoped to one surface** (Whilmar's hero-only WebGL particle field) |
+   107→   107→| Code-as-interface | → **partially resolved by EMF's Typography Options Panel**; deeper resolution still sought |
+   108→   108→| Hero motion that orients | → **still unsolved**. No portfolio in round 1 has a hero motion that *orients*; carry to round 2. |
+   109→   109→| Custom cursor that adds UX | → **still unsolved.** Carry to round 2. |
+   110→   110→| Scroll-driven section transitions | → **still unsolved.** Carry to round 2. |
+   111→   111→| Sound | → **still unsolved.** Carry to round 2. |
+   112→   112→
+   113→   113→### Batch 04 — Typography-as-craft exhibit, designed page transitions, pure-white escape hatch
+   114→   114→
+   115→   115→Analyzed: Fikri Rozan, Electric Magic Factory (EMF / Jesús Olano), Auroob Ahmad, Barthélémy Pousset, Zyon Tiangson.
+   116→   116→
+   117→   117→**Strongest portfolio**: EMF — Vue 3 multi-page editorial portfolio. Soehne weight-200 H1 at 109px on pure white. Three corpus-first patterns: (1) **Typography Options Panel** (live editor: viewport width / font-size / type-scale ratio with 12 named ratios); (2) **View Transitions API** with shared-element names; (3) **Live local time + timezone + location** in footer. Plus i18n EN/ES toggle, CV-style year-range anchors as nav.
+   118→   118→
+   119→   119→**Most original**: EMF's Typography Options Panel (first real code-as-interface pattern). Second: Zyon's Steam-inspired metaphor with achievement rarity tiers (COMMON/RARE/EPIC/LEGENDARY) applied to real certifications. Third: Barthélémy's pull-over keyframe.
+   120→   120→
+   121→   121→**Weakest**: Zyon (entire GitHub API integration broken — 10+ console errors, "NaN%" rendered, all stats 0; 0 H2s); Barthélémy (ZERO headings on the entire page); Auroob (0 semantic HTML, 0 SEO meta, empty section, 6 typos); Fikri (`document.title = "personal_website"`, 9 H1s, no footer).
+   122→   122→
+   123→   123→**Refinements to batches 1-3**: Pure white CAN work with ultralight premium type (EMF). H1 size is a function of weight — ultralight (200-300) lets you break the 48-76px rule. 33 keyframes can be justified if thematically unified (Zyon's Steam vocabulary). Domain-native metaphor generalizes to *any* domain the dev identifies with (gaming, not just DevOps/architecture).
+   124→   124→
+   125→   125→**Still unclaimed across 20 portfolios**: real 3D scene, custom cursor that adds UX, scroll-driven section transitions, sound, hero motion that orients. → Carry to round 2.
+   126→   126→
+   127→   127→### Batch 03 — Tinted-dark, 3D-as-single-surface, footer-as-design-surface
+   128→   128→
+   129→   129→Analyzed: Whilmar Bitoco, Gunjan Ghate, Ajvad Laseen, Ghulam Mujtaba, Cade Kynaston.
+   130→   130→
+   131→   131→**Strongest**: Whilmar Bitoco — dark `#0D0D0E` Next.js site with the first non-trivial 3D-adjacent element in the corpus: a single WebGL2 canvas drawing a low-density particle line field behind the hero. Twelve sections unified by an "architectural-engineering" conceptual metaphor (`REF: 00-WH-26 | ARCHITECTURAL SCALE: 1:1` in hero; `INITIALIZE_COMMUNICATION` / `EMAIL_ADDRESS` in contact; `V2.0.26_STABLE` version stamp in footer). Most comprehensive footer-as-design-surface in the corpus.
+   132→   132→
+   133→   133→**Most original moves**: Whilmar's WebGL2 particle field (3D problem finally engaged — tasteful when scoped to one surface); Ajvad's live date stamp in the hero corner (cheapest "site is alive" signal); Ajvad's Astro view transitions for multi-page hybrid (SPA feel with static-rendered performance); Ghulam's case study template on `/insights/<slug>` (breadcrumb + date + min-read + category + tags + numbered ToC + related articles).
+   134→   134→
+   135→   135→**Weakest**: Gunjan (4 H1s, 7 simultaneous Canvas2D backgrounds, 36px Bangers H1, 64 tech-stack PNGs); Ajvad (`/projects` subpage renders only "Coming Soon..." despite a proper title — empty-subpage anti-pattern).
+   136→   136→
+   137→   137→**Tension updates**: (1) Restraint-vs-richness → **commitment-vs-kitchen-sink** (Cade + Whilmar both feel senior because each commits). (2) **Tinted-dark** competitive with warm-light. (3) Hybrid wins. (4) 3D: tasteful when scoped to one surface. (5) Code-as-interface still unsolved.
+   138→   138→
+   139→   139→### Batch 02 — Light+warm tint dominates, hero-only home + content subpages
+   140→   140→
+   141→   141→Analyzed: Akash Balasubhramanyam, Nico Bachner, Hassan Tech, Phat Tran Tan, Jayed Rafi.
+   142→   142→
+   143→   143→**Strongest**: Nico Bachner — hero-only homepage on warm peach `rgb(254,215,170)`, 104px Fraunces serif H1, Inter body, 0 keyframes, 0 images, 0 third-party JS. Two routes from home: `/projects` (13 subpages) and `/notes` (split into "Timeless" vs "Timestamped"). Extends Jeremiah's hero-only brand-statement with a real content surface.
+   144→   144→
+   145→   145→**Weakest**: Jayed Rafi (`document.title = "portfolio"`, 404 nav link, broken `changeImage()` easter egg, zero H1/H2/H3); Akash (template placeholders `youremail@example.com`, `resume.pdf` 404s).
+   146→   146→
+   147→   147→**Biggest reversal vs batch 1**: Light theme dominates 5/5 — directly contradicting batch 1's "dark mode is table-stakes." Warm-tinted lights (peach, cream) beat pure white.
+   148→   148→
+   149→   149→**New patterns**: hero-only home + 2 routes (Nico); numbered projects `01 02 03 04` (Phat); frosted-glass sticky header `backdrop-blur` (Phat); oklch color values (Hassan, Nico); single accent applied only to the role phrase in H1 (Phat); personal-wiki content architecture (Nico).
+   150→   150→
+   151→   151→**New anti-patterns**: Google AdSense on a portfolio (Hassan); 9+ social links in nav (Hassan); replacing H1 with styled `<p>` tags (Jayed).
+   152→   152→
+   153→   153→### Batch 01 — Hero restraint, domain metaphor, two-font developer-coded feel
+   154→   154→
+   155→   155→Analyzed: Jeremiah Haastrup, Krishnanand, Bhushan Zade, Triet Thai, Antônio Junior.
+   156→   156→
+   157→   157→**Strongest**: Triet Thai — refined Unix-shell theme for a Senior DevOps Engineer. Single Geist Mono font, single soft-green accent, one keyframe, zero images, zero third-party dependencies. Sections framed as shell commands (`$ ls projects/ --details`).
+   158→   158→
+   159→   159→**Most original**: Jeremiah Haastrup — single-screen hero-only portfolio on saturated cobalt blue `#1E33BF` with an Instrument Serif + Apfel Grotezk pairing. Shows zero in-site work; "SEE WORK" links externally to Behance.
+   160→   160→
+   161→   161→**Weakest**: Bhushan Zade — template-default title, H1 in plain Arial, broken GitHub-stats widgets (503), and a request to `api.github.com/users/krishnanand654/repos` (his fork still references another developer's username).
+   162→   162→
+   163→   163→**Principles**: (a) hero-only as brand statement; (b) domain-native metaphor shapes content; (c) two-font developer-coded feel (sans + mono eyebrows); (d) metadata-as-hero-content (`loc:`, `status:`).
+   164→   164→
+   165→   165→---
+   166→   166→
+   167→   167→## 2. Pattern Library (Cumulative)
+   168→   168→
+   169→   169→### Hero-as-Brand-Statement
+   170→   170→- **Sources**: Jeremiah Haastrup, Nico Bachner
+   171→   171→- **Why it works**: A single saturated color or warm tint + bold typographic statement reads as confident. Removes the pressure to fill a long page.
+   172→   172→- **Possible improvements**: Pair with one secondary "deep dive" surface so the confidence doesn't read as evasiveness. Nico's `/projects` + `/notes` solves this.
+   173→   173→- **Compatibility**: Pairs with two-font system, hero-only home + content subpages.
+   174→   174→- **Complexity**: low
+   175→   175→- **Performance**: excellent
+   176→   176→- **Accessibility**: requires care with color contrast on saturated backgrounds.
+   177→   177→- **Adopt**: yes — as hero philosophy, with linked content subpages for depth.
+   178→   178→
+   179→   179→### Domain-Native Conceptual Metaphor
+   180→   180→- **Sources**: Triet Thai (Unix shell), Whilmar Bitoco (architectural-engineering), Zyon Tiangson (Steam achievements)
+   181→   181→- **Why it works**: Reframes section labels, hero metadata, and footer copy through the dev's domain. Signals "I think in this medium" instantly.
+   182→   182→- **Possible improvements**: For full-stack, choose a metaphor broad enough to span frontend/backend/infra/design — without becoming a diluted "tech-y" aesthetic. The metaphor should shape *labels* (eyebrows, metadata, version stamps), not force awkward content shapes.
+   183→   183→- **Compatibility**: Strong with mono-eyebrow labels. Conflicts with Brutalism or playful illustration.
+   184→   184→- **Complexity**: medium (requires content discipline)
+   185→   185→- **Performance**: excellent
+   186→   186→- **Accessibility**: AT reads metaphor syntax literally — need `aria-label` overrides.
+   187→   187→- **Adopt**: yes — as a *light* metaphor (monospace metadata eyebrows, version stamps, status strings).
+   188→   188→
+   189→   189→### Two-Font Developer-Coded Feel
+   190→   190→- **Sources**: Antônio Junior, Triet Thai (single-font extreme), Whilmar Bitoco, Nico Bachner, EMF
+   191→   191→- **Why it works**: Workhorse sans (Inter/Geist/Soehne) + monospace eyebrows on labels (`// about`, `// work`) reads as "developer" without green-on-black terminal cliché.
+   192→   192→- **Possible improvements**: Vary the eyebrow treatment; don't apply the same `// X` formula to every section.
+   193→   193→- **Compatibility**: Universal.
+   194→   194→- **Complexity**: low
+   195→   195→- **Performance**: trivial
+   196→   196→- **Accessibility**: Excellent — mono labels are short and screen-reader friendly.
+   197→   197→- **Adopt**: yes — primary candidate for our design system.
+   198→   198→
+   199→   199→### Metadata-as-Hero-Content
+   200→   200→- **Sources**: Triet Thai (`loc:`, `uptime:`, `status:`), Whilmar (`REF:` / `ARCHITECTURAL SCALE:`), Zyon (Steam-style metadata)
+   201→   201→- **Why it works**: Replaces the cliché "Hi, I'm X. A passionate Y" with terse machine-readable metadata. Reads as confident, current, and developer-native.
+   202→   202→- **Possible improvements**: Limit to 3-4 fields (location, status, focus, availability). Use `<dl>` for clean AT output.
+   203→   203→- **Compatibility**: Pairs with mono-eyebrow pattern and domain-native metaphor.
+   204→   204→- **Complexity**: low
+   205→   205→- **Performance**: trivial
+   206→   206→- **Accessibility**: Use `<dl><dt><dd>` structure.
+   207→   207→- **Adopt**: yes.
+   208→   208→
+   209→   209→### Hero-Only Home + Content Subpages
+   210→   210→- **Sources**: Nico Bachner (`/projects` + `/notes`), Ajvad Laseen (Astro view transitions), EMF (Vue view transitions)
+   211→   211→- **Why it works**: Home page is a brand statement; depth lives one click away. Combines confidence of hero-only with depth of multi-page.
+   212→   212→- **Possible improvements**: Use View Transitions API with shared-element names for designed page transitions (EMF pattern).
+   213→   213→- **Compatibility**: Pairs with hero-as-brand-statement, view transitions.
+   214→   214→- **Complexity**: medium
+   215→   215→- **Performance**: excellent (static-rendered subpages)
+   216→   216→- **Accessibility**: Standard nav semantics.
+   217→   217→- **Adopt**: yes — primary architecture. *(Note: project constraint — only `/` route is user-visible. Will adapt to single-page with section "routes" via scroll/anchor + modal case studies.)*
+   218→   218→
+   219→   219→### Tinted-Neutral Background
+   220→   220→- **Sources**: Nico (peach `rgb(254,215,170)`), Whilmar (near-black-warm `#0D0D0E`), Ajvad (navy `#1E2749`), EMF (pure white with ultralight type)
+   221→   221→- **Why it works**: Tinted neutrals feel intentional; pure black/white feel default.
+   222→   222→- **Possible improvements**: Provide both light + dark themes; tint both (warm cream light, warm-black dark). Pure white only with ultralight display type.
+   223→   223→- **Compatibility**: Universal.
+   224→   224→- **Complexity**: low
+   225→   225→- **Performance**: trivial
+   226→   226→- **Accessibility**: Must meet contrast AA in both themes.
+   227→   227→- **Adopt**: yes — tinted light + tinted dark; user-toggle with system preference default.
+   228→   228→
+   229→   229→### Numbered Projects
+   230→   230→- **Sources**: Phat Tran Tan (`01 02 03 04`)
+   231→   231→- **Why it works**: Indexes the work without showing it all at once. Reads as catalog, not gallery.
+   232→   232→- **Possible improvements**: Use as nav for a project list view, not just decorative.
+   233→   233→- **Compatibility**: Universal.
+   234→   234→- **Complexity**: low
+   235→   235→- **Performance**: trivial
+   236→   236→- **Accessibility**: Provide `aria-label="Project 1: Name"`.
+   237→   237→- **Adopt**: yes.
+   238→   238→
+   239→   239→### Frosted-Glass Sticky Header
+   240→   240→- **Sources**: Phat Tran Tan (`backdrop-blur`)
+   241→   241→- **Why it works**: Header stays accessible without occupying solid space; the blur signals "layer above content."
+   242→   242→- **Possible improvements**: Pair with a subtle hairline border that fades in on scroll.
+   243→   243→- **Compatibility**: Universal.
+   244→   244→- **Complexity**: low
+   245→   245→- **Performance**: backdrop-filter has cost on low-end mobile — provide fallback.
+   246→   246→- **Accessibility**: Ensure contrast remains AA when content scrolls behind.
+   247→   247→- **Adopt**: yes.
+   248→   248→
+   249→   249→### Single Accent on Role Phrase
+   250→   250→- **Sources**: Phat Tran Tan
+   251→   251→- **Why it works**: Concentrates attention without colorizing the entire hero.
+   252→   252→- **Possible improvements**: Use the accent consistently across the site for *only* the most important action (CTA, current section indicator, active link).
+   253→   253→- **Compatibility**: Universal.
+   254→   254→- **Complexity**: low
+   255→   255→- **Performance**: trivial
+   256→   256→- **Accessibility**: Don't rely on color alone.
+   257→   257→- **Adopt**: yes.
+   258→   258→
+   259→   259→### Live Date/Time Stamp in Footer
+   260→   260→- **Sources**: Ajvad Laseen, EMF (with timezone + location)
+   261→   261→- **Why it works**: Cheapest "site is alive" signal. Undermines the static-portfolio feeling.
+   262→   262→- **Possible improvements**: Include timezone. Update via `requestAnimationFrame`-throttled `setInterval`. Avoid SSR/CSR mismatch by hydrating after mount.
+   263→   263→- **Compatibility**: Pairs with footer-as-design-surface.
+   264→   264→- **Complexity**: low
+   265→   265→- **Performance**: trivial
+   266→   266→- **Accessibility**: Mark as decorative or `aria-live="off"`.
+   267→   267→- **Adopt**: yes.
+   268→   268→
+   269→   269→### Footer as Design Surface
+   270→   270→- **Sources**: Whilmar (`V2.0.26_STABLE` version stamp), EMF (live local time + timezone + location), Ajvad (live date stamp)
+   271→   271→- **Why it works**: The footer carries "site is alive" signals and brand details. Treats the footer as a real design surface, not boilerplate.
+   272→   272→- **Possible improvements**: Include version stamp, build hash, locale, and a quiet CTA.
+   273→   273→- **Compatibility**: Universal.
+   274→   274→- **Complexity**: low
+   275→   275→- **Performance**: trivial
+   276→   276→- **Accessibility**: Use semantic `<footer>`.
+   277→   277→- **Adopt**: yes.
+   278→   278→
+   279→   279→### 3D Scoped to a Single Surface
+   280→   280→- **Sources**: Whilmar Bitoco (WebGL2 particle field, hero only)
+   281→   281→- **Why it works**: A single hero-only 3D element reads as a signature, not a gimmick. Site-wide 3D reads as costume.
+   282→   282→- **Possible improvements**: Use a lightweight canvas-based particle field, not three.js, for performance. Pause when offscreen.
+   283→   283→- **Compatibility**: Conflicts with busy backgrounds. Pair with restrained palette.
+   284→   284→- **Complexity**: medium
+   285→   285→- **Performance**: Whimlar's WebGL2 particle field is low-density and hero-only — acceptable. Pause when offscreen.
+   286→   286→- **Accessibility**: Mark canvas as `aria-hidden="true"`; provide static fallback.
+   287→   287→- **Adopt**: yes — as hero signature element.
+   288→   288→
+   289→   289→### Typography Options Panel (code-as-interface)
+   290→   290→- **Sources**: Electric Magic Factory
+   291→   291→- **Why it works**: Positions the developer's craft (typography engineering) as the central interactive exhibit. First non-cosmetic "code-as-interface" pattern.
+   292→   292→- **Possible improvements**: Could be overwhelming on first visit. Consider hiding behind a `⌘+T` shortcut or a small "Type controls" toggle in the corner.
+   293→   293→- **Compatibility**: Pairs with strong type system.
+   294→   294→- **Complexity**: high
+   295→   295→- **Performance**: CSS-variable-driven, low runtime cost.
+   296→   296→- **Accessibility**: Provide presets; don't require manual adjustment for readability.
+   297→   297→- **Adopt**: adapt — adopt as a *quiet* feature (toggle, not default).
+   298→   298→
+   299→   299→### Pull-Over Keyframe (page-entry transition)
+   300→   300→- **Sources**: Barthélémy Pousset (sticky-note tab slides up to become the page)
+   301→   301→- **Why it works**: An element from the previous screen "becomes" the next. Original page-entry transition.
+   302→   302→- **Possible improvements**: Steal the principle, not the literal sticky-note. E.g., the hero's name could "carry over" into the next section's eyebrow.
+   303→   303→- **Compatibility**: Pairs with view transitions.
+   304→   304→- **Complexity**: medium
+   305→   305→- **Performance**: GPU-accelerated transform; trivial.
+   306→   306→- **Accessibility**: Honor `prefers-reduced-motion`.
+   307→   307→- **Adopt**: adapt — steal the principle of "element carry-over."
+   308→   308→
+   309→   309→### View Transitions with Shared-Element Names
+   310→   310→- **Sources**: EMF (`view-transition-name: main` + `title-1` + `title-2`)
+   311→   311→- **Why it works**: Designed blur+opacity page transitions. First *designed* page-transition pattern.
+   312→   312→- **Possible improvements**: Use shared-element names so the H1 of the source page morphs into the eyebrow of the destination.
+   313→   313→- **Compatibility**: Pairs with multi-page hybrid architecture.
+   314→   314→- **Complexity**: medium
+   315→   315→- **Performance**: Native browser API; performant.
+   316→   316→- **Accessibility**: Honor `prefers-reduced-motion`.
+   317→   317→- **Adopt**: yes — for route/section transitions.
+   318→   318→
+   319→   319→### Case Study Template (Breadcrumb + Date + Min-Read + ToC)
+   320→   320→- **Sources**: Ghulam Mujtaba (`/insights/<slug>`)
+   321→   321→- **Why it works**: Treats each project as a real piece of writing, not a card.
+   322→   322→- **Possible improvements**: Add a "next case study" footer link for serial reading.
+   323→   323→- **Compatibility**: Pairs with hero-only home + content subpages.
+   324→   324→- **Complexity**: medium
+   325→   325→- **Performance**: Static-rendered.
+   326→   326→- **Accessibility**: Use semantic `<article>` + `<nav>` for ToC.
+   327→   327→- **Adopt**: yes — for project detail views.
+   328→   328→
+   329→   329→### CV-Style Year-Range Anchors as Nav
+   330→   330→- **Sources**: EMF
+   331→   331→- **Why it works**: Doubles career history as nav anchors. Reads as "this person has a track record."
+   332→   332→- **Possible improvements**: Limit to 4-5 year-range anchors.
+   333→   333→- **Compatibility**: Pairs with footer-as-design-surface.
+   334→   334→- **Complexity**: low
+   335→   335→- **Performance**: trivial
+   336→   336→- **Accessibility**: Use `<nav>` with `aria-label="Timeline"`.
+   337→   337→- **Adapt**: consider — for the experience section.
+   338→   338→
+   339→   339→---
+   340→   340→
+   341→   341→## 3. Anti-Patterns (What NOT to do)
+   342→   342→
+   343→   343→| # | Anti-pattern | Observed in | Why it fails |
+   344→   344→|---|---|---|---|
+   345→   345→| 1 | Leaving `document.title` as the framework default | Krishnanand, Jayed, Fikri | Signals the portfolio is unfinished; tab is the first thing recruiters see. |
+   346→   346→| 2 | Dumping every GitHub repo into Works without curation | Bhushan Zade | Reads as "I ship tutorials, not products." Curation = signal of taste. |
+   347→   347→| 3 | Using OS-default fonts (Arial) for the H1 | Bhushan Zade | Undermines any visual concept. |
+   348→   348→| 4 | Shipping broken third-party widgets without a fallback | Bhushan Zade, Zyon | Reads as "this developer doesn't notice breakage." |
+   349→   349→| 5 | Cloning a template *and* leaving the original author's API URLs in the code | Bhushan Zade | Worse than generic — actively misleading. |
+   350→   350→| 6 | Google AdSense on a portfolio | Hassan Tech | instantly signals "I'm monetizing my job hunt." |
+   351→   351→| 7 | 9+ social links in nav | Hassan Tech | Decision paralysis; signals "I have no priorities." |
+   352→   352→| 8 | Replacing H1 with styled `<p>` tags | Jayed Rafi | Destroys document outline; SEO + AT breakage. |
+   353→   353→| 9 | Template placeholders (`youremail@example.com`) shipped to production | Akash | Reads as "I never finished." |
+   354→   354→| 10 | Multiple simultaneous Canvas2D backgrounds | Gunjan Ghate | Reads as visual noise; performance cost without cohesion. |
+   355→   355→| 11 | Empty "Coming Soon" subpages linked from main nav | Ajvad Laseen | Worse than no link — promises depth, delivers nothing. |
+   356→   356→| 12 | 9 H1s on a single page | Fikri Rozan | Destroys document outline. One H1 per page. |
+   357→   357→| 13 | Zero headings on the entire page | Barthélémy, Zyon | Page has no semantic structure. |
+   358→   358→| 14 | 4 H1s on a single page | Gunjan Ghate | Same as above. |
+   359→   359→| 15 | Bangers H1 at 36px on a serious portfolio | Gunjan Ghate | Comic-Sans-adjacent; undermines credibility. |
+   360→   360→| 16 | 64 tech-stack PNGs as a "skills" section | Gunjan Ghate | Reads as logo soup, not skills. Use prose + a small curated stack. |
+   361→   361→| 17 | 86 CSS keyframes on one page | Ghulam Mujtaba | Violates commitment-over-kitchen-sink. |
+   362→   362→| 18 | "NaN%" rendered to the user | Zyon Tiangson | Reads as "I don't notice my own bugs." |
+   363→   363→
+   364→   364→---
+   365→   365→
+   366→   366→## 4. Open Questions / Tensions to Resolve
+   367→   367→
+   368→   368→- **Hero motion that orients** — still unsolved across 20 portfolios. No portfolio has a hero motion that *orients* the user. Carry to round 2.
+   369→   369→- **Custom cursor that adds UX** — still unsolved. Carry to round 2.
+   370→   370→- **Scroll-driven section transitions** — still unsolved. Carry to round 2.
+   371→   371→- **Sound** — still unsolved. Likely intentionally rare. Carry to round 2.
+   372→   372→- **Real 3D scene** (not just particles) — still unsolved. Carry to round 2.
+   373→   373→- **Code-as-interface, deeper resolution** — EMF partially solved this. Is there a portfolio that goes further (live playground, interactive diagram, etc.)?
+   374→   374→- **Light vs dark default** — both viable. Need a tiebreaker.
+   375→   375→- **How literal should the metaphor be?** Triet's shell works because it's his domain. For full-stack, how do we pick a metaphor broad enough?
+   376→   376→
+   377→   377→---
+   378→   378→
+   379→   379→## 5. Provisional Design Principles (Revised Continuously)
+   380→   380→
+   381→   381→1. **Restraint over abundance.** Premium feels come from what is *removed*, not what is added.
+   382→   382→2. **Motion must mean something.** No decorative animations; every transition should orient, reveal, or reward.
+   383→   383→3. **Typography is the interface.** Most "premium" portfolios lean on type, not chrome.
+   384→   384→4. **One signature conceptual metaphor** — not just one signature interaction. The metaphor shapes content structure, not just decoration.
+   385→   385→5. **Performance is a feature.** A portfolio that loads fast *feels* premium before any visual registers.
+   386→   386→6. **Curate ruthlessly.** Three excellent projects beat thirty decent ones.
+   387→   387→7. **The tab title is part of the design.** Never leave it as the framework default.
+   388→   388→8. **Commit to a register.** Both minimalism and richness work; what fails is the kitchen-sink middle. Pick a register and commit. *(Added after Batch 3.)*
+   389→   389→9. **Tinted neutrals, never pure.** Unless paired with ultralight display type at very large sizes. *(Added after Batch 2, refined after Batch 4.)*
+   390→   390→10. **The footer is a design surface, not boilerplate.** Use it for "site is alive" signals. *(Added after Batch 3.)*
+   391→   391→11. **The home page is a brand statement; depth lives one click away.** *(Added after Batch 2.)*
+   392→   392→12. **3D belongs on one surface, not site-wide.** *(Added after Batch 3.)*
+   393→   393→13. **The metaphor shapes labels and metadata, not content shapes.** *(Added after Batch 3.)*
+   394→   394→

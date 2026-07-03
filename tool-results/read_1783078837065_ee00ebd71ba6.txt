@@ -1,0 +1,1927 @@
+     1→# Developer Portfolios
+     2→
+     3→A list of developer portfolios for your inspiration
+     4→
+     5→Have you built a portfolio? Are you proud of it?! Open a [Pr](./CONTRIBUTING.md) to this repo and
+     6→
+     7→This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
+     8→
+     9→<a href="https://twitter.com/ASpittel/status/1171604728951779328">
+    10→        <img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png">
+    11→</a>
+    12→
+    13→This repo can serve as inspiration for your portfolio!
+    14→
+    15→[Developer Portfolios Website](https://6e87v.hatchboxapp.com)
+    16→
+    17→## Current Portfolio Count: 1807
+    18→
+    19→**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
+    20→| [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
+    21→| [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
+    22→[Random Portfolio](https://s111ew.github.io/random-button-redirector)
+    23→
+    24→---
+    25→
+    26→## A
+    27→- [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
+    28→- [Aaabaad Al Aziz](https://red1-for-hek.vercel.app) [Full Stack Engineer]
+    29→- [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
+    30→- [Aabraham James](https://seera.framer.website)
+    31→- [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app) [Software Engineer & Web Developer]
+    32→- [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
+    33→- [Aahana Bobade](https://aahanabobade.com) [Software Developer]
+    34→- [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
+    35→- [Aakash Sharma](https://aakash-sharma.netlify.app)
+    36→- [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer] - Animated
+    37→- [Aaleksa Janjic](https://akkila.dev) [Full Stack Developer]
+    38→- [Aanand Madhav](https://aanandmadhav.com) [Senior PM | UX]
+    39→- [Aarab Nishchal](https://aarab.vercel.app) [Engineering Student | Full Stack Developer]
+    40→- [Aarav Gupta](https://aarus2709.me)
+    41→- [Aaron Dunphy](https://aarondunphy.com)
+    42→- [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
+    43→- [Aashay Wase](https://aashay-dev-ed.develop.my.site.com/AashayWase/s) [Salesforce Developer]
+    44→- [Aashir Khan](https://portfolio-n4sn.vercel.app)
+    45→- [Aashish Jaini](https://aashishjaini.me) [Freelancer | AI & Full Stack Dev]
+    46→- [Aashutosh Rathi](https://aashutosh.dev)
+    47→- [Aathif Zahir](https://az-dev.vercel.app)
+    48→- [Aaweł Szostak](https://pawelszostak.vercel.app) [Full Stack Dev | Freelancer | AI & ML Student]
+    49→- [Aayush Bharti](https://aaabaa-aayush.vercel.app) [Developer | Freelancer | Problem Solver]
+    50→- [Aayush Mishra](https://aayush-mishra.xyz) [Front-End Developer]
+    51→- [Aayush Raj](https://ayushcmd.me) [Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer]
+    52→- [Aayush Sood](https://www.aayushsood.com)
+    53→- [Abbas Raza](https://abbasraza.dev) [Software Engineer | Freelancer | AI & Blockchain Enthusiast]
+    54→- [Abdalwahed Aldaghir](https://awrs.me/en)[Software Engineer | Flutter Developer | Mobile Developer]
+    55→- [Abdelaziz El Arassi](http://aelarassi.com)
+    56→- [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
+    57→- [Abdul Basit](https://abdulbasit-005.vercel.app) [Full Stack Web Developer | MERN Stack | AI Automation (n8n)]
+    58→- [Abdul Jaber](https://aj7.is-a.dev)
+    59→- [Abdul Mannan](https://mannan.io) [Senior Front-end Engineer]
+    60→- [Abdul Momin](https://abdulmomin.dev) [Software Engineer | Full Stack Engineer]
+    61→- [Abdul Quddus](https://quddus.is-a.dev) [Typescript Developer]
+    62→- [Abdul Rahman](https://abdulrahman.id)
+    63→- [Abdul Rauf](https://armujahid.me)
+    64→- [Abdul Rehman Waseem](https://abdulrehmanwaseem.me) [Full Stack Developer | 3D Web Specialist]
+    65→- [Abdul Samad](https://samadd.vercel.app) [Software Developer]
+    66→- [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer]
+    67→- [Abdullah Ahmed](https://abdallaahmed.icu) [Full Stack Developer]
+    68→- [Abdullah Al Monir](https://abdullahalmonir.com) [Full Stack Developer]
+    69→- [Abdullah Ayoola](https://ayooladev.vercel.app)
+    70→- [Abdullah Bozdağ](https://abdullahbozdag.com) [Full Stack Developer]
+    71→- [Abdullah Iqbal](https://abdullah-portfolio-dev.vercel.app) [Full Stack Developer]
+    72→- [Abdullah James](https://portfolio-website-abdullah-jamess.vercel.app) [Ai | Full Stack Developer]
+    73→- [Abdullah Waheed](https://abdullahw-portfolio.vercel.app) [Front-End Developer]
+    74→- [Abdullah Warraich](https://abdullah-warraich-ch.vercel.app)
+    75→- [Abdur Rahman](https://itsmeabdur.in) [Full Stack developer]
+    76→- [Abdusamad Malikov](https://www.abdusamad.uz)
+    77→- [Abhay Rana](https://abhayrana.com) [Full Stack Developer]
+    78→- [Abhijeet Bhale](https://abhijeetbhale.github.io/Portfolio) [Software Engineer]
+    79→- [Abhijeet Singh Parihar](https://abhijeet-singh-parihar-portfolio.vercel.app) [Software Engineer]
+    80→- [Abhijit Mondal](https://abhijitmondal.info) [Full Stack Web Developer | React, Next.js, Python]
+    81→- [Abhinandhan Devadiga](https://abhicodestudio.com)
+    82→- [Abhinav Galodha](https://www.galodha.com)
+    83→- [Abhinav Jaiswal](https://iabhinav.me) [Software Engineer]
+    84→- [Abhinav Jaiswal](https://terminal.iabhinav.me) [Terminal Portfolio]
+    85→- [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
+    86→- [Abhinay Thakur](https://abhinaythakur.com)
+    87→- [Abhisek Panda](https://abhisekpanda072.vercel.app) [Front-End Developer | MERN Stack Developer | Freelancer]
+    88→- [Abhishek Agrawal](https://abhish0.github.io/My-Portfolio/) [Full Stack Developer]
+    89→- [Abhishek Anand](https://abhishekdev-portfolio.vercel.app) [Software Engineer | Full Stack Developer]
+    90→- [Abhishek Bhardwaj](https://www.imabhishek.site)
+    91→- [Abhishek Ganvir](https://abhishekganvir.vercel.app) [Full Stack Developer]
+    92→- [Abhishek Ghimire](https://www.abhishekg.com.np) [Software Engineer]
+    93→- [Abhishek Kandel](https://abhishekkandel.com.np)
+    94→- [Abhishek Panchal](https://skillstackpanchal.vercel.app)
+    95→- [Abhishek Panthee](https://abhishekpanthee.com.np)
+    96→- [Abhishek Sah](https://www.abhisheksah.dev) [Software Engineer]
+    97→- [Abhishek Singh](https://www.abhishekworks.com) [Full Stack Developer]
+    98→- [Abinash Sharma](https://abinash-sharma.pages.dev) [Software Developer | MCA | Cloud | AI]
+    99→- [Abraham Bankole](https://abrahambankole.dev)[Software Engineer | Full Stack Web Developer]
+   100→- [Abu Suhaib](https://ceo.pronexus.in) [Leading Startup Founder]
+   101→- [Abubakr Mufutau-Oseni](https://abubakrmo.com)
+   102→- [Achyut Katiyar](https://www.achyutkatiyar.com) [Full Stack Developer| UI/UX Desginer]
+   103→- [Adam Alston](https://www.adamalston.com)
+   104→- [Adam Williams](https://adjwilli.github.io)
+   105→- [Adarsh Kumar](https://portfolio-e7gt.onrender.com) [Full Stack Developer | Software Developer]
+   106→- [Adarsh Singh](https://adarshsinghh.vercel.app) [Software Engineer]
+   107→- [Adebanjo Stephen](https://myportfoliome.vercel.app) [Sofware Engineer]
+   108→- [Adham Dannaway](https://www.adhamdannaway.com) [Ux/Ui Designer & Frontend Developer]
+   109→- [Adina Hawaldar](https://www.adinaa.me) [Web Designer & Developer]
+   110→- [Adithya Krishnan](https://www.adithyakrishnan.com)
+   111→- [Aditi Arya](https://aditiarya.netlify.app) [Software Engineer]
+   112→- [Aditya Chaudhary](https://aditya-portfolio-dusky.vercel.app)
+   113→- [Aditya Chauhan](https://aditya-chauhan.vercel.app) [Full Stack Developer]
+   114→- [Aditya Domle](https://adittya.site) [Software Developer | Freelancer]
+   115→- [Aditya Dubey](https://adityacodes.in)
+   116→- [Aditya Dutt Pandey](https://www.adpandey.com) [Founder | Backend Engineer | System Architect]
+   117→- [Aditya Kumar Gupta](https://aditya30051993.github.io/my-portfolio) [Doctor & Developer]
+   118→- [Aditya Kumar Srivastava](https://adityasri.in) [Full Stack Developer (Mern & Java Springboot Developer)]
+   119→- [Aditya Kumar](https://www.adityakr.com)
+   120→- [Aditya Medhe](https://aditya.medhe.in)
+   121→- [Aditya Pillai](https://aditya-pillai.vercel.app) [Computer Science Undergraduate | SWE Intern]
+   122→- [Aditya Poojary](https://adityapoojary.dev) [Software Developer]
+   123→- [Aditya Punmiya](https://adityapunmiya.com) [Software Engineer]
+   124→- [Aditya Rahmad](https://adxxya30.vercel.app) [Software Developer]
+   125→- [Aditya Raj Srivastava](https://portfolio-lilac-eight-33.vercel.app) [Full Stack Developer]
+   126→- [Aditya Seth](https://adityaseth.in) [Software Developer & DevOps Architect]
+   127→- [Aditya Thakur](https://adityathakur.me) [Software Engineer | Full-Stack Engineer]
+   128→- [Aditya Vikram Singh](https://www.adityavsingh.com)
+   129→- [Aditya](https://aditya-a-portfolio.vercel.app) [Full Stack Developer | Software Developer]
+   130→- [Adityakumar Sinha](https://aditya113141.github.io)
+   131→- [Adrian Hansen](https://adrian-hansen-dev.github.io/portfolio/) [Software Developer]
+   132→- [Advait Nair](https://advaitnair.org) [Full Stack Engineer]
+   133→- [Adwitya](https://adwityac.netlify.app)
+   134→- [Afam Olie](https://afamolie.com) [Full Stack Developer]
+   135→- [Afaq Awan](https://afaq35202.github.io) [Mobile App Developer]1
+   136→- [Afjal Ansari](https://md-afjal-ansari.onrender.com) [Mern-Stack Developer]
+   137→- [Aftab Alam](https://datasciencefolio.streamlit.app) [An Open-Source, Customizable Portfolio Template For Ai/Ml/Dl Developers And Data Scientists]
+   138→- [Aggelos Ladas](https://aggelosladas.com) [Spring Boot Backend | Android Developer]
+   139→- [Agney Menon](https://agney.dev)
+   140→- [Agrawal Pratham](https://agrawalpratham.in)
+   141→- [Ahamed Kabeer](https://aktech27.github.io) [Mern Full Stack Developer]
+   142→- [Aharon Zilberman](https://ahronsilv.dev) [Full Stack & React Native Engineer | Mobile Infrastructure, Native Integrations & AI-assisted Delivery]
+   143→- [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
+   144→- [Ahmad Awais](https://ahmadawais.com)
+   145→- [Ahmad Faraz](https://theahmadfaraz.com) [Full Stack Developer]
+   146→- [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End Web Developer]
+   147→- [Ahmed Allali](https://portfolio-ahmed-allalis-projects.vercel.app) [Front-End Developer | ahallali.duckdns.org]
+   148→- [Ahmed Tokyo](https://ahmedtokyo.com) [Senior Software Engineer | Ai]
+   149→- [Ahmet Eren Odacı](https://ahmete.ren)
+   150→- [Aishani Pachauri](https://aishanipach.netlify.app)
+   151→- [Aitezaz Sikandar](https://aitezazdev.vercel.app) [Full Stack Developer]
+   152→- [Ajay Kannan](https://ajaykannan.netlify.app)
+   153→- [Ajay Pawar](https://ajay-pawar.vercel.app) [Full Stack Developer]
+   154→- [Ajink Gupta](https://ajinkgupta.vercel.app)
+   155→- [Ajvad Laseen](https://ajvadlaseen.com) [Full Stack Developer]
+   156→- [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
+   157→- [Akash Kumar](https://portfolio-site-git-main-akash-kumar5s-projects.vercel.app) [Quant Developer | Full Stack]
+   158→- [Akash Rajpurohit](https://akashrajpurohit.com)
+   159→- [Akash Samanta](https://akashcraft.ca) [Full Stack Developer]
+   160→- [Akashkumar Jadav](https://akashjadav.com) [Founder & Senior Full Stack Engineer]
+   161→- [Akhileswar Kamale](https://akhileswar6.github.io/Portfolio/) [Full Stack Developer]
+   162→- [Akhshy Ganesh](https://akhshyganesh.github.io) [Full Stack Developer | Solution Architect]
+   163→- [Akira Yoshiro](https://gungho0619.vercel.app) [Full Stack Developer Web | Blockchain]
+   164→- [Akli Massinissa Sadek](https://sadoukas.com) [Full Stack Developer | Freelance Services]
+   165→- [Akshat Gupta](https://www.akshatvg.com)
+   166→- [Akshat Kotpalliwar Alias Integeralex](https://realtalkportfolio.vercel.app) [Full Stack Developer | Old School Portfolio]
+   167→- [Akshay Abraham](https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=dev_portfolios") [Aspiring Physicist | Backend & Research-Oriented Developer| Frontend For Hobby]
+   168→- [Akshay Santhoshkumar](https://akshaysanthoshkumar.vercel.app) [Full Stack 3D Software Developer]
+   169→- [Akshay](https://devakshay.vercel.app)
+   170→- [Al Amin](https://alamin-portfolio-site.vercel.app) [Full Stack Developer]
+   171→- [Alan Hamlett](https://ahamlett.com) [Founder & Ceo @Wakatime]
+   172→- [Alan Khalili](https://www.alan-khalili.com)
+   173→- [Alejandro Gomez](https://alejandro-gomez.vercel.app)
+   174→- [Alejandro Sobko](http://alejandrosobko.com)
+   175→- [Aleksandar Pajić](https://www.aleksandarpajic.co) [Software Developer & Designer]
+   176→- [Aleksei Ross](https://ross.aleksei.digital/98?ref=emmabostian) [Tech Lead & Sr. Software Engineer]
+   177→- [Alestor Aldous](http://alestor123.github.io)
+   178→- [Alex Michailidis](https://alexandros.tech)
+   179→- [Alexandre Fernandes](https://alexandrefernandes.dev) [Software Engineer | AI/ML & Full Stack]
+   180→- [Alexandre Trotel](https://www.alexandretrotel.org)
+   181→- [Alexey Golub](http://tyrrrz.me)
+   182→- [Alexis De Jesus](https://www.aalexis.fr) [Full Stack Developer]
+   183→- [Alfred Dagenais](https://alfreddagenais.com)
+   184→- [Ali Ahtisham](https://aliahtisham.pro) [Professional Web Developer]
+   185→- [Ali Mohsin](https://www.ali-ch.dev) [Architect Of Ai-Driven Systems | Machine Learning, Security, And Full Stack Engineering]
+   186→- [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]
+   187→- [Allan Im](https://allanim.com) [Software Engineer]
+   188→- [Allan Muturi](https://allanmuturi.vercel.app)
+   189→- [Almaz Bisenbaev](https://almazb.vercel.app) [Web Developer]
+   190→- [Aloys Dillar](https://trolologuy.github.io)
+   191→- [Althruist](https://althruist.fyi) [Game Developer]
+   192→- [Alucard](https://dg.aluc.me) [Full Stack Engineer | AI, Founder]
+   193→- [Alvalens](https://www.alvalens.my.id)
+   194→- [Aman Anku](http://amananku26.github.io)
+   195→- [Aman Bam](https://my-portfolio-d7jf.vercel.app) [Full Stack Developer]
+   196→- [Aman Kumar](https://amankumar.ai) [Product | Ai Engineer]
+   197→- [Aman Mittal](http://amanhimself.dev)
+   198→- [Aman Rai](https://obliviousaman.netlify.app) [Frontend Developer | Vue.js, GSAP Animations, Bilingual English/Japanese Web Apps]
+   199→- [Aman Rawat](https://amanrwt.com) [AI-Native Software Engineer | Frontend Developer]
+   200→- [Aman Shrivastava](https://aman04.netlify.app)
+   201→- [Ameer Muavia Shah](https://maveeshah.github.io/projects.html) [Frappe | Erpnext | Python]
+   202→- [Ameya Ramteke](https://ameyajarvis.qzz.io) [AI & DS Student]
+   203→- [Amine Rebbouh](https://main.dodjas56cfa3.amplifyapp.com)
+   204→- [Amir Akbulut](https://amirdev.nl)
+   205→- [Amirali Rashidi](https://amiralirashidi.github.io) [Front-End Developer]
+   206→- [Amit Kumar Raj](https://amitkumarraj.vercel.app) [Full Stack Developer | MERN]
+   207→- [Amit Sah](https://amit-sah.com.np) [Ios Developer | Backend Engineer (Node.Js, Llms) | Cloud Computing]
+   208→- [Amresh Prasad Sinha](https://amreshsinha.vercel.app)
+   209→- [Amruth Pillai](https://amruthpillai.com)
+   210→- [Ana Sá Oliveira](https://ana.is-a.dev)
+   211→- [Anadi Sharma](https://asharma.tech) [Software Engineer | Cse'25 Iit Jodhpur]
+   212→- [Anamuddin Ahmad](https://github.com/AnamuddinAhmad/Portfolio_1) [Software Engineer & Freelancer]
+   213→- [Anand Thakkar](https://www.anandthakkar.com) [Software Developer & Tech Creator]
+   214→- [Anandhu Sajan](https://anandhusajan.com) [Full Stack Developer | Cybersecurity & Network Forensics Specialist | UI/UX | NextJs • React Native • WordPress • Creative Designer]
+   215→- [Ananya Biswas](https://dub.sh/ananyabiswas)
+   216→- [Anas Boubechra](https://cschad.com)
+   217→- [Anav Chand](https://www.anav.dev) [Software Engineering Student | DevOps & AI Enthusiast.]
+   218→- [Anay Paraswani](https://anayparaswani.dev)
+   219→- [Andrea Ojeda](https://www.andreaoz.com)
+   220→- [Andrej Sharapov](https://sharapov.dev)
+   221→- [Andres Alcaraz](https://andres-alcaraz.netlify.app)
+   222→- [Andrew Smith](https://andrew.codes)
+   223→- [Andrew Woods](https://andrewwoods.net)
+   224→- [Andrey Perestoronin](https://prs2rnn.github.io) [Python Backend Developer]
+   225→- [Andrianaivo Blaise Ismael](https://andrianaivo-ismael.vercel.app/admin)
+   226→- [Andrii Ponomarienko](https://andriiponomarenko.vercel.app) [Frontend Developer | React, Vue, Typescript]
+   227→- [Andrii Zontov](https://lwjerri.dev)
+   228→- [André De Faria](https://andredfaria.github.io)
+   229→- [André Souza](https://an3dree.dev) [Backend Developer]
+   230→- [Andy Bell](https://andy-bell.design)
+   231→- [Andy Wong](https://www.andy-hk.com) [Full Stack Developer | Mobile App Developer]
+   232→- [Aneeth Kumaar](https://akwastaken.github.io) [Graphic Designer | Programmer]
+   233→- [Angkon Kar](https://angkonkar.netlify.app) [‍Frontend Engineer | 👨🏽‍💻 Computer Engineering Student]
+   234→- [Anh Duong](https://dhlananh-dev-portfolio.vercel.app) [‍Frontend Developer]
+   235→- [Anh Nguyen](https://anhnq15.github.io) [Software Engineer]
+   236→- [Anik Ahammed Khan](https://anikahammedkhan.com)
+   237→- [Aniket Joshi](https://aniketj.dev) [Software Architect]
+   238→- [Aniket Kudale](https://aniket.co)
+   239→- [Anil Khatri](https://imkaka.github.io)
+   240→- [Anil Peter](https://anilpeter.vercel.app) [[‍Frontend Developer]
+   241→- [Anirban Banerjee](https://anirban-portfolio-delta.vercel.app) [Data Architect | Data & AI Engineer]
+   242→- [Anish Biswas](https://anish7.me) [Full Stack Dev]
+   243→- [Anish Navalgund](https://anishknavalgund.vercel.app) [AI, Robotics and Automation]
+   244→- [Ankit Dey](https://dub.sh/ankitdey)
+   245→- [Ankit Jha](https://ankitjha.vercel.app) [MERN stack developer]
+   246→- [Ankit Mohanty](https://ankitmohanty.vercel.app) [Software Developer]
+   247→- [Ankit Raj](https://neokit.app) [Full Stack Developer | Web & App | DevOps]
+   248→- [Ankit Roy](https://ankit-roy.netlify.app) [Software | Backend | Bot Developer and AI Automation]
+   249→- [Ankur Bag](https://www.ankurbag.tech) [Full Stack Dev with GenAI]
+   250→- [Ankush Minda](http://ankushminda.com)
+   251→- [Ankush Rathour](https://ankushrathour.com) [Software Engineer | Full Stack Specialist]
+   252→- [Anshul Chauhan](https://anshulchauhan.dev) [Full Stack Developer | Ios-Style Portfolio]
+   253→- [Anshul Dev](https://github.com/AnshulGora/portfolio_template_v1) [Software Developer | Web Solutions]
+   254→- [Anshul Gora](https://anshulwork.netlify.app)
+   255→- [Anshul Raman](https://www.anshulraman.com)
+   256→- [Anshuman Jha](https://anshuman-jha.vercel.app)
+   257→- [Anthony MAHEFASOA](https://thony32.tech)
+   258→- [Anthony Odumodu](https://antonodu.netlify.app)
+   259→- [Antoine Dangleterre](https://antoinedangleterre.com)
+   260→- [Anton Bojko](https://mrtoxas.github.io/cv/portfolio)
+   261→- [Anton Manaev](https://antonmanaev.name) [AI | Full Stack Developer | Designer]
+   262→- [Antonio Ferreiro](https://toniferr.github.io)
+   263→- [Antonio Ranivoarison](https://tsioryantonio.vercel.app) [Full Stack Developer & Aspiring AI / Ml Engineer]
+   264→- [Antony Jude Shaman](https://antonyjudeshaman.vercel.app)
+   265→- [Antônio Junior](https://portfolio-antonio-ten.vercel.app)
+   266→- [Anuj Magar](https://anujmagar.com.np) [Full Stack Developer]
+   267→- [Anukool Patel](https://anukool.me) [Full Stack Developer | AI]
+   268→- [Anup Pradhan](https://www.anuppradhan.in) [Full Stack Developer | Terminal Portfolio]
+   269→- [Anurag Affection](https://anuragaffection.vercel.app)
+   270→- [Anurag Zete](https://portfolio-anuragzete.web.app) [Software Engineer]
+   271→- [Anushka Isuranga](https://anushkaisuranga.github.io) [Full Stack Developer]
+   272→- [Anuvab Das](https://anvv.tech) [Full Stack App/Web and Embedded Systems Engineer]
+   273→- [Anzhelika Kostyuk](https://a-coderr.github.io/portfolio-website) [Software Developer]
+   274→- [Aprameya Kannan](https://aprameyak.vercel.app)) [Software Engineer]
+   275→- [Aradhya Pavan](https://aradhyapavan.github.io) [Full Stack Web Dev & Aspiring Ai / Ml Engineer]
+   276→- [Aradhya Puneeth](https://aradhyapuneeth.github.io) [DevOps Engineer]
+   277→- [Arafat Hossan](https://arafat.com.bd) [Full Stack Developer]
+   278→- [Aravinthaprasath Venkataramanan](https://aravinthvr.github.io/portfolio/?utm_source=github&utm_medium=developer-portfolios&utm_campaign=personal_branding&utm_content=v1_27_07_25) [Software Engineer | Aspiring Data Scientist]
+   279→- [Arbaz Ansari](https://arbazansari.dev) [Full Stack Software Engineer | Exploring GenAi & Systems Design]
+   280→- [Arctan2](https://arctan2.github.io) [Full Stack | Frontend Heavy | Software Generalist]
+   281→- [Areeb Ahmed](https://areebahmed-portfolio.netlify.app)
+   282→- [Arhaan Siddiquee](https://arhaan-dev.vercel.app) [Full Stack Developer]
+   283→- [Ariel Andrade](https://sudoariel.github.io)
+   284→- [Aries Chang](https://ariesjchang.com) [Software Engineer]
+   285→- [Arjad Gohar](https://arjad-portfolio.netlify.app) [Full Stack Developer]
+   286→- [Arjun Ganesan](https://arjunganesan.com)
+   287→- [Arka Mahajan](https://arkamahajan.in) [Robotics Engineer | IOT Enthusiast]
+   288→- [Armel Munyaneza](https://munyaneza.vercel.app)
+   289→- [Arne Jacob](https://dudeldups.dev) [Full Stack Developer]
+   290→- [Arsh Mishra](https://windows-xp-portfolio-tau.vercel.app) [Full Stack Engineer | Systems Builder | Event-Driven System Design | Full Stack Application Architecture | AI-Integrated Data Processing Pipelines]
+   291→- [Arshad Mq](https://arshadmq.com) [Sr. Full Stack Developer And Freelancer]
+   292→- [Arshdeep Singh](https://arshdeepsingh.me)
+   293→- [Arslan Sarfraz](https://arslansarfraz.github.io/portfolio)
+   294→- [Artem Okhten](https://okhten.com) [Applied Mathematics | Machine Learning & Software Engineering]
+   295→- [Arthur Rasera](https://raseraa0.github.io) [Software Engineer]
+   296→- [Artur Bień](https://expensive.toys) [Ui & Frontend Developer]
+   297→- [Arup Mandal](https://arupmandal.github.io)
+   298→- [Aryan Gupta](https://aryancodes.tech) [Backend Developer | Golang | PostgreSQL]
+   299→- [Aryan Hooda](https://personal-portfolio-gamma-gold-55.vercel.app) [Full Stack Web Developer]
+   300→- [Aryan Maurya](https://amsrportfolio.netlify.app) [Full Stack Web + App + Game Developer]
+   301→- [Aryan Raj](https://www.aryanraj.cv) [Machine Learning Engineer]
+   302→- [Aryan Rajguru](https://aryan-r-pfp.netlify.app) [Full Stack Developer (Python + MERN)]
+   303→- [Asad Saeed](https://asad-saeed-portfolio.vercel.app) [Full Stack Developer]
+   304→- [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
+   305→- [Asamit](https://asamitportfolio.vercel.app)
+   306→- [Asfakur Nariz](https://asfakur-portfolio-nextjs.vercel.app) [Front-end Developer || UI/UX Designer || Full Stack Developer]
+   307→- [Ashak Zahin Hasan](https://aboutzahin.pages.dev)
+   308→- [Ashar DevX](https://ashardevx.com) [Frontend & CMS Developer | WordPress, Shopify & React, Php, Html, CSS]
+   309→- [Ashar Kamran](https://asharkamran.netlify.app) [Full Stack & Cms Developer | Content Creator]
+   310→- [Ashik Saleem](https://ashik.ie) [Full Stack Developer | Data + DevOps]
+   311→- [Ashikur Rahaman](https://portfolio-by-ashik.netlify.app)
+   312→- [Ashim Rudra Paul](https://ashimrudrapaul.com) [Software Engineer | Gen AI Engineer & Cloud Architect]
+   313→- [Ashish Madan](https://ashishmadan.netlify.app) [Senior Software Engineer | Full Stack Developer]
+   314→- [Ashish Mehra](https://ashishmehra.dev)
+   315→- [Ashish Namdeo](https://ashishnamdeo.com)
+   316→- [Ashlok Chaudhary](https://ashlok.dev) [Full Stack Developer || DevOps]
+   317→- [Ashutosh Dhakre](https://thecodehead.com) [Senior Software Engineer | Full Stack Developer]
+   318→- [Ashutosh Pandey](https://about.ashutoshcodes.in) [Backend Developer | Llm And Agentic Ai Engineer | Langchain Expert]
+   319→- [Ashwin Hariharan](https://ashwinhariharan.com/software-engineering) [Full Stack Developer]
+   320→- [Asif Javed](https://asifjaved.dev) [Software Engineer]
+   321→- [Asmaa Abdul-Amin](https://asmaa.dev) [Software Engineering Student | Full Stack Developer]
+   322→- [Aster Li](https://asterjuneli.com)
+   323→- [Astruc Laurent](https://lastbrain.fr) [Freelance [FR] | FullStack Developer]
+   324→- [Aswin](https://www.aswincloud.com) [Software Engineer]
+   325→- [Atal Sairam Kumar Patro](https://itsairamkumar.github.io/portfolio/) [Cloud & DevOps Engineer]
+   326→- [Atanas Atanasov](https://atanas.info)
+   327→- [Ateeb Shahid](https://teebs339.github.io/portfolio) [Rpa Developer | Ai Automation]
+   328→- [Atharva Kote](https://atharvakote.netlify.app) [Full Stack Developer | DevOps]
+   329→- [Atul Gupta](https://atul-portfolio-work.vercel.app) [Full Stack Developer]
+   330→- [Atul Kumar Awasthi](https://atultheportfolio.netlify.app)
+   331→- [Augusto Polonio](https://augustopolonio.vercel.app) [Game Developer | Senior Full Stack Engineer]
+   332→- [Auroob Ahmad](https://auroob.github.io/dev-port)
+   333→- [Austin Gericke](https://www.austingericke.com)
+   334→- [Austin Pham](https://auspham.dev)
+   335→- [Austin Serb](https://www.austinserb.com) [Full Stack Developer]
+   336→- [Avinash Pauskar](https://avinashhhportfolio.netlify.app)
+   337→- [Avinash Singh](https://www.avinash-singh.in) [Full Stack Developer]
+   338→- [Avinash Suthar](https://avinashsuthar.in) [Full Stack Developer]
+   339→- [Avinash](https://avinash-portfolio-v3.web.app) [Web Dev And Ai Eng.]
+   340→- [Avisek Ray](https://avisek.codeltix.com) [Full Stack Developer]
+   341→- [Avnish Kumar](https://theavnishkumar.in) [Full Stack Developer]
+   342→- [Axel Lönnby Wesselgren](https://axelwesselgren.dev) [Full Stack Developer]
+   343→- [Ayaan Ansari](https://me.aiyu.co.in)
+   344→- [Ayanabha Misra](https://ayanabha.life)
+   345→- [Aycan Öğüt](https://aycan.dev)
+   346→- [Ayfri](https://ayfri.com)
+   347→- [Ayman Ismail](https://aymanismail.com) [Software Engineer | Full Stack Developer]
+   348→- [Ayodele Ayoola](https://www.ayodeleayoola.com) [Software Developer | Frontend Heavy Full Stack]
+   349→- [Ayoub Alahyane](https://aalahyan3.tech)
+   350→- [Ayush Acharya](https://ayushacharya.vercel.app) [Passionate - Full Stack Software Developer]
+   351→- [Ayush Das](https://ayushdas.vercel.app) [Full Stack Developer]
+   352→- [Ayush Kumar Gupta](https://ayyush08.vercel.app) [Full Stack Developer]
+   353→- [Ayush Kumar](https://ayushj.is-a.dev)
+   354→- [Ayush Nighoskar](https://ayushn.netlify.app)
+   355→- [Ayush Patel](https://ayushpatel996.github.io/portfolio/) [Developer | Software Development Engineer II]
+   356→- [Ayush Pradhan](https://ayushpradhan29.netlify.app) [Full Stack Developer | Computer Vision Engineer | Well-versed in modern tech stacks]
+   357→- [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app)
+   358→- [Azel](https:omargpax.vercel.app) [Software Developer - Full Stack]
+   359→- [Azwad Fawad Hasan](https://azwadfawadhasan.github.io/resume/) [SWE | Researcher | Tech Enthusiast]
+   360→
+   361→## B
+   362→
+   363→- [Badhon Ai](https://www.badhon.online)
+   364→- [Badhon Biswas](https://badhonbiswas.vercel.app)
+   365→- [Bakare Afolabi](http://afolabibakare.netlify.app)
+   366→- [Balkrishna](https://balkrishnabk.com.np)
+   367→- [Bana Tawalbeh](https://rknastenka.com) [Computer Engineer | Developer]
+   368→- [Bandi Revanth](https://bandirevanth.github.io) [Ai/Ml Systems Architect & Full Stack Engineer]
+   369→- [Baptiste Miramont](https://baptistemiramont.fr)
+   370→- [Barnabas Varga](https://barnabasvarga.com)
+   371→- [Barnav Mitra Jos](https://jos.gg) [Software, Devops, & UGC Engineer]
+   372→- [Barthélémy Pousset](https://barthelemypousset.com) [Full Stack Developer | DevOps]
+   373→- [Basil Suhail](https://basilsuhail.com) [AI Driven Developer | Apps, Data & Finance]
+   374→- [Bassam Alaraby](https://bassamalaraby.me) [CS Student | Web Dev]
+   375→- [Bastian Asmussen](https://asmussen.tech) [Systems Programmer | Rust, Nix & Linux]
+   376→- [Batuhan Eroğlu](https://batuhan.tech) [Full Stack Developer]
+   377→- [Baymax](https://www.sitaramoli.com.np)
+   378→- [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer]
+   379→- [Becca Bailey](http://Becca.is)
+   380→- [Bechir Lahoueg](https://www.bechirlahoueg.tech) [Full Stack Developer | React & Node.js]
+   381→- [Befikir Shimelis](https://squidwardcodes.web.app) [Full Stack Developer | Software Engineering Student]
+   382→- [Bejagam Nithilesh](https://nithilesh.vercel.app)
+   383→- [Bekah Hawrot Weigel](http://bekahhw.github.io)
+   384→- [Ben Oldham](https://www.benoldham.dev) [Web Developer]
+   385→- [Ben Rogers](https://benrogers.dev)
+   386→- [Ben Zimmermann](https://benzimmermann.dev) [Security/OSINT Researcher]
+   387→- [Benjamin Cyubahiro](https://beno-portofolio-v2.onrender.com)
+   388→- [Benjamin Dallard](https://github.com/bdallard/ai-resume-portfolio)
+   389→- [Benjamin Lannon](https://lannonbr.com)
+   390→- [Benny Carlsson](https://bennycarlsson.github.io/MyPortfolio-Hacktoberfest2019)
+   391→- [Berat Bozkurt](https://beratbozkurt.net)
+   392→- [Beteab Tefera](https://beteabtefera.com)
+   393→- [Bhagawat Adhikari](https://github.com/bhagawatadhikari)
+   394→- [Bharat Bhandari](https://bharatdev.vercel.app)
+   395→- [Bhavani Ravi](http://bhavaniravi.com)
+   396→- [Bhavesh Gudlani](https://bhaveshgudlani.me) [AI/ML Engineer | Full Stack Development-Android-AI/ML]
+   397→- [Bhavesh Mishra](https://bhaveshmishra.dev)
+   398→- [Bhavya Tomar](https://bhavya.dev)
+   399→- [Bhupendra Singh](https://bhupi2508.netlify.app)
+   400→- [Bhushan Borole](https://bhushan-borole.github.io)
+   401→- [Bhushan Zade](https://bhushanz.netlify.app) [Senior Full Stack Developer (Angular, React, NodeJS)]
+   402→- [Bimql](https://bimql.link) [Indie Developer | Full Stack & Mobile]
+   403→- [Binay Shaw](https://binay-shaw.onrender.com) [Mobile Developer]
+   404→- [Binyam Seyoum](https://binyam.io) [DevOps & Cloud Solutions Engineer]
+   405→- [Bipin](https://bipinmv.netlify.app)
+   406→- [Biplob Sutradhar](https://biplobsd.github.io) [Software Engineer | Android | Web | Chrome
+   407→- [Bishnu Pokhrel](https://bishnupokhrel.netlify.app) [Full Stack Laravel Vue Developer]
+   408→- [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
+   409→- [Blake Karbon](https://balakekarbon.github.io) [Legacy Systems / COBOL, Firmware, AI / Big Data, and Full Stack Developer] ([Written In 100% Cobol](https://medium.com/@karboncodes/writing-web-apps-in-cobol-a18f74dc44f5))
+   410→- [Blanc John Clayton](https://www.johnclaytonblanc.com)
+   411→- [Bluezly](https://www.bluezly.exid.me)
+   412→- [Bob Matyas](https://www.bobmatyas.com)
+   413→- [Boddapu Lokesh](https://boddapulokesh.github.io/portfolio) [Ai-Developer][India]
+   414→- [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
+   415→- [Boris Edison](https://borisedison.in)
+   416→- [Bouwe Westerdijk](https://bouwe.io)
+   417→- [Brad Garropy](https://bradgarropy.com)
+   418→- [Brad Myrick](https://kodr.pro) [Blockchain/Backend Engineer]
+   419→- [Brady Macdonald](https://bradymacdonald.com) [Full Stack Developer]
+   420→- [Brandon Mitchell](https://juncie.com) [Full Stack Developer]
+   421→- [Brendan Lentz](https://brendanlentz.com)
+   422→- [Brendon Van Zanten](https://brendonvanzanten.com) [Full Stack Developer]
+   423→- [Brhane Giday](https://brhane.vercel.app) [Software Engineer | AI Engineer]
+   424→- [Brian Kabbo](https://briankabbo.vercel.app) [Software Engineer | Full Stack Developer]
+   425→- [Brian Kamau](https://brian-portfolio-two.vercel.app) [Full Stack Software Engineer]
+   426→- [Brianna Brockington](https://briannab1997.github.io/BBPortfolio/) [Software Engineer | QA & Support]
+   427→- [Brihadeesh](https://briha.xyz) [Full Stack Developer]
+   428→- [Brijesh Patel](https://brijesh.work)
+   429→- [Brittany Chiang](https://brittanychiang.com)
+   430→- [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
+   431→- [Bryan Smith](https://multikitty.onrender.com)
+   432→Extension]
+   433→
+   434→## C
+   435→
+   436→- [Cade Kynaston](https://cade.codes)
+   437→- [Caiovisuals](https://www.caiovisuals.com) [Front-End Developer]
+   438→- [Camil Bradea](https://bradeac.dev) [Senior Full Stack Engineer | TypeScript, React, Laravel, Docker, AWS]
+   439→- [Capt Michael](https://captmichael.dev) [Mern Full Stack Developer]
+   440→- [Carlos Dubón](https://carlosdubon.dev)
+   441→- [Carlos Gutierrez](https://cargdev.io) [Senior Full Stack Engineer | Python, Typescript, Distributed Systems]
+   442→- [Carlos Rojas](https://carlos-rojas-portfolio.vercel.app) [Full Stack Developer | Aspiring Software Engineer]
+   443→- [Cassiane Nascimento](https://cassymari.github.io/Portfolio-profissional/)
+   444→- [Cecelia Martinez](http://ceceliacreates.com)
+   445→- [Cedric Karungu](https://cedric-karungu.vercel.app)
+   446→- [Cemal Türkcan](https://cemalturkcan.com)
+   447→- [Cesar Gonzalez Anaya](https://www.caesarcode.com.mx/index.html) [Full Stack Developer]
+   448→- [Chaitanya Sai Meka](https://chaitanya-sai-meka.vercel.app) [Full Stack Developer]
+   449→- [Chambrin Alexandre](https://chambrin.dev)
+   450→- [Chamindu Wn](https://chamindu-wn.vercel.app) [Mern Stack Developer | Mobile App Developer (Flutter/ Kotlin/ React Native)| Full Stack Developer]
+   451→- [Chandradithya Janaswami](https://chandradithya.dev) [Undergrad, SWE and OSC]
+   452→- [Chandrakant Sharma](https://ichandrasharma.vercel.app) [Software Engineer | Remote Engineer]
+   453→- [Chanhdai](https://chanhdai.com)
+   454→- [Charles Ouimet](https://ouimet.info) [Backend Developer]
+   455→- [Charles Pustejovsky Iii](https://cpustejovsky.com)
+   456→- [Chetan Padia](https://chetbox.com)
+   457→- [Chetanya Kandhari](https://availchet.github.io)
+   458→- [Chethin Manage](https://www.cmanage.dev)
+   459→- [Chicago It Systems](https://www.chicagoitsystems.com)
+   460→- [ChickyHuynh](https://chickyhuynhprojects.xo.je) [Junior Flutter Dev]
+   461→- [Chirag Bhalotia](https://chirag.codes)
+   462→- [Chirag Samal](http://chiragsamal.github.io)
+   463→- [Chiragchrg](https://chiragchrg.netlify.app) [Full Stack Developer]
+   464→- [Chosensoul](https://chosensoul.kesug.com) [Frontend\Embedded Developer]
+   465→- [Chris Coyier](https://chriscoyier.net) [Co-Founder Of Codepen]
+   466→- [Chris Otto](https://chrisotto.dev)
+   467→- [Chris Poole](https://chrispoole.com)
+   468→- [Chris Ryczke](https://www.chrisryczke.com)
+   469→- [Christian Eckardt](https://eckeecke.github.io) [Full Stack Developer]
+   470→- [Christian Jöcker](https://jocker.dev) [Full Stack Developer]
+   471→- [Christian Kaisermann](https://kaisermann.me)
+   472→- [Christian Toscano](https://achris.me)
+   473→- [Chuck Smith](https://eclecticcoding.com)
+   474→- [Chuckz Okoye](https://chuckzokoye.com)
+   475→- [Chung Nguyen Thanh Chunhthanhde](https://chunhthanhde.github.io)
+   476→- [Cian Goon](https://ciangoon.dev) [Software Engineer, Quant Developer]
+   477→- [Ciro Ciampaglia](https://cirociampaglia.it)
+   478→- [Claudia Freitas](https://icfclaudia.com) [Product Owner | Project Manager | Digital Marketer]
+   479→- [Cleo Balaranjith](https://cleof.us) [SITE bearly wOrKs DONT OPEN it🐺✌️🪫 | brainde*d developer]
+   480→- [Clyde D'Souza](https://clydedsouza.net)
+   481→- [Clément Clix Garcia](https://clixmods.github.io) [Game Developer | Full Stack Developer]
+   482→- [Codervai](https://codervai.vercel.app)
+   483→- [Cole Emeruche](https://coleruche.com)
+   484→- [Colin Lord](https://colinlord.com)
+   485→- [Collins Koech](https://collinskoechportfolio.web.app)
+   486→- [Conor Crutchley](https://portfolio-for-conor-crutchley.vercel.app) [Front-End Developer]
+   487→- [Constance Souville](https://constancesouville.com) [Frontend Developer]
+   488→- [Cornelius Weidmann](https://caweidmann.dev) [Senior Front-End / Full Stack Engineer]
+   489→- [Crisbelo Neto](https://crisbeloneto.github.io) [Software Engineer]
+   490→- [Cristian Barreiro](https://cristianbarreiro.github.io)
+   491→- [Cristian Cezar Moisés](https://ccm.securityops.com.br)
+   492→- [Cristiano Filho](https://cristianofilho.github.io)
+   493→- [Cristopher Coronado Moreira](https://cristopher-coronado-portfolio.vercel.app/?utm_source=github&utm_medium=repository&utm_campaign=developer-portfolios) [Full Stack Developer | .Net/Angular]
+   494→- [Cui Ding](https://cuierd.github.io)
+   495→- [Cyril Aguvasu Kedeng'E](https://cyrilaguvasu.tech)
+   496→
+   497→## D
+   498→
+   499→- [Dale French](https://dalefrench.dev)
+   500→- [Dale Larroder](https://dalelarroder.com)
+   501→- [Daljeet Singh](https://www.daljeetsingh.me)
+   502→- [Damian Markowski](https://damianmarkowski.com)
+   503→- [Damodar Kamani](https://damkam.vercel.app)
+   504→- [Dania Al-Hakim](https://pixeldania.netlify.app)
+   505→- [Danial Khilji](https://danialkhilji.github.io/portfolio/) [Data Scientist | Machine Learning Engineer]
+   506→- [Daniel Andrés Rodríguez](https://danrodd.dev) [Software Developer]
+   507→- [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
+   508→- [Daniel Mark](https://thedanielmark.com)
+   509→- [Daniel Michael](https://www.daniel-michael.com)
+   510→- [Daniel Ortiz](https://danielortiz.web.app) [Full Stack Developer]
+   511→- [Daniel Peace](https://concrete.codes) [Web Developer]
+   512→- [Daniel Steele](https://www.danielsteele.dev) [Full Stack Developer]
+   513→- [Danil Gordeev](https://dangor220.github.io/developer-portfolio)
+   514→- [Danilo Castro](https://www.welcomedeveloper.com)
+   515→- [Danilo Silva](https://www.iamdanilo.com)
+   516→- [Daniyal Javadia](https://daniyal-works-portfolio.vercel.app) [Full Stack Developer | Software Engineer]
+   517→- [Danny Montoya](https://danny-portfolio-zeta.vercel.app) [Full Stack AI Engineer]
+   518→- [Darakshan Manower Rasheed](https://darakshanrasheed.in)
+   519→- [Darrell Roberts](https://www.darrellroberts.com)
+   520→- [Darshan Bhuva](https://darshanbhuva.vercel.app) [Full Stack Developer]
+   521→- [Darshan](https://darshan.is-a.dev)
+   522→- [Darya Redkina](https://reddev.in)
+   523→- [Daryl Cletus Fernandes](https://daryl-fernandes.com)
+   524→- [Dat Pham](https://datpham.dev)
+   525→- [Daven Alajid](https://www.garlicbread.space) [Web & Mobile Developer | Laravel | React | TypeScript | Flutter]
+   526→- [David Dolph](https://git.id.au)
+   527→- [David Hérault](https://dherault.com)
+   528→- [Davide Santangelo](https://davidesantangelo.com)
+   529→- [Dax](https://daolanx.com)[Front-End Developer | Freelancer]
+   530→- [Debasish Dutta](https://debasishdutta.is-a.dev)
+   531→- [Debpriyo Ghosal](https://debpriyo.is-a.dev)[Design Engineer]
+   532→- [Declan Chidlow](https://vale.rocks/portfolio) [Front-End Developer]
+   533→- [Decoopman Nicolas](https://ncsdecoopman.github.io) [Data & DevOps]
+   534→- [Deepak Chawla](https://deepak-chawla.com)
+   535→- [Deepak Singh](https://deepaksingh.vercel.app)
+   536→- [Delba](https://delba.dev)
+   537→- [Delvin Khor](https://delvin.portfolio-me.bio)
+   538→- [Delwer Hossain](https://delwer.live)
+   539→- [Demon142](https://demon142.net)
+   540→- [Denil Dominic](https://portfolio.denil-dominic.com)
+   541→- [Denis Tokarev](https://devlato.com)
+   542→- [Dennis Cristian](https://denncriss.com)
+   543→- [Derek Chen](https://www.derekchen.dev)
+   544→- [Dev Jadiya](https://dev-jadiya.web.app)
+   545→- [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
+   546→- [Dev Saini](https://devportfolio001.netlify.app) [Full Stack Developer & AI/ML Engineer]
+   547→- [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
+   548→- [Devi Prasad](https://deviprasadkl.github.io/Portfolio/)
+   549→- [Devi](https://devi-r.com)
+   550→- [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com)
+   551→- [Dewald Els](https://dewaldels.com)
+   552→- [Dhanush Nehru](https://chat-portfolio-dhanushnehru.netlify.app) [Unique Whatsapp Portfolio]
+   553→- [Dhaval Patel](https://dhavalcode.com)
+   554→- [Dheeraj Gupta](https://dheerajgupta.netlify.app/#)
+   555→- [Dhilip](https://dhilipmpms.github.io/pf/) [Software Engineer | Foss Activist]
+   556→- [Dhiraj Basavaraju](https://portfolio-dhirajb7.vercel.app)
+   557→- [Dhiraj Bhawsar Dhirajtsx Portfolioo 2.O](https://dhirajbhawsar.in)[Full Stack Web Developer & Freelancer]
+   558→- [Dhiraj Bhawsar(Dhirajjsx](https://dhirajbhawsar-portfolio.vercel.app)
+   559→- [Dhruv Mali](https://dhruvmali.netlify.app) [React And Node Devloper]
+   560→- [Dhruv Patel](https://dhruvpatelofficial.vercel.app)
+   561→- [Dhruv Sathe](https://dhruv-alpha.vercel.app) [Software Engineer & Freelancer]
+   562→- [Dhruva Bhat](https://dhruvabhat.netlify.app)
+   563→- [Dhvanit Monpara](https://dhvanitmonpara.in) [Full Stack Developer]
+   564→- [Dhyey Bhandari](https://dhyeybhandari.vercel.app) [Full Stack Developer & Ui/Ux Designer]
+   565→- [Diana Kit](https://winehoused.github.io/my-portfolio) [Front-End Developer]
+   566→- [Diana Pontes](https://martineoficial-portfolio.vercel.app) [Software Engineering Analyst | Full Stack Developer]
+   567→- [Dick Wyn Yong](https://dickwyn.xyz)
+   568→- [Digbijaya Lenka](https://digbijayalenka.vercel.app) [Full Stack Developer]
+   569→- [Digin Dominic](https://digindominic.me)
+   570→- [Dilip Kumar Maurya](https://www.dilipmaurya.in) [Web Developer]
+   571→- [Dillion Megida](http://dillionmegida.com)
+   572→- [Dimitri Pashutskii](https://dpashutskii.com)
+   573→- [Dina Taklit](https://dinataklit.github.io/DinaTaklitPortfolio)
+   574→- [Dinesh Barri](https://dineshbarri-portfolio.vercel.app) [Data Sceintist | Ai Automation Engineer]
+   575→- [Dineshreddy Paidi](https://dineshreddypaidi.vercel.app)
+   576→- [Dino Gomez](https://dinogomez.vercel.app)
+   577→- [Dino Kupinic](https://dino-kupinic.dev) [Software Engineer]
+   578→- [Dinokage](https://dinokage.in)
+   579→- [Dipak Mourya](https://dipakdev.in) [Full Stack Developer]
+   580→- [Dipanshu Singh](https://dipanshusingh.vercel.app) [Full Stack · AI Engineer]
+   581→- [Dipin Yadav](https://dipin-yadav.github.io/dipin/) [Software Engineer | Backend Engineering & Cloud]
+   582→- [Ditom Baroi Antu](https://xtditom.github.io) [Web Developer | Open-Source Contributor]
+   583→- [Divij Shrivastava](https://divij.tech)[Full Stack . Web Developer]
+   584→- [Divyansh Kathuria](https://divyanshkathuria.netlify.app)
+   585→- [Divyasree](https://portfolio-vert-one-18.vercel.app) [Full Stack Developer]
+   586→- [Dongsub Kim](https://dongsubkim.com) [Full Stack Developer]
+   587→- [Donnie Yap](https://d2yap.github.io)
+   588→- [Dor Lugasi-Gal](https://dorlugasigal.netlify.app)
+   589→- [Drew Bredvick](https://drew.tech)
+   590→- [Durgesh Chaudhary](https://yodkwtf.com)
+   591→- [Dustin Brett](https://dustinbrett.com)
+   592→- [Dustin Doan](https://dustindoan-portfolio.vercel.app)
+   593→- [Dustin VanKrimpen](https://dustinvk.com) [Full Stack Web Developer | Platform | Backend]
+   594→- [Dylan Gil Amaro](https://dga-dev.fr)
+   595→- [Dzmitry Drepin](https://linktr.ee/drepin)
+   596→[Ai & Data Science Enthusiast]
+   597→
+   598→## E
+   599→
+   600→- [Edgard Barquero Real](https://barquero.dev)
+   601→- [Edikan Bassey](https://edikan-bassey.vercel.app) [Full Stack Developer]
+   602→- [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
+   603→- [Ehsan Rafee](https://ehsanrafee.ir)
+   604→- [Ekaterine Mitagvaria](https://ekaterine-mitagvaria.vercel.app)
+   605→- [Elango](https://elangodev.com)
+   606→- [Electric Magic Factory](https://electricmagicfactory.com/en)
+   607→- [Elgratio](https://elgratiofc.vercel.app) [Full Stack Developer]
+   608→- [Elio Jordan Lopes](https://developer.vercel.app)
+   609→- [Elliot Négrel-Jerzy](https://bsodium.fr)
+   610→- [Elmo Nickol](https://elmonickcool.vercel.app)
+   611→- [Elon Feng](https://dinq.me/elonfeng) [AI Engineer]
+   612→- [Emanuel Giraldo](https://emanuelgh.dev)
+   613→- [Emanuel Lázaro](https://emanuellcs.vercel.app)
+   614→- [Emilia Sonder](https://isemilia.vercel.app)
+   615→- [Emir Bolat](https://spee.dev)
+   616→- [Emmanuel Adekplovi](https://homescriptone.com)
+   617→- [Emmanuel Alabi](https://emjjkk.tech) [CS Student | Full Stack Web/App]
+   618→- [Emmanuel Ziem Yaan-Tol](https://emmanuelmayne23.vercel.app)
+   619→- [Emre Akçadağ](https://akcadag.dev) [Mobile Developer | Android & Flutter]
+   620→- [Enea Xharja](https://eneaxharja.com)
+   621→- [Enes Hacısağır](https://enesehs.github.io)
+   622→- [Erdal Taşkesen](https://www.erdaltaskesen.com)
+   623→- [Eren Aygün](https://www.erenaygun.com) [Frontend Developer]
+   624→- [Erfan Ramezani](https://erfan-ramezani.ir) [Llm And Agentic Ai Engineer]
+   625→- [Eric Chen](https://ericc.vercel.app)
+   626→- [Eric Zhu](https://eric4048.framer.website)
+   627→- [Erick Namukolo](https://www.ericknamukolo.com)
+   628→- [Erik Henrique Alves Cunha](https://www.erikunha.dev)
+   629→- [Esteban Mansart](https://mansartesteban.vercel.app)
+   630→- [Ethan Lanting](https://ethanlanting.dev/#home) [Developer, Designer, And Creator]
+   631→- [Evandro Antônio Da Costa De Paula](https://eacp.dev) [Software Engineer | Full Stack | Applied AI Engineer] - [GitHub](https://github.com/eacpaula)
+   632→- [Evangelos Pappas](https://hyperautomation.substack.com) [Distributed Systems Engineer — Data & AI Platforms, MLOps, SRE] - [GitHub](https://github.com/epappas)
+   633→- [Eyad Ahmed](https://fezex.vercel.app) [Full Stack Web Engineer]
+   634→- [Ezekiel Ekunola](https://ezekielekunola.com)
+   635→
+   636→## F
+   637→
+   638→- [Fabian Letsch](https://fabianletsch.de) [Full Stack Developer]
+   639→- [Fabian Lugo](https://lugotech.dev) [Full Stack Developer]
+   640→- [Fabien Laurence](https://fabienlaurence.com) [Full Stack Developer | TypeScript / Python / C#]
+   641→- [Fabio Junior Raminhuk](https://fabra.dev)
+   642→- [Fahed Khan](https://fahed-khan.vercel.app)
+   643→- [Fahim Bin Amin](https://www.fahimbinamin.com)
+   644→- [Faisal Saifi](https://faisalsaifi.tech)
+   645→- [Faishal Hakim](https://faishal24.my.id)
+   646→- [Farindra Bhandari](https://fbb.com.np)
+   647→- [Fayaz Bin Salam](https://p32929.github.io)
+   648→- [Fayed Ishtar Chowdhury](https://portfolio-fayed.vercel.app) [Full Stack Developer]
+   649→- [Felipe Mourão](https://mouraocode.com.br)
+   650→- [Felipe Schmidt](https://felipeschmidt.me) [Front-End Developer]
+   651→- [Felix Leupold](https://xiel.dev)
+   652→- [Felix Tellmann](https://flext.dev)
+   653→- [Fernando Andres Raggio](https://raggiodev.vercel.app) [Full Stack Developer & Cibersecurity]
+   654→- [Fernando Morenilla](https://fmorenil.dev) [Front End Developer]
+   655→- [Fidalgo Pedro](http://fidalgo.dev)
+   656→- [Fielding Johnston](https://justfielding.com)
+   657→- [Fikri Izzuddin](https://oyi77.github.io) [Technical Lead | System Architect & Web3]
+   658→- [Fikri Rozan](https://fikrirozan.vercel.app) [Full Stack Developer]
+   659→- [Florian Giacinti](https://florian.giacinti.me) [Software Developer]
+   660→- [Floris Melchers](https://Floriscodes.nl)
+   661→- [Forhad_Khan](https://forhadkhandev.vercel.app) [Front-End Developer]
+   662→- [Frances Coronel](https://francescoronel.com)
+   663→- [Francisco Salido](https://paco.fyi?utm_source=gh) [Software Engineer]
+   664→- [Franck Galliod](https://www.franckwebpro.com) [Full Stack & Webflow Developer]
+   665→- [Franco Ruiz](https://francoruiz.dev) [Staff Frontend Engineer]
+   666→- [Franklin Castellanos](https://onecastell.github.io)
+   667→- [Franklin Huichi Contreras](https://franh20.github.io)
+   668→- [Franklin Ohaegbulam](https://frankiefab.netlify.app)
+   669→- [Freddy Mcloughlan](https://mcloughlan.com) [Backend Developer]
+   670→- [Frederic Henri](https://cloud06.io)
+   671→- [Furkan Kapukaya](https://furkankapukayaa.github.io)
+   672→
+   673→## G
+   674→
+   675→- [Gabriel Carvalho](https://gabrielcarvalho.vercel.app) [👨🏽‍💻 Computer Engineering Student]
+   676→- [Gabriel Jordan](https://jrdan.dev) [Software Engineer]
+   677→- [Gabriel López](https://glpzzz.dev)
+   678→- [Gabriel Machado](https://machado001.github.io)
+   679→- [Gabriel Maggioni](https://maggioni.dev) [Programmer as a hobby - enjoys Linux, Blender, and GameDev.]
+   680→- [Gabriel Tekombo](https://gabrielthecode.com)
+   681→- [Gabriele Corti](https://borntofrappe.github.io)
+   682→- [Gambhir.Dev](https://gambhir.dev) [Full Stack | DevOps]
+   683→- [Ganesh Angadi](https://ganeshangadi.online) [Devops Engineer | System Thinker]
+   684→- [Ganesh Kalyan](https://www.ganeshkalyan.in)
+   685→- [Ganesh Patil](https://hardikjain.netlify.app)
+   686→- [Ganesh](https://ganesh717.netlify.app)
+   687→- [Garima Bhayana](https://garimabhayana.vercel.app)
+   688→- [Garv Nanwani](https://garvnanwani.netlify.app)
+   689→- [Gary Doman / GareBear99 / GareBearProductionz / TizWildin](https://garebear99.github.io/TizWildinEntertainmentHUB/) [Software Developer | Audio DSP | AI Infrastructure | Music Tech]
+   690→- [Gaspare Tortora](https://gaspavar.dev)
+   691→- [Gaurav Bansal](https://gaurav-bansal.vercel.app)
+   692→- [Gaurav Rathva](https://gauravrathva.me) [Full Stack Engineer | Mobile & Agentic AI Systems]
+   693→- [Gaurav Saxena](https://www.gauravsaxena.site) [Full Stack Engineer | AI Engineer]
+   694→- [Gazi Anas](https://gazimdanas.netlify.app) [AI-assisted Developer | Problem Solver]
+   695→- [Geet Trivedi](https://www.geettrivedi.com) [Full Stack Developer | MEAN/MERN]
+   696→- [Genesis Gabiola](https://genesisgabiola.now.sh)
+   697→- [George Christeas](https://chr-ge.com)
+   698→- [George Fincher](https://www.grimfunky.dev)
+   699→- [Georges Atalla](https://www.georgesatalla.com)
+   700→- [Georgi Yanev](https://gyanev.com)
+   701→- [Gerardo Perrucci](https://gperrucci.com)
+   702→- [Ghazi Khan](https://ghazikhan.in)
+   703→- [Ghom Krosmonaute](https://ghomkrosmonaute.github.io/?game)
+   704→- [Ghulam Ahmed](https://gahmed.com)
+   705→- [Ghulam Mujtaba](https://ghulammujtaba.com)
+   706→- [Gianluca Fiore](http://gianlucafiore.it)
+   707→- [Gianluca Galota](https://gianlucagalota.dev)
+   708→- [Gii-DE](https://g-dea.com) [Creative Engineer (AI & Web) | based in Europe]
+   709→- [Gil Itzhaky Gilitz](https://gilitz.com) - `Interactive 3D Protfolio Game` [Frontend Developer]
+   710→- [Giorgio Faini](https://giorgiofaini.com)
+   711→- [Glen Elric Fernandes](https://www.glenelric.space) [Full Stack SDE| Data Science Researcher| Student]
+   712→- [Goh Jun Xiang](https://gohjunx.github.io/GohJunXiang.github.io)
+   713→- [Goh You Sheng](https://shenggg2000.github.io/portfolio)
+   714→- [Gokhul](https://gokhul.dev) - [Full Stack Engineer]
+   715→- [Gokul Raja](https://gokul-raja84.github.io)
+   716→- [Gokul Suresh](https://gokulsuresh.vercel.app) [ Project Lead]
+   717→- [Gokul](https://gokul.ink) - [Front end Engineer]
+   718→- [Gowtham Sridhar](https://www.gowthamsridhar.com) [AI engineer, HCI Scientist + robots]
+   719→- [Grace Snow](https://gracesnowdesign.co.uk)
+   720→- [Greta Macri](https://gretamacri.com)
+   721→- [Guna Teja](https://tejafolio.dev) [AI ML Student]
+   722→- [Gunasree](https://gunasree-portfolio.vercel.app) [AI Engineer | Technical Expertise]
+   723→- [Gunjan Ghate](http://techggdev.vercel.app) - [Full Stack Web2/Web3 Developer]
+   724→- [Gustavo Gutierrez](https://gutierrez-cv.vercel.app) - [Fullstack/Ai&Ml Developer]
+   725→- [Guyon Emeric](https://emericguyon.com) [Freelance Full Stack Developer]
+   726→
+   727→## H
+   728→
+   729→- [Hafeez Mohamad](https://haffee.vercel.app) [Software Engineer | Full Stack Developer | AI Engineer]
+   730→- [Hafid Ziti](https://www.hafidziti.dev)
+   731→- [Hafiq Iqmal](https://hafiq.dev) [Software Engineer | Backend & API Engineering | DevSecOps]
+   732→- [Hamish Williams](https://hamishw.com)
+   733→- [Hamza Ehsan](https://www.hamzaehsan.com)
+   734→- [Hamza Naseem](https://hamzanaseem.vercel.app)
+   735→- [Hangga Aji Sayekti](https://hangga.web.id) [Software Engineer · Security Researcher · Tech Author]
+   736→- [Hanif Yuli Abdillah](https://hanifabdlh.vercel.app) [Ai Software Engineer And Data Science]
+   737→- [Hansana Prabath](https://hansana.is-a.dev)
+   738→- [Hanumant Jain](https://hanumantjain.tech) [Software Developer | Full Stack Developer]
+   739→- [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
+   740→- [Hareesh Bhittam](https://hareesh.is-a.dev) [Full Stack Developer]
+   741→- [Haris Priantury](https://harispriantury.netlify.app) [Web Developer]
+   742→- [Harlon Garcia](https://harlon.netlify.app)
+   743→- [Haroon Khalid](https://haronkhalid.github.io/portfolio) [Software Engineer & Digital Creator]
+   744→- [Harsh Banka](https://harshbanka.tech) [Ai/Ml & Software Engineer]
+   745→- [Harsh Doshi](https://iamharshdoshi.com) [Cloud Architect | Software Engineer | Agile Certified | Photographer | Entrepreneur]
+   746→- [Harsh Prajapati](https://harsh-prajapati54-github-io.vercel.app/) [AI|ML Engineer]
+   747→- [Harsh Singhvi](https://harshsinghvi.com)
+   748→- [Harsh Vardhan Singh](https://hvsingh.vercel.app) [Full Stack Developer]
+   749→- [Harshit Singh](https://eharshit.cfd) [Data Science]
+   750→- [Harwin Dan](https://itscrazydev.netlify.app)
+   751→- [Hasan Ashab](https://hasan-ashab.vercel.app) [Cloud Architect | DevOps Engineer | Backend Developer]
+   752→- [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
+   753→- [Hasan](https://hasansiddiqui.netlify.app)
+   754→- [Hasnat Amir](https://hasnatdev.com) [Full Stack Developer | Node.js/React.js/Next.js/Typescript]
+   755→- [Hassan Ahmed](https://www.hassanahmed.net)
+   756→- [Hassan Ali](https://hassan-ali-portfolio-nine.vercel.app) [Full Stack AI Developer | DevOps Engineer]
+   757→- [Hassan Rj](https://hassanrj.vercel.app) [Hassan RJ Full Stack Next.js Developer
+   758→- [Hassan Tech](https://hassanx.tech) [Web Developer]
+   759→- [Hemang Yadav](https://zemerik.vercel.app) [Passionate Developer]
+   760→- [Hemanth Chakravarthy Kancharla](https://hemanth-chakravarthy.netlify.app) [Engineering Student | Full Stack Developer]
+   761→- [Henry Lee](https://dragonwarrior.vercel.app)
+   762→- [Herman Starikov](http://starikov.dev)
+   763→- [Herve Mbilo](https://diliwo.github.io) [Cloud-Native Software Engineer]
+   764→- [Hesbon Angwenyi](https://hezy.netlify.app) [Full Stack Developer | DevOps Engineer]
+   765→- [Hien Dao](https://hiendao.dev) [Software Engineer | Backend]
+   766→- [Himanshu Kumar Mishra](https://hemanshu-mishra.vercel.app) [Full Stack Developer | Web Developer]
+   767→- [Himavanth Kumar Perni](http://himavanth-kumar-perni-portfolio.vercel.app) [Full Stack Developer]
+   768→- [Hisami Kurita](https://hsmkrt1996.com) [Frontend Developer]
+   769→- [Hitesh Sahu](https://hiteshsahu.com) [Full Stack Developer | Frontend/Mobile | Backend | Cloud Infra]
+   770→- [Ho Van Hoa](https://hovanhoa.net) [Software Engineer]
+   771→- [Houssam Bouzid](https://houssambouzid.dev) [Software Engineer]
+   772→- [Hozaifa Ali](https://hozi-web3.site) [Software Engineer | Flutter Developer]
+   773→- [Hrithik Dhakrey](https://iamdhakrey.dev) [Backend Developer]
+   774→- [Hugo Calmels](https://hugo-calmels.fr) [Web Developper | React/Next.js/SpringBoot]
+   775→- [Hugo Damion](https://hugo-damion.me)
+   776→- [Hugo Folloni](https://hugofolloni.com)
+   777→- [Humanshu Jaglan](https://humanshu-jaglan.vercel.app)
+   778→- [Hungry Bear Studio](https://www.hungrybearstudios.com)
+   779→- [Hussein Sarea](https://ho011.vercel.app)
+   780→
+   781→## I
+   782→
+   783→- [Ian Lunn](https://ianlunn.co.uk) [Frontend Developer | Responsive Web Specialist]
+   784→- [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
+   785→- [Ifaz Md Zahin](https://ifazzahin.vercel.app) [Full Stack Developer | ML Engineer]
+   786→- [Igor Clauss](https://igorclauss.de) [Full Stack Developer]
+   787→- [Ilham Riski Wibowo](http://ilhamriski.com) [Full Stack Developer]
+   788→- [Ilija Korodic](https://ilijakorodic.com) [Frontend & Webflow Developer]
+   789→- [Ilke Ozsekerli](https://ilkeozs.info)
+   790→- [Ilya Dyomin](https://sskd.tech) [Front-End Developer]
+   791→- [Ilya Glebov](https://ilyaglebov.dev) [Software Engineer | Tech Lead]
+   792→- [Ilyes Landolsi](https://ilandols.com)
+   793→- [Inamullah Mahar](https://inamcodes.github.io) [CS Student | AI Engineer]
+   794→- [Indra Mahkota](https://indramahkota.info) [Mobile Developer]
+   795→- [Indrajeet Nikam](https://indrajeet.me)
+   796→- [Indrayudh Dhara](https://my-portfolio-ba1h.vercel.app) [Full Stack Developer]
+   797→- [Ingus Jansons](https://ingus.co.uk)
+   798→- [Ioannis Jone-Magalhaes](https://ioannisjonemagalhaes.com) [Software Engineer | Cloud & IoT]
+   799→- [Irfan.Dev](https://irfan-devs.vercel.app) [Frontend Developer]
+   800→- [Isabella Riquetti](https://isabella-riquetti.netlify.app)
+   801→- [Ishaan Ray](https://galaxir.vercel.app) [Full Stack Developer | AI Engineer]
+   802→- [Ishaan Sheikh](https://frikishaan.com)
+   803→- [Isitha Subasinghe](https://isub.dev)
+   804→- [Ismail Ghallou Aka Smakosh](https://smakosh.com)
+   805→- [Israel Mitolu](https://israelmitolu.netlify.app)
+   806→- [Issam SENSI](https://issamsensi.com) [AI Developer | Full Stack Developer]
+   807→- [Istiuqe Ahmed](https://istiuqeahmed.vercel.app) [Front-End Developer]
+   808→- [Ivin Titus](https://ivin.site) [Full Stack Engineer]
+   809→
+   810→## J
+   811→
+   812→- [Jachin Samuel](https://jachin-portfolio.vercel.app) [Software Developer | Full Stack & AI]
+   813→- [Jack Parsons](https://jackparsonss.me)
+   814→- [Jack Phát](https://jackphat.vercel.app) [Full Stack Developer | Vibe coding]
+   815→- [Jacob Herper](https://jacobherper.com)
+   816→- [Jaen Nova](https://jaenn.netlify.app)
+   817→- [Jagadeesh](https://jagadeeshftw.netlify.app)
+   818→- [Jahidul Islam Jihad](https://jahiduljihad.netlify.app) [Full Stack Developer]
+   819→- [Jahidul Islam](https://xahidex.com) [Digital Marketing & SEO Specialist]
+   820→- [Jahir Fiquitiva](https://jahir.dev)
+   821→- [Jai Li](https://lijw07.github.io/portfolio) [Software Engineer]
+   822→- [Jaimin Bariya](https://jaimin-bariya.web.app)
+   823→- [Jainex Patel](https://jainex.vercel.app)
+   824→- [Jake Ginesin](https://jakegines.in)
+   825→- [Jake Walklate](https://svnty.is-a.dev) [Biotech Engineer]
+   826→- [Jakub Borowy](https://jakubborowy.com)
+   827→- [Jam Moonbami](https://moonbamiofficial.vercel.app)
+   828→- [James Mumo](https://jamesmumo.vercel.app)
+   829→- [James Turner](http://turnerj.com)
+   830→- [Jann Chie](https://jannchie.com/en)
+   831→- [Jason Cameron](https://jsn.cam) [Repo](https://jsn.cam/repo)]
+   832→- [Jason Flatford](https://jasonflatford.com) [Product & Engineering Leader]
+   833→- [Jatin Jadon](https://portfolio-jatin-two.vercel.app) [Full Stack Developer]
+   834→- [Jatin Jha](https://jatin0jha.github.io)
+   835→- [Jatin Kevlani](https://jatin-kevlani.vercel.app) [Full Stack Developer | AI/ML Enginner | IoT Engineer]
+   836→- [Jatin Sharma](http://j471n.in)
+   837→- [Jatin Tekam](https://jatin-tekam.netlify.app)
+   838→- [Jatin](https://jating07925.vercel.app) [Full Stack Developer | .Net + React]
+   839→- [Jay Bhavsar](https://jay.is-savvy.dev)
+   840→- [Jay Gaha](https://jaygaha.com.np) [Full Stack Developer]
+   841→- [Jay Keraliya](https://jaykeraliya.com)
+   842→- [Jay](https://jay-65.netlify.app) [Frontend Developer]
+   843→- [Jaya Vignesh](https://jayavignesh.dev) [Backend Developer]
+   844→- [Jayant Goel](http://jayantgoel001.github.io)
+   845→- [Jayant Parashar](https://jparasha.github.io)
+   846→- [Jayanth Donavalli](https://djayanth.site) [Full Stack Developer | Designer | Photographer]
+   847→- [Jayed Rafi](https://jayedrafi.com)
+   848→- [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
+   849→- [Jeayoung Jeon](https://jyje.online) [GenAi/Mlops Engineer]
+   850→- [Jeevaprakash](https://c1ph3rj.in) [Software Developer]
+   851→- [Jeff Cardinal](https://jeffcardinal.com) [Software Engineer | Designer]
+   852→- [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
+   853→- [Jens Van Wijhe](https://www.beterbekend.nl)
+   854→- [Jeremiah Haastrup](https://jeremiahhaastrup.com)
+   855→- [Jeremy Erik Leong](https://www.jeremyerikleong.com)
+   856→- [Jeremy Grifski](https://jeremygrifski.com)
+   857→- [Jerin Bs](https://jerinbs.vercel.app)
+   858→- [Jerry Hirsch](https://jerryhirsch.com)
+   859→- [Jeslor Ssozi](https://www.jeslor.com) [Full Stack Engineer]
+   860→- [Jesus Santander](https://jsantanders.dev)
+   861→- [Jhal Albert Berioso](https://portfolio.dwnppo.dev)
+   862→- [Jhed Adrine Mendoza](https://jhedmendoza.is-a.dev)
+   863→- [Jim Raptis](http://www.raptis.wtf)
+   864→- [Jin Jheng Rong](https://jinrup.vercel.app)
+   865→- [Jiru Gutema](https://jirugutema.vercel.app) [Full Stack Developer, Software Engineer, Backend Developer]
+   866→- [Jithin Vijayan](https://jithin.dev) [Lead Software Engineer / Full Stack Developer (React / Node / Angular / Vue)]
+   867→- [Jo Lienhoop](https://jolienhoop.com)
+   868→- [Joel Johnson](https://www.joelcjohnson.me) [Full Stack Developer, Software Engineer]
+   869→- [John Doe](https://portfolio-john2.netlify.app)
+   870→- [John Kimeu](https://kimeu-johnn.vercel.app) [Front-End Developer & Creative]
+   871→- [John Mutua Musee](https://spongebobportfolio.framer.website) [System Admin]
+   872→- [John Petalio](https://johnreypetalio.netlify.app)
+   873→- [John Ryan Cottam](https://johnryancottam.com)
+   874→- [Johnny Chai](https://johnnychai.com) [Software Engineer]
+   875→- [Johnny Dang](https://dnh2703.work) [Full Stack Developer]
+   876→- [Johnny Gérard](https://www.jgerard.dev) [Frontend Engineer]
+   877→- [Johnson Siziba](https://www.johnsonsiziba.com)
+   878→- [Jonas Werner](https://jonaswerner.com)
+   879→- [Jonathan Peters](https://github.com/QMS85/MyPortfolio) [Front End Developer]
+   880→- [Jooeun Lee](https://jooeunlee.com) [Web Developer | UI/UX Designer]
+   881→- [Joop Munguia](https://my-portfolio1-nine-sage.vercel.app) [Full Stack Developer | cybersecurity Enthusiast]
+   882→- [Jorge Cortés](https://jorgecortes.dev) [Full Stack Developer]
+   883→- [Joshua Chinwendu](http://joshualine.github.io)
+   884→- [Joshua Izuchukwu](https://joshuaizu.vercel.app)
+   885→- [Joshua Prini](https://joshuaprini.com) [Full Stack Developer | Software Engineer]
+   886→- [Joséphin Sylvère](https://josephin-sylvere.vercel.app) [Backend Developer]
+   887→- [Joy Biswas](https://joybtw.com) [Backend Developer]
+   888→- [Jozsef Pallagi](https://jozsefpallagi.com) [Full Stack Engineer]
+   889→- [Juan Benito](https://juanbenito.vercel.app) [Full Stack Web Developer]
+   890→- [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
+   891→- [Juan Diaz](https://jpdiaz.dev)
+   892→- [Juan Gomes Macario](https://crashunix.nl) [Senior Full Stack Developer]
+   893→- [Juan Pablo Jimenez](https://juanpablojimenez.dev) [Front-End Developer]
+   894→- [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app)
+   895→- [Judicaël Ahyi](https://judicael-ahyi.com)
+   896→- [Julia Johnson](http://juliacodes.com)
+   897→- [Julian Teofilov](https://julian-teofilov.vercel.app)
+   898→- [Junaid Irfan](https://www.junaidirfan.com) [DevOps | Full Stack Developer]
+   899→- [Juon Kawakami @Evesquare](https://me.evesq.com) [Full Stack Developer | Ui/Ux Designer]
+   900→- [Jyotirmoy Bandyopadhayaya](https://itsmebravo.dev)
+   901→
+   902→## K
+   903→
+   904→- [Kaic Salomão](https://kaicsm.dev) [Full Stack Developer]
+   905→- [Kaiyu Hsu](https://kyh.io)
+   906→- [Kajendran Alagaratnam](https://kajendran.dev) [Senior Engineer | Developer Experience & Tooling]
+   907→- [Kaleigh Scruggs](http://kaleighscruggs.com)
+   908→- [Kaligotla Sri Datta Sai Vithal](https://sridattasai18.github.io/Neo-folio/) [Full Stack Developer / Gen AI Engineer]
+   909→- [Kalp Senghani](https://kalpsenghani.com) [‍ Full Stack Developer || Ai Engineer]
+   910→- [Kamil Mazurek](https://kamilmazurek.pl)
+   911→- [Kamran Mushtaq](https://kamipresents.com) [Full Stack Developer]
+   912→- [Karan Chhunchha](https://karanchhunchha.in) [Software Developer | AI Automation]
+   913→- [Karrar Nazim](https://karrarnazim.space) [Full Stack Web Developer]
+   914→- [Karthik Menon](https://www.karthikmenon.com)
+   915→- [Karthik Shetty](http://karthikshetty.info) [Software Engineer | Full Stack Developer]
+   916→- [Kartik Jain](https://jkartik.in) [‍ Backend Developer | Cybersecurity Enthusiast]
+   917→- [Karunika](https://karunika.work)
+   918→- [Kashif Ali Bhatti](https://kashifali.dev) [Software Engineer | Mobile & Web Developer | AI Automation]
+   919→- [Kashif Ali](https://kashifalirajper.vercel.app) [Software Engineer | Full Stack Developer]
+   920→- [Katey Philip](https://portfolio-katey.vercel.app) [Frontend Developer]
+   921→- [Katie Amberg-Johnson](https://kambergjohnson.com) - `made with TechFolios`
+   922→- [Katie Haus](https://astro-portfolio-site.netlify.app)
+   923→- [Katleho Mokhele](https://mokhele.pythonanywhere.com)
+   924→- [Kaung Myat](https://kgmyat.vercel.app) [Frontend Developer]
+   925→- [Kaushal Raj Gupta](https://kaushalrajgupta.is-a.dev) [Full Stack Developer | Cybersecurity Expert]
+   926→- [Kaustubhai](https://kaustubhai.netlify.app)
+   927→- [Kavan Bhavsar](https://kavan-bhavsar.vercel.app) [Full Stack Web Developer | Ui/Ux Designer]
+   928→- [Kaveen Kumarasinghe](https://kaveenk.com) [Software Engineer | Money Movement & AI]
+   929→- [Kaveh Taheri](https://kav3.com) [🥷 JS Ninja - Software Engineer]
+   930→- [Kavi Castelo Dev](https://kavicastelo-dev.netlify.app)
+   931→- [Kavi Castelo](https://kavindukokila.netlify.app)
+   932→- [Kavin](https://devekavin.github.io/Portfolio) [Web Developer]
+   933→- [Kay Evans-Stocks](https://www.kaystocks.com) [Design Engineer]
+   934→- [Keita Yamada](https://p5aholic.me) [Designer & Web Developer]
+   935→- [Keith Guo](https://dinq.me/keith) [AI Engineer]
+   936→- [Keith Lau](https://keithlau2015.github.io/portfolio)
+   937→- [Kelvin Juma](https://kelvin-site.vercel.app) [Full Stack Engineer]
+   938→- [Kenneth Sunjaya](https://kennethsunjaya.com) [Software Engineer]
+   939→- [Kenta Yamamoto](https://ychof.com)
+   940→- [Kenzy Codex](https://kenzycodex.vercel.app) [Software Developer | Backend Engineer]
+   941→- [Ketuman Vishwakarma](https://k2maan.vercel.app)
+   942→- [Kevin Bogagne](https://kevinbg.vercel.app) [Software Engineer]
+   943→- [Kevin Kenfack](https://kenfack-me.vercel.app)
+   944→- [Kevin Nguyen](https://kevinbkdev.vercel.app) [Software Engineer | Blockchain Enthusiast]
+   945→- [Kevin Oliveira](https://kevinoliveira.com.br) [Front-end | UI Designer]
+   946→- [Khaled Ahmed](https://khaled.is-a.dev)
+   947→- [Khalid Mahmud](https://mdkhalidmahmud.com) [Full Stack Developer | AI & LLM Enthusiast]
+   948→- [Khang Nguyen](https://khangnd.info)
+   949→- [Khizar Fareed](https://khizarfareed.netlify.app) [Engineer]
+   950→- [Khokon](https://khokon.dev)
+   951→- [Khulile Nzimande](https://khulilen.github.io/Portfolio-Website/) [Software Developer]
+   952→- [Kiran Poudel](https://pkiran.com.np)
+   953→- [Kishor Jeyachandran](https://kishorrj.vercel.app)
+   954→- [Kishore](https://mkishore.is-a.dev)
+   955→- [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | PERN]
+   956→- [Kosikan Nagananthakumaran](https://kosikan.vercel.app)
+   957→- [Koushik Goud Shaganti 💻](https://koushik1133.github.io/portfolio1) [Software Engineer Co-op | AI & Full Stack Dev]
+   958→- [Krishna Sathyamurthy Pokédex Portfolio](https://krshsl.github.io)
+   959→- [Krishnanand](https://krishnananda.netlify.app)
+   960→- [Krupal Fataniya](https://krupal.vercel.app) [Full Stack Developer | Python, Django & React Specialist]
+   961→- [Krupal Sanchaniya](https://krupal-portfolio.vercel.app) [Software Developer]
+   962→- [Krushna Rathod](https://krushna.gridly.xyz) [UI/UX Designer]
+   963→- [Ksv Muralidhar](https://ksvmuralidhar.in)
+   964→- [Kuchizu](https://kuchizu.com) [DevOps Engineer]
+   965→- [Kuei Poch Kuei](http://kueiyiee-portfolio.vercel.app) [Full Stack Dev and Creative Thinker]
+   966→- [Kuldeepsinh Jadeja](https://kuldeepjadeja.dev) [Full Stack Developer | MERN Stack]
+   967→- [Kumar Nishant](https://www.kumar-nishant.me) [Kumar Nishant | Backend & DevOps Engineer]
+   968→- [Kunal Passan](https://kunalpassan.vercel.app)
+   969→- [Kunal Patil](https://kunalpatil.me) [Kunal Patil | Java SpringBoot, DevOps, Generative AI]
+   970→- [Kuppili Nikhilesh Raju](https://nikhileshraju.me) [AI/ML Engineer]
+   971→- [Kushan Devarajegowda](https://ikushdev.github.io) [Software Developer | Software Engineer | Sde | Swe]
+   972→- [Kushwinth Kumar](https://iamkushwidev.vercel.app) [Software Developer | Frontend Engineer | Mern Stack Developer]
+   973→- [Kwameh Dhegbo](https://kwamehdhegbo.com) [Full Stack Developer | Software Developer | Software Engineer | Student]
+   974→- [Kyle Smith](https://yskkyle.com)
+   975→- [Kyson](https://kyson.dev)
+   976→- [kenTom](https://kentom.co.ke) [Software Developer]
+   977→
+   978→## L
+   979→
+   980→-  [Lalith Kumar](https://lalith-d-portfolio.netlify.app) [ AI Engineer | Data Scientist | Machine Learning Engineer]
+   981→-  [Lalith](https://portfolic.vercel.app/lalithdabilpuram01) [ Data Scientist]
+   982→- [Laercio Rios](https://laerciorios.com) [Full Stack Developer | Software Engineer]
+   983→- [Lai Huishan](https://shan-verse.com) [Full Stack Developer | Master Student]
+   984→- [Lakshan Rukantha](https://lakshanrukantha.github.io)
+   985→- [Lakshya Jain](https://port-folio-nine-lemon-27.vercel.app) [For Any Developer | Has Multiple Templates | Semi - Automated Data Update Feature]
+   986→- [Lamine Neggazi](https://lamine.cc) [Full Stack Developer | Algiers]
+   987→- [Lampard Kipyegon](https://lampard.netlify.app) [Data Scientist | AI/ML Engineer | Full Stack Dev | Scikit-learn, Numpy, Pandas, Matplotlib, Django etc. | Kenya]
+   988→- [Larry Xue](https://larryxue.dev)
+   989→- [Laurie Barth](http://laurieontech.dev)
+   990→- [Le Duong Hung Thinh](https://thinh.io.vn) [Front-End Engineer]
+   991→- [Leandro Qazuor Asrilevich](https://qazuor.com) [Full Stack Developer (Frontend-Focused)]
+   992→- [Leandro Simões](https://lesimoes.dev)
+   993→- [Lee Robinson](https://leerob.io)
+   994→- [Lee Warrick](http://leewarrick.com)
+   995→- [Leo Ashcraft](https://leoashcraft.com) [Full Stack Software Developer | PHP, React, Astro]
+   996→- [Leon Heuer](https://heuer.ovh)
+   997→- [Leonardo Glorioso](https://crllect.dev) [Full Stack Developer | React, TS, Astro, Node, UI/UX]
+   998→- [Leonardo Oliveira](https://leonardoliveira.com)
+   999→- [Leonel Ngoya](https://lndev.me)
+  1000→- [Leroy Rosales](https://leroyrosales.com)
+  1001→- [Levi Kingma](https://www.levikingma.com)
+  1002→- [Lewis Hadden](https://portfolio.lewishadden.com) [Senior Full Stack Engineer | React, Typescript, Node]
+  1003→- [Lindsey Howard](https://lindseyk.dev)
+  1004→- [Liplan Lekipising](https://lekipising.com)
+  1005→- [Liran Tal](https://lirantal.com) [Developer Advocate At Snyk, Github Star, Openjs Foundation Pathfinder For Security Award]
+  1006→- [Lisa Blunt](https://lisablunt.github.io)
+  1007→- [Liz Lam](https://lizlam.github.io)
+  1008→- [Loc Le](https://looc.dev)
+  1009→- [Loic Duong](https://www.loicduong.dev)
+  1010→- [Long Do](https://longpdo.github.io)
+  1011→- [Loránd Kiss](https://lorandkissdev.github.io/github-portfolio)
+  1012→- [Luca Félix](https://luca-felix.com) [Design System Engineer | Digital Product Designer & Developer]
+  1013→- [Luca Lischetti](https://sirlisko.com)
+  1014→- [Lucas Dantas](https://dantsdev.vercel.app)
+  1015→- [Lucas De Moraes](https://devlucas.website) [Full Stack Developer]
+  1016→- [Lucas Lima](https://lucas-lima.vercel.app)
+  1017→- [Luis Cacho](https://luiscachog.io)
+  1018→- [Luiz Gustavo Alves](https://www.luizgustavoalves.dev) [Full Stack Developer]
+  1019→- [Lukasz Kups](https://lukaszkups.net)
+  1020→- [Luke Liukonen](https://liukonen.dev) [Senior Software Engineer | Technical Lead, AI Strategy, Infrastructure]
+  1021→- [Luís Oliveira](https://lo-devpage.netlify.app)
+  1022→
+  1023→## M
+  1024→
+  1025→- [Maame Yaa Twumasi](https://maameyaa.vercel.app) [Full Stack Software Engineer]
+  1026→- [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
+  1027→- [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io) [Frontend Developer]
+  1028→- [Madhan](https://madhank93.github.io)
+  1029→- [Madhurima Rawat](https://madhurimarawat.github.io/Portfolio-Website) [Data Scientist & Frontend Developer]
+  1030→- [Mads Hougesen](https://mhouge.dk)
+  1031→- [Maduakor Emmanuel](https://emmajs.vercel.app)
+  1032→- [Madza](https://www.madza.dev)
+  1033→- [Mahatab Hossen Sudip](https://sudipmhx.pro.bd) [MERN Stack Developer]
+  1034→- [Mahdi Hasan](https://mahdihasan.space) [Software Engineer]
+  1035→- [Mahdi.Is-A.Dev](http://mahdi.is-a.dev)
+  1036→- [Mahin Hasan](https://mahin527.vercel.app) [Shopify Expert | Full Stack Web Developer]
+  1037→- [Mahmoud Nabhan](https://mahmoudnabhan.com)
+  1038→- [Mahmoud Zalt](https://zalt.me) [Full Stack Engineer | Software Architect | Ai Engineer | Tech Consultant | Mentor]
+  1039→- [Mahtab Ahmad](https://portfolio-1-0xhg.onrender.com) [Machine Learning Engineer]
+  1040→- [Makechi Eric](https://love-makechi.web.app)
+  1041→- [Malaka Venugopal Reddy](https://malakavenu.com) [AI & Agentic Systems Engineer | Frontend Architect | Design Systems Strategist]
+  1042→- [Malay Patra](https://malaypatrav2.vercel.app) [Full Stack Developer]
+  1043→- [Malik Muhammad Safwan](https://maliksafwan.netlify.app)
+  1044→- [Malith Rukshan](https://malith.dev)
+  1045→- [Mamoon Siddiqui](https://mamoon-siddiqui.vercel.app)
+  1046→- [Manan Kanani](https://manankanani.in) [Full Stack Developer]
+  1047→- [Manan Narwal](https://manannarwal.vercel.app) [Full Stack | App | Web]
+  1048→- [Manav Chudasama](https://manav-chudasama.vercel.app) [Full Stack Developer]
+  1049→- [Mandip Umretiya](https://mandip-dev-portfolio.vercel.app) [Full Stack Developer]
+  1050→- [Manikandan Ramar](https://manikandanramar.com) [Software Engineer]
+  1051→- [Manikanta Darapureddy](https://manikantadarapureddy.in)💛[AI/ML Enginner | Full-Stack Developer]
+  1052→- [Manish Kumar Dholpuriya](https://manish-dholpuriya.netlify.app)
+  1053→- [Manish Tamang](https://www.manishtamang.com)
+  1054→- [Manjunath Bhandari](https://manjunathbhandari.vercel.app) [Full Stack Developer | React | Spring Boot]
+  1055→- [Mann Patel](https://patelmann.vercel.app) [Full Stack Developer]
+  1056→- [Manoj Hankare](https://manojhankare.in) [Full Stack Developer | AI Engineer]
+  1057→- [Manoj Kumar Mandal](https://manojmandal.com) [Full Stack Engineer | AI Engineer | Generative AI | SaaS]
+  1058→- [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website)
+  1059→- [Mansha Qarib](https://manshaqarib.vercel.app)
+  1060→- [Maphangwa Tshifhiwa](https://tmaphangwa.github.io/Profile)
+  1061→- [Marc Backes](http://marc.dev)
+  1062→- [Marciano Mavungo](https://marcmav.dev) [Frontend Software Engineer | vanillaJS | TailwindCSS]
+  1063→- [Marco Baldini](https://marcobaldini.pages.dev)
+  1064→- [Marcos Moura](https://marcos-moura97.github.io)
+  1065→- [Marcus Sánchez](https://marcuss.pro) [Staff Backend Engineer | Distributed Systems | AI]
+  1066→- [Marin Takanov](https://www.takanov.com) [Senior Software Engineer]
+  1067→- [Mario Kandut](https://www.mariokandut.com)
+  1068→- [Marios Sofokleous](https://msof.me)
+  1069→- [Mariya Baig](https://mariyabaig.vercel.app)
+  1070→- [Mariya Jebastin](https://mariyajebastin.netlify.app) [Full Stack Developer]
+  1071→- [Mark Ernst](https://cyntax.dev) [Freelance Senior Full Stack Software Engineer at Cyntax | .NET/PHP/TS]
+  1072→- [Marko Denic](https://markodenic.com)
+  1073→- [Markus Polzer](https://www.rapidtech1898.com)
+  1074→- [Marouane Rassili](https://mrassili.com)
+  1075→- [Martin Barker](https://martinbarker.me)
+  1076→- [Martin Lefebvre](https://martinlefebvre.com) [Senior Full Stack Developer | Tech Lead]
+  1077→- [Martin Tale](https://martintale.com) [Web, App, Game Developer]
+  1078→- [Masab Qurban](https://www.masabqurban.com) [Software Engineer | Full Stack Developer]
+  1079→- [MasirJafri](https://www.masirjafri.in) [Software Engineer | Full Stack Development | Backend System Design | Generative AI]
+  1080→- [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
+  1081→- [Masud Rana Shawon Light](https://masudranashawon.vercel.app)
+  1082→- [Mateus Felipe](https://mateusf.com)
+  1083→- [Matheus Almeida](https://almeida-matheus.com) [Frontend | Software Engineer]
+  1084→- [Matheus Misumoto](https://matheusmisumoto.dev)
+  1085→- [Matheus Victor](https://matheusvictor.vercel.app)
+  1086→- [Mathis Zeghouani](https://sitham.dev)
+  1087→- [Mathiscool](https://mathiscool.is-a.dev)
+  1088→- [Matt Filer](http://mattfiler.co.uk)
+  1089→- [Matteo Mumoli](https://matteomumoli.dev) [Full Stack | Web | App | Game Dev & Freelancer]
+  1090→- [Matus Stafura](https://stafura.dev)
+  1091→- [Matvey Kottsov](https://matvey.codes)
+  1092→- [Maxim Villivald](https://villivald.com)
+  1093→- [Maxime Haegeman](https://www.maximehaegeman.com) [Data / ML Engineer]
+  1094→- [Maxwel Khadambi](https://maxwel-khadambi.vercel.app) [Software Developer | Full Stack Developer]
+  1095→- [Maya Shavin](https://www.mayashavin.com)
+  1096→- [Mayank Aggarwal](https://mayank0255.github.io)
+  1097→- [Mayank Mehra](https://mayank-portfolio-pied.vercel.app)
+  1098→- [Maytiya Monburinon](https://gigigimay.github.io)
+  1099→- [Mayurdhvajsinh Jadeja](https://mayurdhvaj.in) [Software Engineer | Backend, AI]
+  1100→- [Md Kawsar](https://www.kawsarlog.com) [Python Developer | Web Scraping, Automation, And Development Expert]
+  1101→- [Md Muhaiminul Islam Shihab](https://muhaiminShihab.github.io) [Software Developer | Php, Laravel, Next.Js, Mysql.]
+  1102→- [Md Nuruzzaman](https://mdnuruzzamandev.web.app) [Frontend Developer]
+  1103→- [Md Rashid](https://md-rashid.vercel.app) [Software Developer]
+  1104→- [Md Sarfaraz Alam](https://mdsaifedu.eu.cc/3D-portfolio/) [Full Stack DevOps Engineer]
+  1105→- [Md Usman Ansari](https://mdusmanansari.netlify.app)
+  1106→- [Meet Prajapati](https://meetprajapati.com) [Lead Mobile Engineer | Android, AI, Flutter, React Native]
+  1107→- [Mehdi Ali](https://exoo25.github.io)
+  1108→- [Mehedi Hasan Janny](https://mhjanny.com) [Full Stack Developer]
+  1109→- [Mehedi Hasan](https://m-hasan.vercel.app) [Frontend Developer]
+  1110→- [Meicloudie](https://thucvan-portfolio.vercel.app) [Software Engineer]
+  1111→- [Mejed Alkoutaini](https://majd-portfolio.framer.website) [Software Engineer]
+  1112→- [Melvin Biju](https://melvinbiju.vercel.app) [Full Stack Dev | Graphic Designer]
+  1113→- [Melvin Jones Repol](https://mrepol742.github.io)
+  1114→- [Melvin Prince](https://melvinprince.io)
+  1115→- [Melvyn Malherbe](https://melvynx.com)
+  1116→- [Mertcan Kose](https://mertcankose.vercel.app)
+  1117→- [Michael Hoffmann Mokkapps](https://mokkapps.de)
+  1118→- [Michael King](https://www.mikeking.dev) [Frontend Developer]
+  1119→- [Michael Ongaro](https://www.michaelongaro.com) [Full Stack Developer]
+  1120→- [Michaell Alavedra](https://www.michaellalavedra.com)
+  1121→- [Michaell Lynn](https://www.mlynn.org)
+  1122→- [Michal Dziuba](https://michaldziuba.dev) [Software Developer]
+  1123→- [Michel De Freitas](https://michelfreitas.com)
+  1124→- [Michelle Brenner](https://michellebrenner.com)
+  1125→- [Miguel Rodriguez](https://migu.es)
+  1126→- [Mihir Chauhan](https://chauhan-mihir.vercel.app) [ML / AI Engineer | Data Science]
+  1127→- [Mihir Das](https://getmihir.com) [Full Stack Web Developer | Reactjs | Typescript | Node Js | Ai Enthusiast]
+  1128→- [Milan Milanovic](https://milan.milanovic.org)
+  1129→- [Min Khant Kyaw](https://min-khant-kyaw-portfolio.vercel.app) [Front-End Developer]
+  1130→- [Minmitha](https://minmitha.vercel.app)
+  1131→- [Missael Rangel](https://missaelr.com/en) [Frontend Developer | React/Typescript]
+  1132→- [Mitul Savani](http://mitulsavani.com)
+  1133→- [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
+  1134→- [Mohamed Khayyer](https://mwamed.com/portfolio/)
+  1135→- [Mohamed Zhioua](https://mohamedzhioua.vercel.app/en)
+  1136→- [Mohammad Ahmad](https://3d-portfolio-orpin-one.vercel.app) [Full Stack Developer]
+  1137→- [Mohammad Ahmad](https://ahmad-netflix-portfolio-ujir.vercel.app) [Full Stack Developer]
+  1138→- [Mohammad Araf](https://araf-portfolio.vercel.app) [Software Developer]
+  1139→- [Mohammad Gauhar](https://www.iamgauhar.in) [Full Stack Engineer | Next.js & MERN]
+  1140→- [Mohammad Goli Khatir](https://github.com/mgolikhatir) [Software Engineer | Backend Developer | .Net, Python, Rest Api]
+  1141→- [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
+  1142→- [Mohammad Hadi Siavashi](https://mhsiavashi.com) [Software Engineer | Backend Developer | .Net, Python, Rest Api]
+  1143→- [Mohammad Rahmani](https://afgprogrammer.com)
+  1144→- [Mohammad Siddique Sakib](https://ssakib-portfolio.vercel.app) [Frontend Developer | React, Nextjs, TypeScript]
+  1145→- [Mohammed Abdullah Khan](https://www.mohammedabdullahkhan.com) [React Native Developer | Full Stack Developer | Software Engineer]
+  1146→- [Mohammed Atef](https://mohammedatefportfolio.vercel.app) [.Net Full Stack Developer | Software Engineer]
+  1147→- [Mohammed Ibrahim Islam](https://macromanager.dev)
+  1148→- [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio) [Mobile Developer]
+  1149→- [Mohd Ubaid Khan](https://mdubaid.in) [Software Engineer | Full Stack Engineer | Problem Solver]
+  1150→- [Mohit Joe](https://mohitjoe.vercel.app)
+  1151→- [Mohit Kumar](https://mohit1r.github.io/Portfolio) [Cloud Native Software Engineer | Java | Spring Boot | Azure | DevOps]
+  1152→- [Mohit Paudyal](https://findmohit.netlify.app)
+  1153→- [Mohit Shrivastava](https://iamohit.com) [Senior Full Stack Engineer | Next.js Specialist]
+  1154→- [Mohit Verma](https://mohitverma.codes)
+  1155→- [Mohsin Raz](https://www.mohsinraz.me) [Full Stack Developer | Ai Automation]
+  1156→- [Moin Sheikh](https://moinsheikh.in) [Full Stack Developer | AI Innovator]
+  1157→- [Moteeullah Azmi](https://moteeullahazmi.com) [Full Stack Developer & Freelancer]
+  1158→- [Mouad Ziani](https://mouadziani.github.io)
+  1159→- [Mp3Martin](https://mp3martin.xyz)
+  1160→- [Mubashar Hussain | Mubashar Dev](https://mubashar.dev) [Senior Full Stack Engineer | Mobile App Developer | Python & AI Specialist]
+  1161→- [Mudassir Ali](https://mudassirali.com) [Full Stack Developer | Software Engineer]
+  1162→- [Mudassir Junejo](https://mudassir-junejo.vercel.app) [AI Developer | Portfolio]
+  1163→- [Mufida Andi](https://heymufi.com) [Software Engineer | Frontend]
+  1164→- [Muhammad Aamir Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
+  1165→- [Muhammad Adnan](https://portfolio-orpin-nu-27.vercel.app) [Full Stack Developer | MERN, Nextjs, Nestjs]
+  1166→- [Muhammad Azlaan Zubair](https://www.mdazlaanzubair.com) [Frontend Developer]
+  1167→- [Muhammad Faheem Iqbal Faheem506Pk](https://faheem506pk.vercel.app) [Frontend Developer | Mern Stack Developer | Iot Enthusiast]
+  1168→- [Muhammad Furqan](https://iammuhammadfurqan.github.io/portfolio/) [Full Stack AI Engineer | RAG & Voice AI Specialist]
+  1169→- [Muhammad Hassan Nazar](https://hassannazar72.github.io/portfolio/)
+  1170→- [Muhammad Iqbal Nazulis](https://iqbalnzls.github.io/portfolio/) [Software Engineer | Backend]
+  1171→- [Muhammad Jahanzeb](https://jahanzeb.dev) [Mobile App Developer | React Native | Expo | Kotlin | NodeJS]
+  1172→- [Muhammad Muhaddis](https://muhaddis.info)
+  1173→- [Muhammad Murtaza](https://murtazasarwar.com)
+  1174→- [Muhammad Mustafiz Rahman](https://mustafizrahman.vercel.app) [Frontend Developer | Mern Stack Developer]
+  1175→- [Muhammad Rashid](https://iamrashy.netlify.app)
+  1176→- [Muhammad Saqib Atif](https://msaqibatifj.vercel.app) [AI/ML Engineer | Full Stack Developer]
+  1177→- [Muhammad Taha Nawab](https://taha-nawab-portfolio.vercel.app) [Full Stack Developer · AI/ML Engineer]
+  1178→- [Muhammad Tayyab](https://iamtayyab.com) [Full Stack Software Engineer]
+  1179→- [Muhammad Tufail Ahmed Khan](https://tufail.dev) [Lead Engineer | AI Engineer]
+  1180→- [Muhammad Ubaid Raza](https://mubaidr.js.org) [Sr. Software Engineer | Full Stack Developer | Chrome Extension Expert]
+  1181→- [Muhammed Ijlan](https://ijlan.dev)
+  1182→- [Muhammet Fatih Di̇Nç](https://mfatihdinc.com)
+  1183→- [Mukesh](https://themukesh.com) [Java,React, next.js, Full Stack Developer]
+  1184→- [Mukul Chugh](https://mukulchugh.com)
+  1185→- [Mushfiqur Rahman](https://mushfiq.xyz)
+  1186→- [Mustafa Yalçın](https://mylcin.vercel.app) [Front-End Developer]
+  1187→- [Mustapha El Alamy](https://alamy.vercel.app) [Full Stack Software Engineer]
+  1188→- [Mustapha Nkhili](https://mustapha-nkhili.web.app)
+  1189→- [Muzaffer Kadir Yilmaz](https://mkdir.dev)
+  1190→- [Muzammil Khalil](https://muzammalkhalil.github.io/My-personal-Portfolio/) [Wordpress Dev]
+  1191→- [Mwaki Denis](https://mwakidenis.pages.dev) [Prompt AI]
+  1192→- [Mydhily](https://mydhily-mr.github.io/portfolio/) [Embedded Developer | Electronics]
+  1193→
+  1194→## N
+  1195→
+  1196→- [Nabin Khair](https://www.nabinkhair.com.np)
+  1197→- [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
+  1198→- [Nader Ferjani](https://nader.run)
+  1199→- [Nahid Hasan](https://mdnahidhasan.netlify.app)
+  1200→- [Naimur Reza](https://naimur-reza.vercel.app) [Software Engineer | Mid Level]
+  1201→- [Nandan Sai](https://nandan.engineer) [Full Stack Developer | AI Tools]
+  1202→- [Naresh Khatri](https://www.nareshkhatri.site)
+  1203→- [Naseem Khan](https://naseemkhan.dev) [Full Stack Developer | SaaS Builder | Freelancer]
+  1204→- [Natasha Pierre-Louis](https://www.natashasfolio.com) [Front-End Developer | Design Technologist | Ui/Ux Engineer]
+  1205→- [Nathan Simpson](https://nathansimpson.design)
+  1206→- [Naveed Ahmed](https://www.trixum.net)
+  1207→- [Naveed Sohail Gung](https://naveed-gung.dev) [Software Engineer]
+  1208→- [Naveen Kumar](https://naveenweb.site) [Full Stack Developer | MERN Stack]
+  1209→- [NaveenKumar](https://naveenkumarm.space) [Full Stack Developer]
+  1210→- [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
+  1211→- [Nazmus Sayad](https://sayad.dev)
+  1212→- [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
+  1213→- [Neev Gupta](https://neevgupta.com)
+  1214→- [Nemanja Pavlovic](https://nemanja.works) [Frontend Developer | Full Stack Developer | Software Engineer]
+  1215→- [Newton Yuan](https://newtonyuan.com) [Software Engineer | Full Stack Engineer]
+  1216→- [Nguyen Chanh Dang](https://chanhdang.com)
+  1217→- [Nicholas Gannon](https://nicholasgannon.io)
+  1218→- [Nick Gray](https://nickgray.net)
+  1219→- [Nico Bachner](https://nicobachner.com)
+  1220→- [Nico Van Zyl](https://nicovanzyl.com)
+  1221→- [Nicolas Nguyen](https://www.nic-nguyen.com)
+  1222→- [Nicolo Rebughini](https://nirebu.com)
+  1223→- [Nidal Ghonaim](https://www.nidal.dev) [Full Stack Developer | Designer]
+  1224→- [Nigam Prasad Sahoo](https://nigam-portfolio-2026.web.app) [Android & Full Stack Systems Engineer]
+  1225→- [Nikhil Kumar](https://routesguard.lovable.app/r/portfolio) [Full Stack Developer | Backend Developer]
+  1226→- [Nikhil Madaravena](https://www.nikhilmadaravena.me) [Full Stack Developer and Systems Engineer]
+  1227→- [Nikhila Koneru](https://nikhilakoneru.com) [Full Stack Developer | DevOps Engineer]
+  1228→- [Nikita Sobolev](https://sobolevn.me)
+  1229→- [Niko Soriano](https://n-cv.vercel.app)
+  1230→- [Nikunj Khitha](https://nikunj.codenex.dev) [Full Stack Gen AI Developer]
+  1231→- [Nilesh Kumar](https://nileshkumar.vercel.app)
+  1232→- [Nilesh Prajapat](https://itsnilesh.vercel.app) [App Developer]
+  1233→- [Nilkanth Patadiya](https://nilkanthpatadiya.vercel.app)
+  1234→- [Nimit Trevadiya](https://nimit-trevadiya.vercel.app) [Full Stack Developer]
+  1235→- [Nipun Jain](https://lucifernipun22.github.io)
+  1236→- [Niresh Shrestha](https://niresh.com.np)
+  1237→- [Nisarg Patel](https://nisarg.io)
+  1238→- [Nischal Dutt](https://nischaldutt.netlify.app)
+  1239→- [Nishant Banjade](https://nishantbanjade.com.np)
+  1240→- [Nishant Dewangan](https://nishantdewangan.vercel.app)
+  1241→- [Nishmika Ekanayaka](https://nishmika-dev.vercel.app) [Full Stack Developer | Junior]
+  1242→- [Nitesh Nagpal](https://niteshnagpal.com)
+  1243→- [Nitesh Seram](https://niteshseram.in)
+  1244→- [Nitika](https://my-portfolio-beryl-xi-81.vercel.app) [Graphic designer | Backend developer]
+  1245→- [Nitin Sahu](https://flawlessnitin.com) [Full Stack Engineer | Backend | Frontend]
+  1246→- [Nitish](https://nitishkr.fun)
+  1247→- [Noaman Ahmed](https://noamanahmed.com)
+  1248→- [Noel Young](https://noeljyoung.github.io/portfolio/) [Senior Software Engineer | Laravel Developer | Go Enthusiast]
+  1249→- [Nsk Reddy](https://nskr.dev) [Student | Freelancer | Aspiring Ai Engineer]
+  1250→- [Nurliman Diara](https://nurliman.dev)
+  1251→- [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
+  1252→- [Nyamboga Hezron](https://www.nyambogahezron.dev) [Full Stack Developer | React, Node.js, TypeScript]
+  1253→
+  1254→## O
+  1255→
+  1256→- [Ohk Soe Htet](https://www.ohksoehtet.dev) [Software Engineer | Full Stack Developer]
+  1257→- [Oktay Shakirov](https://oktayshakirov.com)
+  1258→- [Oliver Granlund](https://olli.works)
+  1259→- [Olle Andreasson](https://oted.online) [Staff Engineer]
+  1260→- [Om Takale](https://omtakale.vercel.app)
+  1261→- [Om](https://omchaudhari1107.github.io)
+  1262→- [Omar Ashraf](https://portfollio-five-nu.vercel.app) [Frontend Developer]
+  1263→- [Omar Gastón Chalas](https://ogaston.com)
+  1264→- [Omargpax](https://omargpax.pages.dev)
+  1265→- [Omari Thompson-Edwards](https://omarileon.me)
+  1266→- [Opeyemi Obembe](http://obem.be/opeyemi)
+  1267→- [Oraz Gulchayew](https://orazgulcayew.vercel.app)
+  1268→- [Orion Dobos](https://oriondobos.com)
+  1269→- [Osama Islam](https://osamaislam.vercel.app)
+  1270→- [Oscar Tian](http://www.bluexguardian.com)
+  1271→- [Othmaro Fallas](https://othmaro.dev) [Software Architect | Founder of Filaxy Labs, Inc.]
+  1272→- [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio)
+  1273→- [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
+  1274→- [Oussama Sallak](https://www.osallak.tech)
+  1275→- [Owais Iqbal](https://iqbalowais.com) [Full Stack Developer / Generative Ai Engineer]
+  1276→- [Owono2001](https://myportfolio-b-type.onrender.com)
+  1277→
+  1278→## P
+  1279→
+  1280→- [Paal Stakvik](https://paalss.vercel.app)
+  1281→- [Pablo Conejos](https://www.pabloconejos.dev)
+  1282→- [Pablo Ramon](https://pabloramon.com.br)
+  1283→- [Pan Wei Lian](https://williamson922.github.io)
+  1284→- [Pandadev](https://pandadev.net)
+  1285→- [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
+  1286→- [Panhareach Phat](https://phatpanhareach.vercel.app)
+  1287→- [Pankaj Gaikar](https://pankajgaikar.com)
+  1288→- [Pankaj Kumar](https://pankaj-kumar-techie.github.io) [Software Engineer]
+  1289→- [Param Chaudhari](https://paramsc.dev)
+  1290→- [Parinith Mavurapu](https://parinithmavurapu.vercel.app) [Machine Learning & Full Stack Developer]
+  1291→- [Parish Khan](https://parish.cv) [Senior Software Developer | React, TypeScript, Frontend Architecture]
+  1292→- [Paritosh Khubchandani](https://paritosh-dev.vercel.app) [Full Stack Developer | React, Next.js, Django, FastAPI]
+  1293→- [Parth Kale](https://parkky.vercel.app) [AI Engineer]
+  1294→- [Parth Kaul](https://parthkaul-bit.github.io/portfolio)
+  1295→- [Parth Kothari](https://0xparthdev.netlify.app)
+  1296→- [Parth Mittal](https://parthmittal.netlify.app)
+  1297→- [Parth Sharma](https://parthh.in) [Full Stack & Ui/Ux Designer • Founder @ Rune]
+  1298→- [Pasindu Dilshan](https://pasi-d.me)
+  1299→- [Patricia Aas](https://patricia.no)
+  1300→- [Patrick Chiu](https://patrick-kw-chiu.github.io)
+  1301→- [Patrick Hyatt](https://www.patrickhyatt.com)
+  1302→- [Patrick Müller](https://p-mueller.dev) [Software Developer]
+  1303→- [Patrick Obermeier](https://www.patrickobermeier.at)
+  1304→- [Paul Henry Atienza](https://www.paulatienza.dev) [Software Engineer | Enterprise Java Developer]
+  1305→- [Paul Koeck](https://paul.koeck.dev)
+  1306→- [Paul Pietzko](https://www.paulpietzko.com)
+  1307→- [Paulo Oliveira](https://paul8liveira.is-a.dev)
+  1308→- [Pavan Srivatsav Valluru](https://pavansrivatsav.com) [Full Stack Developer]
+  1309→- [Pawaret Meungkaew](https://www.pawaret.dev)
+  1310→- [Pazindu Shane](https://pazindushane.github.io)
+  1311→- [Pep Alonso](https://pepalonso.com) [Software Engineer]
+  1312→- [Peter Kyale](https://studio44.is-a.dev) [Blockchain Developer | Web3]
+  1313→- [Peter Oravec](https://peteroravec.com) [Full Stack Developer]
+  1314→- [Peter Steinberger](https://steipete.me) (Creator of [Openclaw](https://openclaw.ai))
+  1315→- [Petros Dhespollari](https://peterdsp.dev) [iOS Engineer]
+  1316→- [Phat Tran Tan](https://portfolio-ttp.vercel.app) [Software Engineer | Frontend Developer]
+  1317→- [Philip Johnson](https://philipmjohnson.org)
+  1318→- [Philipe Almeida](https://palmeida.netlify.app)
+  1319→- [Philippe Fanaro](https://aquarifolio.vercel.app) [Full Stack Developer]
+  1320→- [Phpxcoder](https://phpxcoder.in)
+  1321→- [Phyo Min Thein](https://phyominthein.com) [Full Stack Developer | AI Engineer]
+  1322→- [Pierre Nel](https://pierre.io) [Full Stack Developer | Ux/Ui Designer]
+  1323→- [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
+  1324→- [Pol Gubau Amores](https://polgubau.com)
+  1325→- [Poluianov Ivan](https://poluianov.com) [Senior Software Engineer]
+  1326→- [Poonam Chauhan](https://poo17nam.github.io/profile)
+  1327→- [Poorvaj Hinge](https://poorvajhinge.vercel.app) [DevOps and AIOps Software Engineer]
+  1328→- [Prajwol Karki](https://prajwolkarki.com.np)
+  1329→- [Prakash Jha](https://prakashjha.com) [Full Stack Dev.]
+  1330→- [Prakash Pun](https://prakashpun.me) [Software Engineer]
+  1331→- [Prakhar Mittal](https://stackbyprakhar.vercel.app) [Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer]
+  1332→- [Prakhar Yadav](https://prakharyxdev.vercel.app) [Full Stack Developer | Tech Content Creator]
+  1333→- [Pramesh Karki](https://karkipramesh.com.np)
+  1334→- [Pranav Arya](https://pranavarya.in) [Software Engineer]
+  1335→- [Pranay Bandaru](https://pranaybandaru.vercel.app) [Data Science]
+  1336→- [Pranshu Patel](https://pranshu05.vercel.app)
+  1337→- [Prashant Khandelwal](https://prashantk.dev)
+  1338→- [Prataya Silla](https://prataya-portfolio.vercel.app)
+  1339→- [Praveen Kumar Purushothaman](https://praveen.science) [Full Stack React Js Developer | Director Of Engineering]
+  1340→- [Praveen Kumar](https://praveengongada.com) [Software Development Engineer]
+  1341→- [Preet Suthar](https://preetsuthar.me)
+  1342→- [Prem Acharya](https://premacharya.vercel.app)
+  1343→- [Prem Gangadharan](https://premsg.info)
+  1344→- [Prem Prakash Sharma](https://premprakashsharma.vercel.app)
+  1345→- [Prince Bhayani](https://princeb.dev) [Full Stack Developer]
+  1346→- [Pritam Debnath](https://pridebnath.github.io/portfolio-v2) [Frontend Developer]
+  1347→- [Pritu Yadav](https://prituyadav.github.io)
+  1348→- [Priya Nayak](https://priya180975.github.io/portfolio)
+  1349→- [Priyabrata Singh](https://pmanifestoo.vercel.app)[Full Stack Developer | Ux/Ui Designer]
+  1350→- [Priyanshu Chauhan](https://priyanshuportfolioo.netlify.app) [Full Stack Developer]
+  1351→- [Priyanshu Singh](https://built-by-priyanshu.netlify.app)
+  1352→- [Pruthviraj Mundargi](https://pruthviraj-guddu.github.io)
+  1353→- [Puja Sridhar](https://pujasridhar.github.io) [Interactive Rag-Powered Terminal And Gui Portfolio.]
+  1354→- [Purnank Jadhav](https://purnankjadhav-portfolio.vercel.app) [Front-End Engineer]
+  1355→- [Purnendu Samanta](https://purnendusamanta.github.io/MyPortfolio/) [Android Application Developer | Flutter Developer]
+  1356→- [Purv Kabaria](https://purvkabaria.netlify.app)
+  1357→- [Pushkar Patel](https://thepushkarp.com)
+  1358→- [Pushpak Chhajed](https://pushpak1300.github.io)
+  1359→- [Puzant Bakjejian](https://puzant.netlify.app)
+  1360→
+  1361→## Q
+  1362→
+  1363→- [Qihang Feng](https://qfeng.beaverexp.com) [Software Engineering Student | Full Stack Development, Machine Learning]
+  1364→- [Qui Nguyen](https://www.lexnguyen.dev)
+  1365→- [Quint Wessels](https://quintwessels.com)
+  1366→
+  1367→## R
+  1368→
+  1369→- [Rabeeh](https://sayyedrabeeh.github.io/personal)
+  1370→- [Rabin Thami](https://www.rabinthami.com.np)
+  1371→- [Radiat Hossain Ridoy](https://radiat.netlify.app)
+  1372→- [Rafael Salazar](https://rafalazar.github.io)
+  1373→- [Rafael Santana](https://www.rafaelsantana.dev)
+  1374→- [Ragav](https://ragavs-profile.netlify.app)
+  1375→- [Rahul Gulabaji](https://rahulgulabaji.github.io) [Software Engineer]
+  1376→- [Rahul Gurujala](https://rahulgurujala.is-a.dev) [Full Stack Developer]
+  1377→- [Rahul Khatwani](https://rahulkhatwani.vercel.app) [Full Stack Developer]
+  1378→- [Rahul Kumar](https://rahulbaran.vercel.app)
+  1379→- [Rahul Kushwaha](https://raahullkushwaha.dev) [Full Stack Developer | Java | Spring Boot]
+  1380→- [Rahul Mehta](https://rahulmehta.dev)
+  1381→- [Rahul Sawant](http://raalzz.com)
+  1382→- [Raj Aryan](https://rajxryan.vercel.app)
+  1383→- [Raj Chhalotrte](https://raj-portfolio101.netlify.app)
+  1384→- [Raj Kalsariya](https://www.freezemoment.co.uk) [Photographer]
+  1385→- [Raj Sharma](https://www.rajsh.in) [Software Engineer]
+  1386→- [Rajan Bhattarai](https://cdrrazan.com)
+  1387→- [Rajekevin](https://rajekevin.fr)
+  1388→- [Rajesh Pal](https://rajs.app) [Full Stack Developer | AI Enthusiast]
+  1389→- [Rajiv Mahto](https://rajiv-portfolio-dev.vercel.app) [Software Engineer | Python, Django, Automation]
+  1390→- [Rajneesh Tiwari](https://myselfraj.com) [Software Developer | Creative Technologist & AI Engineer]
+  1391→- [Rajveer Singh](https://rajveersingh24.vercel.app) [AI/ML Engineer]
+  1392→- [Rakesh Adak](https://rakesh404.vercel.app) [Animated Portfolio | GSAP | Student | Backend Dev]
+  1393→- [Rakesh Kannepelli](https://portfolio-ruby-tau-62.vercel.app) [AI / ML and Full Stack Developer]
+  1394→- [Rakesh Kumar Gupta](https://rakesh.arcavio.com)
+  1395→- [Rakibul Islam](https://rakibul-islam-hasib.web.app)
+  1396→- [Ralf Müller](https://fiveandahalfstars.ninja/rdmueller.html)
+  1397→- [Raman Ramanouski](https://ratu.dev)
+  1398→- [Ramesh Kumar](https://rameskum.com)
+  1399→- [Rameshwar Bhagwat](https://www.rameshwarbhagwat.me) [Full Stack Developer]
+  1400→- [Ramin Rezaei V1](https://raminrezaei.se)
+  1401→- [Ramin Rezaei V2](https://raminr77.vercel.app)
+  1402→- [Ramiz](https://my-portfolio-pied-xi.vercel.app)
+  1403→- [Ramzi Bouzaiene](https://ramzibouzaiene.vercel.app) [Software Engineer | Full Stack Developer]
+  1404→- [Raphaël Giraud](https://toukoum.fr) [AI Sofware Engineer]
+  1405→- [Rasyid Nuruddin](https://thesimpanze.github.io/Portofolio-Rasyid) [Front-End Developer]
+  1406→- [Ravi Bhushan Kumar](https://ravibhushan-portfolio.vercel.app) [Full Stack Developer | Mern]
+  1407→- [Raymond Valdepeñas](https://raymondvaldepenas-dev.vercel.app) [Full Stack Developer | Aiot & Embedded Systems | Junior Software Engineer]
+  1408→- [Raymond Valencia](https://paolo1231.github.io)
+  1409→- [Raziel Rodrigues](https://www.razielrodrigues.dev)
+  1410→- [Reagan Hsu](https://reaganhsu.com) [Full Stack Developer]
+  1411→- [Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
+  1412→- [Reeya Gupta](https://reeyadev.vercel.app) [Full Stack Developer]
+  1413→- [Remco Stoeten](https://remcostoeten.nl) [Frontend Engineer | Graphic Design Degree]
+  1414→- [Remi Jara](https://www.remi-jara.fr)
+  1415→- [Remy Jouni](https://remyjouni.dev) [Frontend Developer & Ui/Ux Designer]
+  1416→- [Renan Silva](https://devrenansilva.netlify.app) [Full Stack Developer]
+  1417→- [Renjith Abraham](https://renjith.com)
+  1418→- [Rensith Udara](https://rensithudara.github.io/portfolio)
+  1419→- [Revan Azra](https://portoku0091.dpdns.org) [Frontend Dev]
+  1420→- [Rhenz Rhenz Portfolio](https://rhenzportfolio.vercel.app)
+  1421→- [Riccardo Venturini](https://riccardoventurini.dev)
+  1422→- [Richard Hill](https://www.rhdigital.co.uk) [Digital Designer]
+  1423→- [Richard Porter](https://richardporter.dev) [Full Stack Developer | Laravel | Vue | React]
+  1424→- [Rick Hanlon](https://rickhanlonii.github.io)
+  1425→- [Ricky Serrano](https://rickyserrano.dev) [Help Desk Grunt | Next.js, React, SpringBoot, Full Stack]
+  1426→- [Ridwan Ajanaku](https://olakunle.dev) [Frontend Software Engineer]
+  1427→- [Rifat Ishtiyak](https://rifat-ishtiyak.web.app)
+  1428→- [Rifqisakha](https://www.rifqisakha.my.id) [Frontend Developer, Designer, Ui/Ux]
+  1429→- [Riley Shaw](https://rileyjshaw.com)
+  1430→- [Rimenes Ribeiro](https://rimenesribeiro.com)
+  1431→- [Rimon Chowdhury](https://rimonchowdhury.netlify.app)
+  1432→- [Rishav](https://v0idrsh.vercel.app)
+  1433→- [Ritesh Bucha](https://bucharitesh.in) [Full Stack Developer]
+  1434→- [Rito Chabalala](https://ritochabalala.github.io) [Software Engineer | Full Stack & AI / GenAI Engineer]
+  1435→- [Rituparna Warwatkar](https://rituparnawarwatkar.com) [Sde@Aws Ec2, Berlin]
+  1436→- [Rizan Bhandari](https://acchyut.com.np) [Researcher & Full Stack Developer]
+  1437→- [Rizwan Shah](https://rizwanshah9792.github.io/Portfolio)
+  1438→- [Robin Mastromari](http://robinmastromarino.com) [Ui/Ux Designer]
+  1439→- [Robiul Hasan](https://www.robiulhasan.dev)
+  1440→- [Rohit Kumar Ranjan](https://rohitkumarranjan.in) [Cyber Security]
+  1441→- [Rohit Kumar Sahoo](https://rohitksahoo.vercel.app) [Systems Architect | Backend Developer]
+  1442→- [Rohit Kushwaha](https://rohitk06.vercel.app)
+  1443→- [Rohit Raj](https://rohit-raj.netlify.app)
+  1444→- [Rohit Singh](https://rohitsinghworks.vercel.app) [Software & Web Developer | Next.js, MERN & Full Stack]
+  1445→- [Rohit Singh](https://rohitwork.vercel.app) [Software Engineer | Next.js, MERN]
+  1446→- [Rohit Solanki](https://rohitsolanki.me)
+  1447→- [Rohit Soni](https://rohitsoni007.github.io/portfolio) [Full Stack, Mern, Reactnative]
+  1448→- [Rohit Wadhwa](https://github.com/rohit-wadhwa)
+  1449→- [Roland Taylor](http://rolandixor.pro)
+  1450→- [Rolind Roy](https://rolind.me) [DevOps]
+  1451→- [Roman Sendziuk](https://portfolio-romsendz.vercel.app)
+  1452→- [Roman Smunyov](https://romanisthere.github.io)
+  1453→- [Ronak Bokaria](https://ronakjain2012.netlify.app)
+  1454→- [Ronny Coste](https://ronnycoste.com)
+  1455→- [Roshan Kr Soni](https://roshankrsoni.github.io)
+  1456→- [Roshan Kunwar](https://roshankunwar.com.np) [Researcher | Engineer]
+  1457→- [Roshan Parajuli](https://roshanparajuli.com.np) [Senior Engineer | Technical Project Manager]
+  1458→- [Ruban Gino Singh](https://www.rubangino.ca) [AI Engineer | AI Systems Builder | Full Stack AI Developer]
+  1459→- [Rumman Srummanf](https://srummanf.vercel.app)
+  1460→- [Rutansh Chawla](https://rutansh.is-a.dev) [Software Engineer]
+  1461→- [Rutik Kulkarni](https://www.crio.do/learn/portfolio/rutikkulkarni2001)
+  1462→- [Ryan Aguiar](https://my-portfolio-rho-indol-29.vercel.app)
+  1463→- [Ryan Burgess](http://ryanburgess.com)
+  1464→- [Ryan Chen](https://ryanyychen.github.io/portfolio) [Student]
+  1465→- [Ryan Fitton](https://ryanfitton.co.uk)
+  1466→- [Ryan Ma](https://yutengma.me/work-experience) [SoC Power Engineer At Apple]
+  1467→- [Ryan Maclean](http://ryanmaclean.com)
+  1468→- [Ryan Pereira](http://ryanpereira.me)
+  1469→
+  1470→## S
+  1471→
+  1472→- [SE Jihad](https://sejihad.vercel.app) [Full Stack Developer]
+  1473→- [Saad Mehmood](https://iamsaadmehmood.com) [Full Stack Software Developer]
+  1474→- [Saad](https://saadarqam.vercel.app)
+  1475→- [Saahil](https://saahild.com)
+  1476→- [Saaketh Jella](https://www.saakethj.in) [Associate Software Engineer]
+  1477→- [Saavan Gajjar](https://www.saavangajjardev.in) [Software Engineer | Full Stack]
+  1478→- [Sabarish](https://www.sabarish.in)
+  1479→- [Sabbir Ahmed Shawon](https://sabbirshawon.com) [Full Stack Software Developer]
+  1480→- [Sabbir Ahmed](https://sabbirahmed.net) [Full Stack Developer]
+  1481→- [Sabin Ranabhat](https://sawin.com.np) [Senior Mobile Developer]
+  1482→- [Sabittwa Banerjee](https://strangelytrue.vercel.app)
+  1483→- [Sachin Srinivasan](https://s8sachin.github.io)
+  1484→- [Saeid Doroudi](https://saeiddoroudi.ir)
+  1485→- [Safal Narshing Shrestha](https://safalnarshing.com.np) [ML/AI Engineer]
+  1486→- [Sagar Adulkar](https://sagar-adulkar.vercel.app)
+  1487→- [Sagar Betkar](https://sagarbetkar.netlify.app)
+  1488→- [Sagar Bhusal](https://www.sagarb.com) [Expert System Admin And DevOps Engineer.]
+  1489→- [Sagar Chopda](https://sagarchopda757.github.io/developer-portfolio) [Software Engineer - Mern,GenAi]
+  1490→- [Sagar Giri](https://girisagar46.github.io)
+  1491→- [Sagar Gupta](https://sagargupta.online/portfolio-react/) [Cloud Consultant at AWS | Full Stack Developer]
+  1492→- [Sagar Khurana](https://hellosagar.vercel.app)
+  1493→- [Sagar Mude](https://sagarmude.netlify.app)
+  1494→- [Sahib Hernández](https://www.presoftcore.com) [Software Engineer & Music Producer]
+  1495→- [Sahil Bajaj](https://sahilbajajportfolio.vercel.app) .[Full Stack Developer]
+  1496→- [Sahil Bhatane](https://sahilbhatane.vercel.app) [Ai/Ml Engineer]
+  1497→- [Sahil Kapoor](https://sahilkapoor.com)
+  1498→- [Sahil Khan](https://sahil-site-chi.vercel.app) [Full Stack Developer]
+  1499→- [Sahil](https://sahil500-portfolio.netlify.app)
+  1500→- [Sai Ganesh](https://my-portfolio-iota-mauve-22.vercel.app) [Full Stack Developer, Ui/Ux Designer And Adobe Tools]
+  1501→- [Sai Sudheer Dontha](https://github.com/saisudhir14)
+  1502→- [Sai Teja](https://saiteja13427.github.io)
+  1503→- [Sai Terukula](https://saiterukula.com) [DevOps Engineer]
+  1504→- [Saibramha Narsingoju](https://saibramhanarsingoju.github.io) [Software Engineer]
+  1505→- [Said Kharboutli](https://saidk.io)
+  1506→- [Saif Ur Rehman](https://saifwebdev.netlify.app)
+  1507→- [Saiful Alam](https://msar.me)
+  1508→- [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
+  1509→- [Saim Shafique](https://saimshafique.com) [Frontend Developer]
+  1510→- [Sairithik Komuravelly](https://heysai.dev/) [Full Stack Engineer | AI Integration & Tooling]
+  1511→- [Saitheja Komalla](https://saitheja20.github.io/Portfolio)
+  1512→- [Sakib Mansuri](https://sakib-m.me) [Software engineer/AI developer]
+  1513→- [Sakib Rahman](https://rsakib.com) [Software Engineer]
+  1514→- [Saksham Agarwal](https://skshamagarwal.github.io)
+  1515→- [Sakshi Jaiswal](https://sakshi.is-cool.dev) [Full Stack Developer | Next.Js | Ui/Ux]
+  1516→- [Sam Foreman](https://samforeman.me) [Computational Scientist]
+  1517→- [Samarth Batra](https://batrasamarth.com) [Software Developer]
+  1518→- [Samarth Kadam](https://samarthkadam.vercel.app)
+  1519→- [Samarth Kosta](https://xamarth.pp.ua)
+  1520→- [Sambhu Babu](https://sambhusbabu.com) [Frappe & ERPNext Developer]
+  1521→- [Sameer Agarwal](https://www.elite-lord.com) [Computer Science Student | Software Intern]
+  1522→- [Sameer](https://sameer27.netlify.app)
+  1523→- [Samik Malhotra](https://samikmalhotra.netlify.app)
+  1524→- [Samrat Mitra](https://lionelsamrat10.github.io)
+  1525→- [Samrin Jaji](https://samrinjaji.github.io/my-portfolio/) [Frontend Developer | Web Applications]
+  1526→- [Samrit Mukherjee](https://samrit.dev) [Full Stack Dev | AI Dev | Product Dev]
+  1527→- [Samuel Alewi](https://krash-cod3.github.io) [Backend Engineer and Web Automation Expert]
+  1528→- [Samuel Ezra](https://www.samuelezranas.codes) [Full Stack & Mobile Developer | Tech Student & Enthusiast]
+  1529→- [Sanajit Jana](https://sanajitjana.github.io)
+  1530→- [Sandeep Mallick](https://sandeepmallick.github.io/sandeepportfolio/)
+  1531→- [Sandeep Panigrahi](https://sandeepdot1.github.io)
+  1532→- [Sandeep Singh](https://portfolio-seven-bice-pdn04n7l52.vercel.app) [Full Stack Developer]
+  1533→- [Sanee Itas](https://saneeitas.netlify.app)
+  1534→- [Sangle Sudarshan](https://sanglesudarshan.vercel.app)
+  1535→- [Sanjiv Thapa](https://portfolio.sanjivthapa.com.np/home) [Backend Developer]
+  1536→- [Sankalp Tharu](https://sankalptharu.com.np)
+  1537→- [Sanket Chaudhari](https://sanketchaudhari.in) [Full Stack Developer | AI & Data Science Engineer]
+  1538→- [Sanskar Suryawanshi](https://010101-sans.is-a.dev) [Full Stack Architect]
+  1539→- [Santosh Yadav](http://santoshyadav.dev)
+  1540→- [Sanyam Kumar](https://sanyam.dev)
+  1541→- [Saptarshi Mandal](https://saptarshimandal1618.framer.ai)
+  1542→- [Sarang](https://srng.dev)
+  1543→- [Sarker Ayon](https://www.thenicedev.xyz)
+  1544→- [Sarker Mohammad Riduan](https://devfolio-riduan.vercel.app) [Software Engineer]
+  1545→- [Saroj Pradhan](https://pradhansaroj.com.np)
+  1546→- [Sarshij Karn](https://sarshijkarn.com.np) [Electronics,Communication & Information Engineer]
+  1547→- [Sartaj Alam](https://sak03.github.io/sartaj.dev)
+  1548→- [Saswata Dutta](https://saztech.org)
+  1549→- [Saswata Mondal](https://saswatamondal.me)
+  1550→- [Sathwik Yellapragada](https://www.sathwiky.dev) [Full Stack Developer]
+  1551→- [Satish Jhanwer](https://satishjhanwer.dev) [Frontend Architect | AI & ML Engineer]
+  1552→- [Satish Vaishnav](http://satishvaishnav.in)
+  1553→- [Satyam Gupta](https://imlolman.github.io)
+  1554→- [Saurabh Daware](https://www.saurabhdaware.in)
+  1555→- [Saurabh Nemade](https://www.nemade.eu) [Staff Engineer)
+  1556→- [Saurabh Patil](https://saurabhpatil.netlify.app) [Code Craftsman]
+  1557→- [Saurabh Singh](https://saurabh-works.netlify.app)
+  1558→- [Saurabh Talele](https://saurabhtalele.com) [Full Stack developer]
+  1559→- [Saurabh Verma](https://saurabhv749.github.io) [Full Stack Developer]
+  1560→- [Saurav](https://sauravmh.com)
+  1561→- [Savan Rathod](https://portfolio-8xwk.vercel.app)
+  1562→- [Sawyer Hollenshead](https://www.sawyer.soy)
+  1563→- [Sayan Adhikary](https://www.sayanadhikary.me) [Full Stack Mern]
+  1564→- [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
+  1565→- [Sayandeep Majumdar](https://sayandeepmajumdar.github.io) [Software Engineer]
+  1566→- [Sayantan Basu](https://sayantan-basu.vercel.app)
+  1567→- [Sayed Anowar](https://sayedanowar.netlify.app) [Freelance Web Developer]
+  1568→- [Sayeed Shorif](https://sayeeed-shorif.vercel.app) [FrontEnd Web Developer]
+  1569→- [Sayyed](https://sayyedrabeeh.github.io/portfoliyo/) [Full Stack Developer]
+  1570→- [Sayyid Marvan](https://sayyidmarvanvt.vercel.app)
+  1571→- [Schalk Venter](https://schalkventer.me)
+  1572→- [Schleidens Dev](https://schleidens.netlify.app)
+  1573→- [Scott Spence](https://scottspence.com)
+  1574→- [Sebastian Cherny](https://sebascherny.github.io)
+  1575→- [Sebbie Chanzu](https://sebbie-chanzu.vercel.app) [Backend, DevOps And Machine Learning Engineer]
+  1576→- [Serdar Salim](https://serdarsalim.com) [Automation Engineer]
+  1577→- [Sergei Chestakov](https://sergei.com)
+  1578→- [Sergio Sanchez](https://sdsanchezm.github.io) [.Net And Java Dev]
+  1579→- [Serhii Nazarov](https://www.serhii-nazarov.com) [Senior Front-End | Full Stack Engineer]
+  1580→- [Seth Hall](https://sethhallcreative.com)
+  1581→- [Seunghun Bang](https://seunghun-website.vercel.app)
+  1582→- [Seyhun Akyurek](https://www.seyhunakyurek.com)
+  1583→- [Seyoon Puvi](https://seyoonpuvi.github.io/personal-portfolio)
+  1584→- [Sezer](https://www.imsezer.com) [Machine Learning/Robotics Engineer, Photography Amateur]
+  1585→- [Shaan Khan](https://www.shaankhan.dev)
+  1586→- [Shafiuzzaman](https://shafisma.me) [Full Stack Developer | UI/UX]
+  1587→- [Shahan Arshad](https://shahan-arshad.github.io) [Full Stack Developer]
+  1588→- [Shaheen Amjed](https://shaheen-amjed.vercel.app) [Full Stack Web Developer]
+  1589→- [Shahid Shaikh](http://shahidshaikh.com)
+  1590→- [Shahrukh Anwar](https://shahrukhanwar.vercel.app) [Senior Full Stack Developer]
+  1591→- [Shailendra Singh](https://singhshailendra.in)
+  1592→- [Shakhzhakhan Maxudbek](https://args.tech)
+  1593→- [Shakir Ali](https://shakiraliswe.com) [Full Stack Developer]
+  1594→- [Shalon Fernando](https://shalon.vercel.app) [Software Engineer]
+  1595→- [Shankumar Pitta](http://shankumar.is-a.dev)
+  1596→- [Shannon Crabill](http://shannoncrabill.com)
+  1597→- [Shanthosh Krishnakumar](https://drmsweb.com)
+  1598→- [Shanto Joseph](https://shantojoseph.com) [Full Stack | Developer]
+  1599→- [Sharif Rahat](https://sharifrahat.com) [Full Stack Developer]
+  1600→- [Sharif](https://developersharif.github.io/me/) [Full Stack Engineer]
+  1601→- [Sharon Yi](https://sharon-yi.com) [Frontend Developer]
+  1602→- [Sharuk Sayyed](https://sayyed-sharuk-portfolio.vercel.app) [Frontend Developer]
+  1603→- [Shashank Kumar Chaudhary](https://my-portfolio-shashank-crypto.vercel.app)
+  1604→- [Shashank Shet](https://shashank-shet.vercel.app)
+  1605→- [Shashi Kant](https://shashikantportfolio.web.app) [Full Stack Developer]
+  1606→- [Shaun Furtado](https://shaunfurtado.is-a.dev)
+  1607→- [Shaurya Chandhoke](https://shauryachandhoke.com/?utm_source=github&utm_medium=social&utm_campaign=portfolio) [Software Engineer | Machine Learning Engineer]
+  1608→- [Shawn Kurtnelle Lewis](https://shawnklewis.com) [Augmented Software Engineer | Systems Architect]
+  1609→- [Shazeb Khan](https://shazeb-portfolio.vercel.app) [AI Engineer | Full Stack Developer]
+  1610→- [Shefali](https://shefali.dev)
+  1611→- [Shihablabs](https://shihablabs.vercel.app) [Full Stack Developer / Software Engineer]
+  1612→- [Shikhar Gupta](https://shikhar97.github.io)
+  1613→- [Shiva Raj Paudel](https://shivarajpaudel.com.np)
+  1614→- [Shivam Garg](https://shivamgarg82.github.io/Portfolio)
+  1615→- [Shivam Kashyap](https://shivampro.vercel.app)
+  1616→- [Shivam Raj](https://shivxmr.netlify.app)
+  1617→- [Shivesh Chaturvedi](https://shivesh1606.github.io/portfolio)
+  1618→- [Shivram Sambhus](https://shivi.io)
+  1619→- [Shivy Patel](https://shivypatel.com) [Full Stack Developer]
+  1620→- [Shomi Khan](https://shomi-khan.github.io)
+  1621→- [Shourov Paul](https://shourov-paul.github.io) [Electronics Engineer | Embedded Systems]
+  1622→- [Shrestha Mishra](https://shresthamishra.vercel.app) [Software Engineer | CS @ University Of Texas At Austin]
+  1623→- [Shrey Asthana](https://shrey-asthana-portfolio.netlify.app)
+  1624→- [Shrey Varshney](https://shreyvarshney.pages.dev) [Software Engineer | Full Stack Developer]
+  1625→- [Shreya Saraswat](https://shreya-saraswat-portfolio.vercel.app) [Frontend Developer | ReactJs]
+  1626→- [Shreyas Raviprakash](https://portfolio-vfee.vercel.app) [Full Stack Developer]
+  1627→- [Shubhadeep Mahapatra](https://shubhadeepsec.github.io) [Cybersecurity]
+  1628→- [Shubham 404](https://shubham-404.vercel.app) [Crafting Code with Purpose | Student]
+  1629→- [Shubham Chaturvedi](https://shu8ham.netlify.app)
+  1630→- [Shubham Dey](https://shubhamdey01.github.io) [Student | AI/ML | Data Science]
+  1631→- [Shubham Gaur](https://shubhamessier.github.io/portfolio)
+  1632→- [Shubham Tarade](https://coder-shanks.github.io)
+  1633→- [Shubham Vandara](https://shubhamvandara.netlify.app) [Full Stack Developer]
+  1634→- [Shubhanshu Singh](https://shubhanshusingh.com) [Platform Engineer, Enterprise Architect, Founder @ exemplar.dev]
+  1635→- [Shuvam Manna](http://shuvam.xyz)
+  1636→- [Siddharth Chattoraj](https://siddharthchattoraj.com) [Full Stack Developer | Production Designer]
+  1637→- [Siddharth Roy](https://siddharthroy.com)
+  1638→- [Siddharth](https://sudosidd.dev) [Game Developer]
+  1639→- [Siem Van Bree](https://siemvanbree.nl) [Siem Van Bree - Software Developer]
+  1640→- [Silas Rodrigues](https://silasrodrigues.vercel.app)
+  1641→- [Simon Aytes](https://saytes.io) [Senior Data Scientist | AI/ML, Software Engineering]
+  1642→- [Simon Fereshetyan](https://fereshetyan.space) [Software Engineer / DevOps]
+  1643→- [Simon Knott](https://simonknott.de)
+  1644→- [Siraj AL Zahran](https://sirajalzahran.com) [Software Engineer | Tech Artisan]
+  1645→- [Siva Vignesh](https://siva-vignesh.github.io/portfolio)
+  1646→- [Sixtus Miracle Agbo](https://www.sixtusagbo.dev)
+  1647→- [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
+  1648→- [Slimaeus](https://slimaeus.github.io) [.NET Developer]
+  1649→- [Soham Penshanwar](https://thesoham2203.vercel.app)
+  1650→- [Soham Sarkar](https://sohamsarkar.com) [Builder | Tech | Product]
+  1651→- [Sohanuzzaman Soad](https://ssoad.github.io) [Software Engineer | Mobile App Developer | AI Engineer]
+  1652→- [Sohayel Mahmud](https://sohayelmahmud.github.io) [Computer Science Student| Competitive Programmer]
+  1653→- [Somenath Sau](https://somenathsau.github.io) [Data Analyst | gen AI | Cloud]
+  1654→- [Sonu Hansda](https://sonu-hansda.netlify.app) [Full Stack Developer]
+  1655→- [Soufiane El Hamri](https://www.soufiane-elhamri.com) [Full Stack Developer]
+  1656→- [Souilah Moncef](https://moncef37i.github.io/portfolio/) [Full Stack Web Developer | Algeria]
+  1657→- [Soumyajit Basak](https://soumyajitbasak.netlify.app) [Software Developer]
+  1658→- [Soumyajit Behera](https://soumyajit.vercel.app)
+  1659→- [Sourabh Kothari](https://sourabhkothari.vercel.app)
+  1660→- [Sourav Dey](https://souravdey.space)
+  1661→- [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
+  1662→- [Sree Godavarthi](http://sreegodavarthi.github.io)
+  1663→- [Sreenitya Thatikunta](https://portfolio-sreenitya.vercel.app)
+  1664→- [Sri Anjaneyam](https://srianjaneyam.me)
+  1665→- [Srihari Kulkarni](https://srihari-k-portfolio.vercel.app)
+  1666→- [Srijan Baniyal](https://srijanbaniyal.com) [Full Stack Developer]
+  1667→- [Ste O'Neill](https://steoneill.dev)
+  1668→- [Stefan Bohacek](https://fourtonfish.com)
+  1669→- [Stefan Topalovic](https://www.stefantopalovic.com)
+  1670→- [Stephanie Lin](https://lin-stephanie.github.io)
+  1671→- [Stuart Blackler](https://codewithstu.tv) [Principal Software Engineer | AWS | .NET]
+  1672→- [Stéphane Chan Hiou Kong](https://www.chan-stephane.me)
+  1673→- [Stimmie](https://stimmie.dev) [Software Engineer | Next.js]
+  1674→- [Subhajit Kar](https://next-portfolio-tan-ten.vercel.app) [Full Stack Developer]
+  1675→- [Subhan Nadeem](https://subhan-dev-portfolio.vercel.app)
+  1676→- [Subhasish Das](https://subhasish-portfolio.vercel.app)
+  1677→- [Subrat Dwivedi](https://subratdwivedi.dev) [Software Engineer | Full Stack Developer]
+  1678→- [Sudarshan Rai](https://sudarshanrai.com.np) [Full Stack Developer]
+  1679→- [Sudeep Ranjan Sahoo](https://iamsrs.com) [Business Architecture Analysts | ERP Systems]
+  1680→- [Sudev Thapa Magar](https://www.sudevmagar.tech)
+  1681→- [Suhail Roushan](https://suhailroushan.com)
+  1682→- [Sujal Bedre](https://sujal-bedre.vercel.app) [Ai/Ml Dev && Mern-Stack Dev]
+  1683→- [Sumeet](https://full-stack-liard-eight.vercel.app)[Software Developer]
+  1684→- [Sumonta Saha Mridul](https://sumonta056.github.io)
+  1685→- [Sunil Band](https://www.sunilband.com) [Frontend Engineer]
+  1686→- [Sunil Mahato](https://mahatosunil.com.np) [Android Developer | Kotlin]
+  1687→- [Supratik Bhowal](https://supratikb23.github.io) [Ai/Ml Student | Junior Researcher]
+  1688→- [Suraj Kumar Nanda](https://www.surajkumarnanda.com) [Senior DevOps Engineer]
+  1689→- [Suraj Savle](https://surajsavle.in) [Full Stack Developer]
+  1690→- [Suraj Yadav](https://suraj-yadav0.github.io/terminal-portfolio/) [Software Engineer | Ubuntu Touch Developer]
+  1691→- [Suvojit Konar](https://portfolio-ten-olive-gldao60wxb.vercel.app) [Senior Software Engineer | Backend Developer | AI Enthusiast]
+  1692→- [Swagata Ganguly](https://swagata.tech) [Full Stack Developer with GEN AI]
+  1693→- [Swaroop Vyawahare](https://swaroop.codes) [Full Stack Developer]
+  1694→- [Swayam Kesarkar](https://nerd-swayam.vercel.app) [Nerd | Machine Learning | CyberSecurity
+  1695→]
+  1696→- [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
+  1697→- [Syed Aashiq Ahamed](https://www.syedahamed.in) [Software Development Engineer | Frontend Engineer]
+  1698→- [Syed Abdul Aman](https://p-r-e-m-i-u-m.github.io/AmanGenAI/) [Generative AI Developer | LLMs | Python]
+  1699→- [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
+  1700→- [Syed Muhammad Saad Bukhari](https://saadbukhari.vercel.app) [Software Developer | Polygot Programmer]
+  1701→- [Syed Omer Ali](https://syedomer.me) [Software Engineer | DevSecOps Engineer]
+  1702→- [Syed Saad](https://syedsaad.dev) [Software Engineer]
+  1703→- [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
+  1704→- [Syed Syab Ahmad Portfolio](https://syab.tech)
+  1705→- [Syed Zain Ul Abideen](https://www.szain.co) [Full Stack Developer]
+  1706→
+  1707→## T
+  1708→
+  1709→- [Tadashi Amano](https://tadashiamano.vercel.app)
+  1710→- [Taiizor](https://github.com/Taiizor) [.Net Developer]
+  1711→- [Talha Kılıç](https://talhakilic.com.tr) [Junior Frontend Developer]
+  1712→- [Tanay Shah](https://tanayshah.dev) [AI Engineer | Agent Infrastructure · Founding-Engineer Reps · NYC]
+  1713→- [Tanish Rai](https://tanishrai.dev) [Software Developer]
+  1714→- [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
+  1715→- [Tariqul Islam](https://tariqulislamrc.vercel.app) [Technical Project Manager and Tech Lead | Agile/Scrum delivery | SaaS, ERP and multi-tenant platforms | Cross-functional team leadership | Laravel, Node.js, React | Open to remote]
+  1716→- [Tarun](https://tarunms.netlify.app)
+  1717→- [Techfolios](https://techfolios.github.io)
+  1718→- [Tejas Gupta](https://www.tejas-gupta.com)
+  1719→- [Tejas Jadhav](https://teeejaey.github.io)
+  1720→- [Tek Kshetri](http://tekkshetri.com.np)
+  1721→- [Thanh Tran](https://thanhtran-portfolio.vercel.app) [Software Engineer]
+  1722→- [Thea Choem](https://thea.juniorise.com)
+  1723→- [Thea Mushambadze](https://highflyer910.github.io)
+  1724→- [Thekaushikgoswami](https://thekaushikgoswami.github.io)
+  1725→- [Thiago Sousa](https://github.com/ThiagoSousa81) [Cryptographer - Full Stack Developer]
+  1726→- [Thibaud Dervily](https://www.thibaud-dervily.fr)
+  1727→- [Thibault Mathian](https://thibault.sh)
+  1728→- [Thierry Bungaroo](https://crackedontiti.github.io) [Software Developer & Software Engineer]
+  1729→- [Thinh Ngo](https://thinhcorner.com)
+  1730→- [Thomas David](https://thomas-david-portfolio.netlify.app)
+  1731→- [Thomas Havlik](https://thavlik.dev) [Software Architect | Medical Student]
+  1732→- [Tiago Hermano](https://tiagohermano.dev)
+  1733→- [Tiago Leite](https://www.tiagocreator.com)
+  1734→- [Tibor Ignéczi](https://igneczitibor.hu) [Full Stack Developer]
+  1735→- [Tien Truong Mars Truong](https://marstruong.com) [Flutter Developer |Software Developer]
+  1736→- [Tim Jones](https://timmoth.com)
+  1737→- [Tim Maes](https://www.tim-maes.com) [Full Stack Developer]
+  1738→- [Tim Stanton](https://www.tim-stanton.dev)
+  1739→- [Timmy O'Mahony](https://timmyomahony.com) [Full Stack Developer]
+  1740→- [Tinotenda Mhedziso](https://tinotenda-mhedziso.pages.dev) [Software Developer]
+  1741→- [Tj Klint](https://tjklint.github.io)
+  1742→- [Tomás Martinez](https://tomasmartinez.xyz)
+  1743→- [Tomáš Đinh](https://tomasdinh.cz) [Full Stack Developer]
+  1744→- [Torben Korb](https://www.digital-creative.de)
+  1745→- [Travis Fischer](https://transitivebullsh.it)
+  1746→- [Triet Thai](https://katatnt.github.io/portfolio/) [Senior DevOps Engineer]
+  1747→- [Trisha Darure](https://trishadar.github.io/Portfolio/#about) [Full Stack Engineer]
+  1748→- [Tristan Chin](https://www.chintristan.io)
+  1749→- [Truong Thanh Long](https://portfolio-thanhlong.vercel.app/en) [Frontend Developer]
+  1750→- [Tsiry Sandratraina](https://tsiry-sandratraina.com)
+  1751→- [Tuncay Ölmez](https://setrathex.com.tr) [Computer Programming Student | Web Apps & Developer Tools]
+  1752→- [Tushar Kanjariya](https://tusharkanjariya.me) [Full Stack Developer]
+  1753→- [Tushar Singh Bisht](https://tusharsinghbisht.github.io)
+  1754→- [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
+  1755→- [Tushar Umbarkar](https://tusharumbarkar.space) [Software Engineer | GenAI & Agentic Systems]
+  1756→- [Tvoosai](https://www.tvoosai.dev) [Freelance Mobile, Web & Backend Developer]
+  1757→
+  1758→## U
+  1759→
+  1760→- [Ubeyidah](https://ubeyidah.tech)
+  1761→- [Uday Ahire](https://udayahireexe.vercel.app) [Design Engineer | Frontend Developer]
+  1762→- [Uday Bagda](https://terminal-portfolio-seven-black.vercel.app)
+  1763→- [Uday Lunawat](https://udaylunawat.github.io)
+  1764→- [Uday](https://portfoliov3-puce.vercel.app) [React, Typescript, Tailwindcss, Node.Js]
+  1765→- [Ujjal Sigdel](https://www.ujjalsigdel.com.np)
+  1766→- [Ujjwal Shukla](https://ujjwalportfolio2.vercel.app)[Full Stack Developer | Ui/Ux Designer]
+  1767→- [Ujjwal Soni](https://ujjwalsoni-portfolio.vercel.app) [Full Stack Developer]
+  1768→- [Ulysse Pavloff](https://pavloffulysse.com)
+  1769→- [Umesh Nagare](https://umeshnagare.com)
+  1770→- [Utkarsh Aggarwal](https://utkarshaggarwal.vercel.app)
+  1771→- [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
+  1772→- [Utkarsh Satav](https://utkarshsatav.netlify.app) [Full Stack Developer]
+  1773→- [Utsav Adhikari](https://utsavadhikari07.com.np) [Full Stack Developer]
+  1774→- [Utsav Ghimire](https://www.utsavghimire.com.np)
+  1775→- [Uygar Polat](https://uygarpolat.com) [Software Engineer]
+  1776→- [Uğur Atmaca](https://uguratmacacv.web.app)
+  1777→
+  1778→## V
+  1779→
+  1780→- [Vaibhav Baranwal](https://vaibhavbaranwal.me) [Backend/ML Developer]
+  1781→- [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
+  1782→- [Vaibhav Padmani](https://vi0650.github.io)
+  1783→- [Vaibhav Prajapat](https://vai-portfolio.netlify.app)
+  1784→- [Vaibhav Raj](https://vaibhav5860.vercel.app) [Full Stack Developer | MERN]
+  1785→- [Vaibhav Singh](http://vaibhavsingh97.com)
+  1786→- [Vaidhyanathan](https://vaidhyanathansm.netlify.app)
+  1787→- [Valentin Gil](https://vgil.fr) [Student]
+  1788→- [Valentin Lefrançois](https://valentinlefrancois.dev) [Senior Full Stack Engineer]
+  1789→- [Vallarasu](https://vallarasuk.com) [React, Next.Js Full Stack Developer]
+  1790→- [Valter Negreiros](https://valternegreiros.com) [Senior Mobile Software Engineer]
+  1791→- [Vamshi Kumar](https://thvvamshi-dev.onrender.com) [Software Engineer | Backend & Full-Stack Developer]
+  1792→- [Vamsi Indugu](https://vamsiindugu.vercel.app)
+  1793→- [Vamsi Krishna Chandaluri](https://vamsi-krishna-portfolio.vercel.app)
+  1794→- [Vansh Agarwal](https://portfolio-2-0-murex-three.vercel.app) [Full Stack Developer | AI & Agentic Systems]
+  1795→- [Vansh Mehta](https://vansh-mehta-portfolio.vercel.app)
+  1796→- [Vanshaj Rawat](https://portfolio-vanshaj-rawat.onrender.com)
+  1797→- [Varinder Singh](https://varinder148.github.io/portfolio)
+  1798→- [Varun Dey](https://varundey.me)
+  1799→- [Varun Ragunathan](https://varunr.dev) [Full Stack Developer | AI Adoption, Velocity & 0-1]
+  1800→- [Vasudev Katariya](https://vasudev7891.github.io/Portfolio/) [Software Engineer | Java & DSA | Full Stack (MERN)]
+  1801→- [Vatsal Patel](https://vatsalpatel.vercel.app) [Software Developer | Ai/Ml Engineer]
+  1802→- [Vatsal Shah](https://vatsalshah.in)
+  1803→- [Vauth](https://vauth.github.io/hueco)
+  1804→- [Vauzher](https://vauzher.dev) [Full Stack Developer | AI]
+  1805→- [Vedant Athavale](https://vedantathavale.webflow.io)
+  1806→- [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
+  1807→- [Vedas Dixit](https://vedas-desktop.vercel.app)
+  1808→- [Veerendra Dwivedi](https://veerendra-portfolio-seven.vercel.app) [ DevOps Engineer]
+  1809→- [Vertanzil](https://vertanzil.github.io)
+  1810→- [Vibhor Arya](https://vibhorarya12.vercel.app)
+  1811→- [Victor Vento](https://victorvento.net) [Software Developer | .NET and JavaScript]
+  1812→- [Vidushan Chooriyakumaran](https://vidu.sh/an)
+  1813→- [Vighnesh Raut](https://vighnesh153.dev)
+  1814→- [Vignesh Devendran](https://vigneshdevendran.pages.dev) [Software Developer | Python, Full Stack JavaScript/TypeSript, Ruby on Rails | FLOSS Enthusiast]
+  1815→- [Vijay Verma](https://vjy.me)
+  1816→- [Vikas Chauhan](https://vikaschauhan.vercel.app)
+  1817→- [Vikas Ukani](https://vikas-ukani.github.io)
+  1818→- [Vinay Katikireddy](https://vinaykatikireddy.is-a.dev) [Cybersecurity, Full Stack Developer]
+  1819→- [Vinay Kumar](https://n4ryn.com) [Full Stack Developer]
+  1820→- [Vinay Somawat](https://vinaysomawat.github.io)
+  1821→- [Vineet Saraf](https://coastalvinny.dev)
+  1822→- [Vinit Shahdeo](https://vinitshahdeo.com)
+  1823→- [Viraj Mavani](https://virajmavani.dev) [Full Stack Engineer | AI Engineer]
+  1824→- [Viren Hirpara](https://www.virenhirpara.com) [Python Developer | Digital Forensic Expert]
+  1825→- [Vishal Bhangare](https://vishalbhangare.netlify.app)
+  1826→- [Vishal Bhosle](https://vishalb.dev) [Expert Full Stack Software Developer]
+  1827→- [Vishal Kumar Singh](https://vishalvoid.com) [Full Stack Developer]
+  1828→- [Vishal Rai](https://vishalrai.netlify.app)
+  1829→- [Vishal Sharma](https://snick0128.github.io/snick0128/) [Vishal]
+  1830→- [Vishal Singh](https://vi5hal.vercel.app) [Full Stack Developer (Mern)]
+  1831→- [Vishnu Sharma](https://vs-code-cloud.github.io)
+  1832→- [Vishvaas Kumar](https://vishvaas.dev) [Cat | Chomik]
+  1833→- [Vishwanath](https://frozenhearth.vercel.app)
+  1834→- [Vishwasa Navada](https://vishwas.tech)
+  1835→- [Vitaliy Ivanov](https://vitaliy.vercel.app)
+  1836→- [Vito Sartori](https://vito.io)
+  1837→- [Vitor Forbrig](https://forbrig.github.io)
+  1838→- [Vivek Choudhary](https://vivekportfoliopersonal.vercel.app) [Full Stack Engineer | AI Engineer]
+  1839→- [Vivek Chudasama](https://vivekchudasama-2004.github.io/portfolio)
+  1840→- [Vivek Ghodadra](https://vivek-ghodadra.web.app) [React Native, ReactJs, NodeJs Developer]
+  1841→- [Vivek Jaiswal](https://www.vivekjaiswal.me) [Software Archutect | Ai/Ml Expert]
+  1842→- [Vivek Patel Ubuntu](http://vivek9patel.github.io)
+  1843→- [Vivek Patel](http://vivek9patel.com)
+  1844→- [Vivek Raval](https://mrthree.netlify.app) [App | Ios | Web | Ai & Ml Engineer]
+  1845→- [Vladimir Rybalsky](https://alevoldon.com) [AI Builder & Creative Technologist]
+  1846→- [Vladyslav Shtatskyi](https://www.techinz.dev) [Full Stack Developer]
+  1847→- [Vm](https://vmthedev.web.app)
+  1848→- [Vrushali Patil](https://vrushali.in) [QA Engineer | Manual, Automation & API Testing]
+  1849→- [Vyom Dubey](https://vmoyd.github.io/portfolio-app) [Vmoy]
+  1850→
+  1851→## W
+  1852→
+  1853→- [Wadi3 El-Wardy](https://wadi3.codes) [Full Stack Developer | Typescript, React.js, Python]
+  1854→- [Wajahat Ali Mir](https://wajahat-ali-mir-dev.github.io) [Native App Developer]
+  1855→- [Wajahat Ali Mir](https://wajahat-ali-mir-dev.vercel.app) [React Native Developer]
+  1856→- [Walker Smith](https://walkersmith.me)
+  1857→- [Walter Veriza](https://walter-veriza.vercel.app) [Senior Product Owner | Product Manager & PMO]
+  1858→- [Wasib Sattar](https://wasibsattar.com) [AI Engineer]
+  1859→- [Wesker Shek](https://weskershek.com) [Full Stack/Creative Developer]
+  1860→- [Whilmar Bitoco](https://whilmarbitoco.vercel.app) [Software Developer | Web & Cloud]
+  1861→- [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
+  1862→- [Wilson Costa](https://wilsoncosta-portfolio.vercel.app) [Backend Engineer | Full Stack Developer]
+  1863→- [Wilson Mun](https://rebrand.ly/wilsonmun)
+  1864→- [Wilson Tu](https://dumbyoodoodo.github.io/wilsonportfolio.github.io/)
+  1865→- [Wisit Longsida](https://wisit-blog.vercel.app/about)
+  1866→- [Wyatt Hansen](https://www.wyatthansen.dev)
+  1867→
+  1868→## X
+  1869→
+  1870→- [Xqyet](https://xqyet.dev) [Full Stack Developer]
+  1871→
+  1872→## Y
+  1873→
+  1874→- [Yagyaraj Lodhi](https://yagyaraj.com) [Full Stack AI Developer]
+  1875→- [Yaksh Bambhroliya](https://yakshcore.vercel.app) [Full Stack Developer]
+  1876→- [Yared Tekileselassie](https://yared.vercel.app)
+  1877→- [Yaroslav Lebedenko](https://portfolio-nailheart.vercel.app)
+  1878→- [Yash Datir](https://yashdatir.github.io/profile-os)
+  1879→- [Yash Johri](https://yash1200.github.io)
+  1880→- [Yash Nandvana](https://yashnandvana.in) [Full Stack Developer | Software Engineer]
+  1881→- [Yash Palav](https://yashpalav.vercel.app) [Full Stack Dev]
+  1882→- [Yashas Majmudar](https://yashashm.dev) [Flutter | Full Stack | AI]
+  1883→- [Yashita Namdeo](https://yashitanamdeo.github.io)
+  1884→- [Yashwanth Patam](https://yashwanth-patam-portfolio.vercel.app) [Backend Developer | Engineer | Freelancer]
+  1885→- [Yassine Ben Zriouil](https://ybz.vercel.app) [Full Stack-Dev]
+  1886→- [Yassine Erradouani](https://yerradouani.me) [Data Engineer | Data Analyst | BI Consultant]
+  1887→- [Yassine Oularbi](https://yassineoularbi.github.io)
+  1888→- [Yatharth Dixit](https://yath.dev) [Backend/Full Stack Engineer | AI Products]
+  1889→- [Yeabsira Tarekegn](https://yeabsiras-portfolio.vercel.app)
+  1890→- [Yechiel Kalmenson](https://yechiel.me)
+  1891→- [Yeshwanth Krishna](https://yeshwanth-kr.github.io) [Full Stack Dev]
+  1892→- [Yoav](https://yoav.xyz)
+  1893→- [Yocrrz/Aditya](https://yocrrz.is-a.dev) [Js | Cybersecurity | Full Stack dev]
+  1894→- [Yog Prajapati](https://www.yogprajapati.site) [AI/ML Engineer | Full Stack]
+  1895→- [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
+  1896→- [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
+  1897→- [Yogi Arif Widodo](https://yogiveloper.com) [Full Stack Software Engineer | Newbie Hacker]
+  1898→- [Yohannes Getachew](https://johngech.netlify.app) [Full Stack Developer | Software Engineer]
+  1899→- [Younes Megaache](https://younes-megaache.com) [Software Developer]
+  1900→- [Yubraj Khatri](https://www.yubrajkhatri.com.np) (Full Stack/Ai Developer)
+  1901→- [Yuelin Liu](https://www.liuyuelin.dev) [Full Stack Developer]
+  1902→- [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template)
+  1903→- [Yuri Faria](https://windows87.github.io)
+  1904→- [Yush Bharti](https://aayushbharti.vercel.app) [Full Stack Developer | Freelancer]
+  1905→- [Yuvin Raja](https://yuvinraja.vercel.app)
+  1906→- [Yvan Noah](https://gigalab.tech)
+  1907→
+  1908→## Z
+  1909→
+  1910→- [Zachary Hamm](https://zacharyhamm.com)
+  1911→- [Zahid Mushtaq](https://devzahid.in) [Full Stack AI Developer]
+  1912→- [Zaid Rakhange](https://zaid.impiclabs.com) [Gen AI Engineer | Founder @ImpicLabs]
+  1913→- [Zangwei Zheng](https://zangwei.dev) [Full Stack Developer | Ai Researcher]
+  1914→- [Zaryab Mahmood](https://zubbihawk.netlify.app) [Full Stack Developer]
+  1915→- [Zayar Shein](https://zayarshein.com) [Full Stack Developer | Software Engineer]
+  1916→- [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Expert Flutter Developer & FlutterFlow]
+  1917→- [Zheng Robert](https://www.robert.hase-zheng.net)
+  1918→- [Zion Emond](https://zionemond.dev) [Software Engineer]
+  1919→- [Ziyad](https://ziyadsk.github.io/portfolio-V2)
+  1920→- [Zobaidul Kazi](https://zobkazi.github.io)
+  1921→- [Zonayed Ahmed](https://zonayed.me)
+  1922→- [Zubayer Hossain Patowari](https://zubayer-sigma.vercel.app) [Ai Engineer]
+  1923→- [Zulfiqar Alam](https://zulfiqaralam18.github.io)
+  1924→- [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
+  1925→- [Zyon Tiangson](https://zyon-portfolio.vercel.app) [.Net Developer]
+  1926→- [Zzlly Potie](http://valentinpotie.github.io/portfolio)
+  1927→

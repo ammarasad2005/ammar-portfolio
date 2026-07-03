@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Jeremiah Haastrup",
+    "url": "https://jeremiahhaastrup.com",
+    "role": "",
+    "tag": "",
+    "letter": "J"
+  },
+  {
+    "name": "Krishnanand",
+    "url": "https://krishnananda.netlify.app",
+    "role": "",
+    "tag": "",
+    "letter": "K"
+  },
+  {
+    "name": "Bhushan Zade",
+    "url": "https://bhushanz.netlify.app",
+    "role": "Senior Full Stack Developer (Angular, React, NodeJS)",
+    "tag": "",
+    "letter": "B"
+  },
+  {
+    "name": "Triet Thai",
+    "url": "https://katatnt.github.io/portfolio/",
+    "role": "Senior DevOps Engineer",
+    "tag": "",
+    "letter": "T"
+  },
+  {
+    "name": "Antônio Junior",
+    "url": "https://portfolio-antonio-ten.vercel.app",
+    "role": "",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Akash Balasubhramanyam",
+    "url": "https://akashblsbrmnm.github.io",
+    "role": "C Developer",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Nico Bachner",
+    "url": "https://nicobachner.com",
+    "role": "",
+    "tag": "",
+    "letter": "N"
+  },
+  {
+    "name": "Hassan Tech",
+    "url": "https://hassanx.tech",
+    "role": "Web Developer",
+    "tag": "",
+    "letter": "H"
+  },
+  {
+    "name": "Phat Tran Tan",
+    "url": "https://portfolio-ttp.vercel.app",
+    "role": "Software Engineer | Frontend Developer",
+    "tag": "",
+    "letter": "P"
+  },
+  {
+    "name": "Jayed Rafi",
+    "url": "https://jayedrafi.com",
+    "role": "",
+    "tag": "",
+    "letter": "J"
+  },
+  {
+    "name": "Whilmar Bitoco",
+    "url": "https://whilmarbitoco.vercel.app",
+    "role": "Software Developer | Web & Cloud",
+    "tag": "",
+    "letter": "W"
+  },
+  {
+    "name": "Gunjan Ghate",
+    "url": "http://techggdev.vercel.app",
+    "role": "",
+    "tag": "[Full Stack Web2/Web3 Developer]",
+    "letter": "G"
+  },
+  {
+    "name": "Ajvad Laseen",
+    "url": "https://ajvadlaseen.com",
+    "role": "Full Stack Developer",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Ghulam Mujtaba",
+    "url": "https://ghulammujtaba.com",
+    "role": "",
+    "tag": "",
+    "letter": "G"
+  },
+  {
+    "name": "Cade Kynaston",
+    "url": "https://cade.codes",
+    "role": "",
+    "tag": "",
+    "letter": "C"
+  },
+  {
+    "name": "Fikri Rozan",
+    "url": "https://fikrirozan.vercel.app",
+    "role": "Full Stack Developer",
+    "tag": "",
+    "letter": "F"
+  },
+  {
+    "name": "Electric Magic Factory",
+    "url": "https://electricmagicfactory.com/en",
+    "role": "",
+    "tag": "",
+    "letter": "E"
+  },
+  {
+    "name": "Auroob Ahmad",
+    "url": "https://auroob.github.io/dev-port",
+    "role": "",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Barthélémy Pousset",
+    "url": "https://barthelemypousset.com",
+    "role": "Full Stack Developer | DevOps",
+    "tag": "",
+    "letter": "B"
+  },
+  {
+    "name": "Zyon Tiangson",
+    "url": "https://zyon-portfolio.vercel.app",
+    "role": ".Net Developer",
+    "tag": "",
+    "letter": "Z"
+  },
+  {
+    "name": "Artur Bień",
+    "url": "https://expensive.toys",
+    "role": "Ui & Frontend Developer",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Luca Félix",
+    "url": "https://luca-felix.com",
+    "role": "Design System Engineer | Digital Product Designer & Developer",
+    "tag": "",
+    "letter": "L"
+  },
+  {
+    "name": "Vinay Katikireddy",
+    "url": "https://vinaykatikireddy.is-a.dev",
+    "role": "Cybersecurity, Full Stack Developer",
+    "tag": "",
+    "letter": "V"
+  },
+  {
+    "name": "Blanc John Clayton",
+    "url": "https://www.johnclaytonblanc.com",
+    "role": "",
+    "tag": "",
+    "letter": "B"
+  },
+  {
+    "name": "Caiovisuals",
+    "url": "https://www.caiovisuals.com",
+    "role": "Front-End Developer",
+    "tag": "",
+    "letter": "C"
+  },
+  {
+    "name": "Naimur Reza",
+    "url": "https://naimur-reza.vercel.app",
+    "role": "Software Engineer | Mid Level",
+    "tag": "",
+    "letter": "N"
+  },
+  {
+    "name": "Soufiane El Hamri",
+    "url": "https://www.soufiane-elhamri.com",
+    "role": "Full Stack Developer",
+    "tag": "",
+    "letter": "S"
+  },
+  {
+    "name": "Milan Milanovic",
+    "url": "https://milan.milanovic.org",
+    "role": "",
+    "tag": "",
+    "letter": "M"
+  },
+  {
+    "name": "Juan Benito",
+    "url": "https://juanbenito.vercel.app",
+    "role": "Full Stack Web Developer",
+    "tag": "",
+    "letter": "J"
+  },
+  {
+    "name": "Abhijeet Singh Parihar",
+    "url": "https://abhijeet-singh-parihar-portfolio.vercel.app",
+    "role": "Software Engineer",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Ohk Soe Htet",
+    "url": "https://www.ohksoehtet.dev",
+    "role": "Software Engineer | Full Stack Developer",
+    "tag": "",
+    "letter": "O"
+  },
+  {
+    "name": "Jay Bhavsar",
+    "url": "https://jay.is-savvy.dev",
+    "role": "",
+    "tag": "",
+    "letter": "J"
+  },
+  {
+    "name": "Vinit Shahdeo",
+    "url": "https://vinitshahdeo.com",
+    "role": "",
+    "tag": "",
+    "letter": "V"
+  },
+  {
+    "name": "Hafeez Mohamad",
+    "url": "https://haffee.vercel.app",
+    "role": "Software Engineer | Full Stack Developer | AI Engineer",
+    "tag": "",
+    "letter": "H"
+  },
+  {
+    "name": "Dale Larroder",
+    "url": "https://dalelarroder.com",
+    "role": "",
+    "tag": "",
+    "letter": "D"
+  },
+  {
+    "name": "Himavanth Kumar Perni",
+    "url": "http://himavanth-kumar-perni-portfolio.vercel.app",
+    "role": "Full Stack Developer",
+    "tag": "",
+    "letter": "H"
+  },
+  {
+    "name": "Amit Kumar Raj",
+    "url": "https://amitkumarraj.vercel.app",
+    "role": "Full Stack Developer | MERN",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Ganesh Angadi",
+    "url": "https://ganeshangadi.online",
+    "role": "Devops Engineer | System Thinker",
+    "tag": "",
+    "letter": "G"
+  },
+  {
+    "name": "Hungry Bear Studio",
+    "url": "https://www.hungrybearstudios.com",
+    "role": "",
+    "tag": "",
+    "letter": "H"
+  },
+  {
+    "name": "Bhavesh Gudlani",
+    "url": "https://bhaveshgudlani.me",
+    "role": "AI/ML Engineer | Full Stack Development-Android-AI/ML",
+    "tag": "",
+    "letter": "B"
+  },
+  {
+    "name": "Abhishek Sah",
+    "url": "https://www.abhisheksah.dev",
+    "role": "Software Engineer",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Saroj Pradhan",
+    "url": "https://pradhansaroj.com.np",
+    "role": "",
+    "tag": "",
+    "letter": "S"
+  },
+  {
+    "name": "Dhruv Sathe",
+    "url": "https://dhruv-alpha.vercel.app",
+    "role": "Software Engineer & Freelancer",
+    "tag": "",
+    "letter": "D"
+  },
+  {
+    "name": "Daniyal Javadia",
+    "url": "https://daniyal-works-portfolio.vercel.app",
+    "role": "Full Stack Developer | Software Engineer",
+    "tag": "",
+    "letter": "D"
+  },
+  {
+    "name": "Ilham Riski Wibowo",
+    "url": "http://ilhamriski.com",
+    "role": "Full Stack Developer",
+    "tag": "",
+    "letter": "I"
+  },
+  {
+    "name": "Mehdi Ali",
+    "url": "https://exoo25.github.io",
+    "role": "",
+    "tag": "",
+    "letter": "M"
+  },
+  {
+    "name": "Vivek Patel Ubuntu",
+    "url": "http://vivek9patel.github.io",
+    "role": "",
+    "tag": "",
+    "letter": "V"
+  },
+  {
+    "name": "Karan Chhunchha",
+    "url": "https://karanchhunchha.in",
+    "role": "Software Developer | AI Automation",
+    "tag": "",
+    "letter": "K"
+  },
+  {
+    "name": "Vedas Dixit",
+    "url": "https://vedas-desktop.vercel.app",
+    "role": "",
+    "tag": "",
+    "letter": "V"
+  },
+  {
+    "name": "Sri Anjaneyam",
+    "url": "https://srianjaneyam.me",
+    "role": "",
+    "tag": "",
+    "letter": "S"
+  },
+  {
+    "name": "Malik Muhammad Safwan",
+    "url": "https://maliksafwan.netlify.app",
+    "role": "",
+    "tag": "",
+    "letter": "M"
+  },
+  {
+    "name": "Aayush Raj",
+    "url": "https://ayushcmd.me",
+    "role": "Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Sharuk Sayyed",
+    "url": "https://sayyed-sharuk-portfolio.vercel.app",
+    "role": "Frontend Developer",
+    "tag": "",
+    "letter": "S"
+  },
+  {
+    "name": "Shubhanshu Singh",
+    "url": "https://shubhanshusingh.com",
+    "role": "Platform Engineer, Enterprise Architect, Founder @ exemplar.dev",
+    "tag": "",
+    "letter": "S"
+  },
+  {
+    "name": "Nabin Khair",
+    "url": "https://www.nabinkhair.com.np",
+    "role": "",
+    "tag": "",
+    "letter": "N"
+  },
+  {
+    "name": "Pan Wei Lian",
+    "url": "https://williamson922.github.io",
+    "role": "",
+    "tag": "",
+    "letter": "P"
+  },
+  {
+    "name": "Techfolios",
+    "url": "https://techfolios.github.io",
+    "role": "",
+    "tag": "",
+    "letter": "T"
+  },
+  {
+    "name": "Paal Stakvik",
+    "url": "https://paalss.vercel.app",
+    "role": "",
+    "tag": "",
+    "letter": "P"
+  },
+  {
+    "name": "Tuncay Ölmez",
+    "url": "https://setrathex.com.tr",
+    "role": "Computer Programming Student | Web Apps & Developer Tools",
+    "tag": "",
+    "letter": "T"
+  },
+  {
+    "name": "Manan Narwal",
+    "url": "https://manannarwal.vercel.app",
+    "role": "Full Stack | App | Web",
+    "tag": "",
+    "letter": "M"
+  },
+  {
+    "name": "Hugo Calmels",
+    "url": "https://hugo-calmels.fr",
+    "role": "Web Developper | React/Next.js/SpringBoot",
+    "tag": "",
+    "letter": "H"
+  },
+  {
+    "name": "Dipak Mourya",
+    "url": "https://dipakdev.in",
+    "role": "Full Stack Developer",
+    "tag": "",
+    "letter": "D"
+  },
+  {
+    "name": "Atal Sairam Kumar Patro",
+    "url": "https://itsairamkumar.github.io/portfolio/",
+    "role": "Cloud & DevOps Engineer",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Aditya Medhe",
+    "url": "https://aditya.medhe.in",
+    "role": "",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Aniket Kudale",
+    "url": "https://aniket.co",
+    "role": "",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Anurag Zete",
+    "url": "https://portfolio-anuragzete.web.app",
+    "role": "Software Engineer",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Sambhu Babu",
+    "url": "https://sambhusbabu.com",
+    "role": "Frappe & ERPNext Developer",
+    "tag": "",
+    "letter": "S"
+  },
+  {
+    "name": "Kavi Castelo",
+    "url": "https://kavindukokila.netlify.app",
+    "role": "",
+    "tag": "",
+    "letter": "K"
+  },
+  {
+    "name": "Vishal Bhangare",
+    "url": "https://vishalbhangare.netlify.app",
+    "role": "",
+    "tag": "",
+    "letter": "V"
+  },
+  {
+    "name": "Hozaifa Ali",
+    "url": "https://hozi-web3.site",
+    "role": "Software Engineer | Flutter Developer",
+    "tag": "",
+    "letter": "H"
+  },
+  {
+    "name": "Poonam Chauhan",
+    "url": "https://poo17nam.github.io/profile",
+    "role": "",
+    "tag": "",
+    "letter": "P"
+  },
+  {
+    "name": "Dinesh Barri",
+    "url": "https://dineshbarri-portfolio.vercel.app",
+    "role": "Data Sceintist | Ai Automation Engineer",
+    "tag": "",
+    "letter": "D"
+  },
+  {
+    "name": "Juan Cisneros",
+    "url": "https://portfoliojuanfranciscocisneros.web.app",
+    "role": "",
+    "tag": "",
+    "letter": "J"
+  },
+  {
+    "name": "Fayed Ishtar Chowdhury",
+    "url": "https://portfolio-fayed.vercel.app",
+    "role": "Full Stack Developer",
+    "tag": "",
+    "letter": "F"
+  },
+  {
+    "name": "Yuji Sato",
+    "url": "https://yujisatojr.github.io/react-portfolio-template",
+    "role": "",
+    "tag": "",
+    "letter": "Y"
+  },
+  {
+    "name": "Veerendra Dwivedi",
+    "url": "https://veerendra-portfolio-seven.vercel.app",
+    "role": "DevOps Engineer",
+    "tag": "",
+    "letter": "V"
+  },
+  {
+    "name": "Nathan Simpson",
+    "url": "https://nathansimpson.design",
+    "role": "",
+    "tag": "",
+    "letter": "N"
+  },
+  {
+    "name": "Utsav Adhikari",
+    "url": "https://utsavadhikari07.com.np",
+    "role": "Full Stack Developer",
+    "tag": "",
+    "letter": "U"
+  },
+  {
+    "name": "Jerry Hirsch",
+    "url": "https://jerryhirsch.com",
+    "role": "",
+    "tag": "",
+    "letter": "J"
+  },
+  {
+    "name": "Om",
+    "url": "https://omchaudhari1107.github.io",
+    "role": "",
+    "tag": "",
+    "letter": "O"
+  },
+  {
+    "name": "Pieter-Jan Scheir",
+    "url": "https://www.pieterjanscheir.com",
+    "role": "",
+    "tag": "",
+    "letter": "P"
+  },
+  {
+    "name": "Qihang Feng",
+    "url": "https://qfeng.beaverexp.com",
+    "role": "Software Engineering Student | Full Stack Development, Machine Learning",
+    "tag": "",
+    "letter": "Q"
+  },
+  {
+    "name": "Brhane Giday",
+    "url": "https://brhane.vercel.app",
+    "role": "Software Engineer | AI Engineer",
+    "tag": "",
+    "letter": "B"
+  },
+  {
+    "name": "Md Sarfaraz Alam",
+    "url": "https://mdsaifedu.eu.cc/3D-portfolio/",
+    "role": "Full Stack DevOps Engineer",
+    "tag": "",
+    "letter": "M"
+  },
+  {
+    "name": "Emmanuel Alabi",
+    "url": "https://emjjkk.tech",
+    "role": "CS Student | Full Stack Web/App",
+    "tag": "",
+    "letter": "E"
+  },
+  {
+    "name": "Abdullah Bozdağ",
+    "url": "https://abdullahbozdag.com",
+    "role": "Full Stack Developer",
+    "tag": "",
+    "letter": "A"
+  },
+  {
+    "name": "Decoopman Nicolas",
+    "url": "https://ncsdecoopman.github.io",
+    "role": "Data & DevOps",
+    "tag": "",
+    "letter": "D"
+  },
+  {
+    "name": "Mihir Chauhan",
+    "url": "https://chauhan-mihir.vercel.app",
+    "role": "ML / AI Engineer | Data Science",
+    "tag": "",
+    "letter": "M"
+  },
+  {
+    "name": "Mahatab Hossen Sudip",
+    "url": "https://sudipmhx.pro.bd",
+    "role": "MERN Stack Developer",
+    "tag": "",
+    "letter": "M"
+  },
+  {
+    "name": "Mitul Savani",
+    "url": "http://mitulsavani.com",
+    "role": "",
+    "tag": "",
+    "letter": "M"
+  },
+  {
+    "name": "Juan Gomes Macario",
+    "url": "https://crashunix.nl",
+    "role": "Senior Full Stack Developer",
+    "tag": "",
+    "letter": "J"
+  },
+  {
+    "name": "Talha Kılıç",
+    "url": "https://talhakilic.com.tr",
+    "role": "Junior Frontend Developer",
+    "tag": "",
+    "letter": "T"
+  },
+  {
+    "name": "Rituparna Warwatkar",
+    "url": "https://rituparnawarwatkar.com",
+    "role": "Sde@Aws Ec2, Berlin",
+    "tag": "",
+    "letter": "R"
+  },
+  {
+    "name": "Pranshu Patel",
+    "url": "https://pranshu05.vercel.app",
+    "role": "",
+    "tag": "",
+    "letter": "P"
+  },
+  {
+    "name": "Younes Megaache",
+    "url": "https://younes-megaache.com",
+    "role": "Software Developer",
+    "tag": "",
+    "letter": "Y"
+  },
+  {
+    "name": "Saavan Gajjar",
+    "url": "https://www.saavangajjardev.in",
+    "role": "Software Engineer | Full Stack",
+    "tag": "",
+    "letter": "S"
+  },
+  {
+    "name": "Ksv Muralidhar",
+    "url": "https://ksvmuralidhar.in",
+    "role": "",
+    "tag": "",
+    "letter": "K"
+  },
+  {
+    "name": "Muhammad Tufail Ahmed Khan",
+    "url": "https://tufail.dev",
+    "role": "Lead Engineer | AI Engineer",
+    "tag": "",
+    "letter": "M"
+  },
+  {
+    "name": "Xqyet",
+    "url": "https://xqyet.dev",
+    "role": "Full Stack Developer",
+    "tag": "",
+    "letter": "X"
+  },
+  {
+    "name": "Akhshy Ganesh",
+    "url": "https://akhshyganesh.github.io",
+    "role": "Full Stack Developer | Solution Architect",
+    "tag": "",
+    "letter": "A"
+  }
+]
