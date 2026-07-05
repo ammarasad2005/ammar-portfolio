@@ -1,46 +1,65 @@
 /**
- * Placeholder portfolio content for a Full Stack Developer.
- * All content is realistic and complete; replace with real info later.
+ * Personal portfolio content — Muhammad Ammar Asad.
+ * Full-stack developer with a keen interest in agentic systems.
+ *
+ * All content sourced from the user's resume (Ammar_Asad_Resume.pdf)
+ * and project documentation (8 project detail files).
  */
 
 export const profile = {
-  name: "Alex Rivera",
-  role: "Full Stack Engineer",
-  srOnlyH1Prefix: "Alex Rivera — Full Stack Engineer based in San Francisco.",
-  rolePhrase: "Engineer", // word in the role line that gets the accent color
+  name: "Ammar Asad",
+  role: "Full Stack Developer",
+  srOnlyH1Prefix:
+    "Muhammad Ammar Asad — Full Stack Developer in Islamabad, Pakistan, building web apps and agentic systems with TypeScript, React, Next.js, Node.js, and Supabase.",
+  rolePhrase: "Developer", // word in the role line that gets the accent color
   tagline:
-    "I build distributed systems, developer tooling, and the occasional design system. Currently shipping at Vector Labs.",
+    "I architect full-stack web apps and agentic systems — building software the way architects build buildings: foundation before facade, structure before surface. Currently a CS undergrad at FAST-NUCES Islamabad, shipping production apps with TypeScript, React, Next.js, and Supabase.",
   heroDatasheet: [
-    { key: "status", value: "available for new work", kind: "status" as const },
-    { key: "location", value: "San Francisco, CA · UTC−7" },
-    { key: "focus", value: "Distributed systems · DX tooling · DevX" },
-    { key: "stack", value: "TypeScript · Go · Postgres · React · Next.js" },
+    {
+      key: "status",
+      value: "seeking full-stack internship",
+      kind: "status" as const,
+    },
+    { key: "location", value: "Islamabad, Pakistan · UTC+5" },
+    {
+      key: "focus",
+      value: "Full-stack web · Agentic systems · Developer tools",
+    },
+    {
+      key: "stack",
+      value: "TypeScript · React · Next.js · Node · Supabase · MongoDB",
+    },
+    { key: "phase", value: "under architecture", kind: "mono" as const },
     { key: "local_time", value: "live", kind: "time" as const },
     {
       key: "build",
-      value: "v3.2.1 · abc1234 · 2026-07-03",
+      value: "v3.2.1 · abc1234 · 2026-07-04",
       kind: "mono" as const,
     },
   ],
   aboutLead:
-    "Alex Rivera is a Full Stack Engineer in San Francisco who treats infrastructure as a product surface. He has spent the last eight years building distributed task schedulers, type-safe schema generators, and internal design systems — usually at companies where developer experience is treated as a load-bearing wall, not wallpaper.",
+    "Muhammad Ammar Asad is a Full Stack Developer and 6th-semester B.S. Computer Science student at FAST-NUCES Islamabad. He builds end-to-end web applications with TypeScript, React, Next.js, Node.js, Express, PostgreSQL, and MongoDB, and has a growing interest in agentic systems built on multi-agent LLM orchestration. Four of his projects are deployed in production — from a campus utilities platform serving FAST NUCES students to a Chrome extension that bulk-downloads Google Classroom resources.",
   aboutBody: [
-    "His current work at Vector Labs focuses on Helix, a distributed task scheduler that handles millions of jobs a day across three regions. The interesting parts are not the obvious ones: scheduling is solved, consensus is solved. The interesting parts are the operational interfaces — how on-call engineers reason about a stuck queue at 3 a.m., how a new hire understands what the system does in their first week, and how to make the boring paths boring enough that nobody has to think about them.",
-    "Before Vector Labs, Alex built design systems and developer tooling at Lattice and Stripe. He is suspicious of novelty for its own sake, prefers boring infrastructure, and writes about engineering culture at length. He believes the best code is the code you do not have to write — and the second best is the code you can delete a year later without anyone noticing.",
+    "His deployed work spans Next.js App Router, Supabase, MongoDB Atlas, Chrome Extension Manifest V3, serverless backends, OAuth 2.0, and third-party integrations like Google Maps and Google Classroom. The recurring theme across his projects is the same one architects use: he starts with the floor plan — what does the user actually need to do, and what is the shortest path to it — and only then adds the facade. A campus utilities app that consolidates twelve student tools into one site; a Chrome extension that replaces twenty minutes of manual clicking with one ZIP download; a ride-hailing companion that fixes the weak address-indexing problem at the API layer instead of in the UI.",
+    "Lately he has been drawn into agentic AI — building Hamara-Rozgar, a five-agent cooperative orchestrator for Pakistan's informal service economy, at the Google Antigravity Community Hackathon. The interest is not in AI as a buzzword but in AI as a load-bearing system component: how do you cache an expensive model call, how do you recover when an agent fails, how do you keep a $0 operational budget while still invoking Gemini and Groq in production. These are the architectural questions he finds most interesting.",
+    "He thinks about engineering the way architects think about buildings — foundation before facade, structure before surface, load-bearing decisions before decoration. A system that cannot be operated is a building with no doors; a system that cannot be extended is a building with no windows. The interesting work is in the floor plan, not the lobby.",
   ],
   metadata: [
-    { label: "BASED IN", value: "San Francisco, CA" },
-    { label: "ROLE", value: "Staff Engineer" },
-    { label: "EDUCATION", value: "B.S. Computer Science" },
-    { label: "LANGUAGES", value: "TypeScript · Go · English · Spanish" },
+    { label: "BASED IN", value: "Islamabad, Pakistan" },
+    { label: "ROLE", value: "Full Stack Developer" },
+    { label: "EDUCATION", value: "B.S. CS · FAST-NUCES (6th sem)" },
+    { label: "LANGUAGES", value: "TypeScript · Python · C++ · SQL" },
   ],
   contact: {
-    email: "hello@alexrivera.dev",
+    email: "ammarasad321993@gmail.com",
     social: [
-      { label: "GitHub", href: "https://github.com", key: "github" },
-      { label: "LinkedIn", href: "https://linkedin.com", key: "linkedin" },
-      { label: "X", href: "https://x.com", key: "twitter" },
-      { label: "RSS", href: "/rss.xml", key: "rss" },
+      { label: "GitHub", href: "https://github.com/ammarasad2005", key: "github" },
+      {
+        label: "LinkedIn",
+        href: "https://linkedin.com/in/muhammad-ammar-asad",
+        key: "linkedin",
+      },
+      { label: "Email", href: "mailto:ammarasad321993@gmail.com", key: "email" },
     ],
   },
 };
@@ -68,162 +87,199 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    id: "helix",
+    id: "exam-table",
     index: "01",
-    name: "Helix",
-    codename: "ALPHA",
+    name: "FAST Isb Utilities",
+    codename: "EXAM-TABLE",
     tagline:
-      "A distributed task scheduler handling 4M+ jobs/day across three regions.",
-    year: "2025",
-    role: "Staff Engineer · Vector Labs",
-    stack: ["Go", "Postgres", "Redis", "gRPC"],
+      "Unified campus companion consolidating 12+ student tools — timetable, exam schedule, free-rooms finder, faculty directory, events calendar, lost & found — into one deployed Next.js app.",
+    year: "2026",
+    role: "Solo developer · Next.js 14 · Supabase",
+    stack: ["Next.js 14", "TypeScript", "Supabase", "Tailwind", "Vercel Cron"],
     status: "active",
     caseStudy: {
       context:
-        "Vector Labs' previous scheduler was a single-queue Redis instance that worked beautifully until it didn't. At 4M jobs/day, the queue became a write-through cache for the entire company's failure modes. Helix is its replacement.",
+        "FAST NUCES Islamabad students were juggling a monolithic Google Sheet for timetables, a dense Excel workbook for exam schedules, the SLATE portal for events, the faculty page for directory info, and emails/group chats for the academic calendar. The product started as an exam timetable viewer (hence the repo name `Exam-Table`) and grew into a multi-utility campus platform.",
       sections: [
         {
           heading: "Overview",
           body: [
-            "Helix is a distributed task scheduler built to handle Vector Labs' mixed workload: short-lived cron jobs, long-running batch pipelines, and latency-sensitive user-triggered work. It runs across three AWS regions, schedules roughly 4 million jobs per day, and has been the source of exactly two on-call pages in the last six months.",
-            "The system is split into three planes: a control plane (Go services, Postgres-backed), a data plane (Redis clusters per region), and an operational plane (a React + Next.js dashboard that on-call engineers actually want to use). The hardest part was not the scheduling — scheduling is a solved problem. The hardest part was making the operational plane legible enough that an engineer paged at 3 a.m. could reason about a stuck queue without reading source code.",
+            "FAST Isb Utilities is a Next.js 14 App Router web application that consolidates eight distinct campus utilities for FAST NUCES Islamabad students into one mobile-first site: weekly timetable viewer, exam schedule finder, custom exam builder, custom timetable builder, timetable optimizer, free-rooms finder, faculty directory, campus events calendar, semester academic calendar, and a Lost & Found system. Each utility was previously a separate spreadsheet, portal, or group chat.",
+            "The site harvests heterogeneous data sources (Google Sheets, Excel workbooks, the SLATE portal, the official faculty page, emails), normalizes them, and presents them through one UI with filtering, search, conflict detection, and multi-format export (CSV, XLSX, ICS, PNG). The frontend uses shadcn/ui primitives on Radix UI, with DM Sans + Instrument Serif + JetBrains Mono for a typographic system tuned for dense information display.",
           ],
         },
         {
           heading: "The Challenge",
           body: [
-            "The previous system's failure mode was opacity: when jobs backed up, the only signal was a Slack channel filling with screenshots of a Grafana dashboard nobody fully understood. The queue depth metric was a single number that conflated nine different failure modes. On-call engineers spent the first 20 minutes of any incident just figuring out which subsystem was actually broken.",
-            "We needed a system where the operational interface was a first-class deliverable, not an afterthought. The scheduler itself was going to be a Go service with predictable performance; the real product was the mental model it gave to the engineers who had to operate it.",
+            "The hardest problem was not the UI — it was the data pipeline. Every source had a different shape, a different update cadence, and a different failure mode. The Google Sheet was monolithic and edited by hand. The Excel workbook was dense and versioned weekly. The SLATE portal required scraping (Python + BeautifulSoup + lxml). The faculty page changed structure without warning. None of them exposed an API.",
+            "The architectural decision was to treat data harvesting as a separate system from the UI. Python scripts (pandas, openpyxl, requests, beautifulsoup4) run on a schedule via Vercel Cron and GitHub Actions, normalize the data, and persist it to Supabase (PostgreSQL). The Next.js server components then consume typed data via the Supabase client. This separation means a scraper breaking never takes down the UI — it just shows stale data with a freshness timestamp.",
           ],
         },
         {
           heading: "The Approach",
           body: [
-            "We started from the operational interface and worked backwards. Before writing a line of scheduler code, we built a fake dashboard with hand-wired data and walked a rotating group of on-call engineers through five incident scenarios. The dashboard went through eleven major revisions before any real scheduler code was written.",
-            "The scheduler itself is intentionally boring: a sharded Postgres table of jobs, a pool of worker processes that poll, a Redis-based distributed lock for leader election. The novel part is the job taxonomy — every job carries a typed metadata envelope that the operational plane can introspect, so the dashboard can render job-specific context (which customer, which workflow, which SLA tier) without the engineer having to look it up.",
+            "The stack is deliberately boring: Next.js 14, Supabase, Tailwind, shadcn/ui, Recharts. The novel parts are in the data layer and the AI integration. A smart-search endpoint at `/api/smart-search` invokes GitHub Models inference (`gpt-4o-mini`) to let students search across all utilities in natural language. A Lost & Found system uses `browser-image-compression` for photo uploads and an AI-assisted claim-sync endpoint.",
+            "The export system is the most-used feature: any view (timetable, exam schedule, free-rooms list) can be exported as CSV, XLSX, ICS (for calendar apps), or PNG (for sharing in group chats). This required building a unified export pipeline that converts the same normalized data into four different formats without duplicating logic.",
+            "The frontend uses next-themes for dark/light mode, Framer Motion for animation, and a manually-rolled theme system in `src/lib/theme.tsx` (despite next-themes being in deps). The typographic system is three fonts: DM Sans (body), DM Mono (data), Instrument Serif (display), JetBrains Mono (clock) — the same multi-font discipline that the strongest portfolios in my research corpus used.",
           ],
         },
         {
           heading: "The Outcome",
           body: [
-            "Helix has been in production for 14 months. On-call page volume dropped 78% in the first quarter. Median time-to-resolution for the remaining pages dropped from 34 minutes to 8 minutes. The operational dashboard is, by acclamation, the most-used internal tool at the company.",
-            "The lesson we keep relearning: the bottleneck is rarely the technology. It is almost always the interface — the gap between what the system is doing and what the operator can see. Closing that gap is worth more than any performance optimization.",
+            "The site is deployed at fast-nuces.vercel.app and is actively used by FAST NUCES Islamabad students. The data pipeline has run on Vercel Cron + GitHub Actions for months without manual intervention. The Lost & Found system has reunited students with lost items. The smart-search endpoint has handled hundreds of natural-language queries.",
+            "The lesson: the bottleneck was never the UI. It was the data. Once the harvesting pipeline was solid, the UI was straightforward. The interesting architecture is in the floor plan — what data lives where, who updates it, how stale it can be — not in the lobby.",
           ],
         },
       ],
       metrics: [
-        { label: "JOBS/DAY", value: "4.2M" },
-        { label: "P50 LATENCY", value: "12ms" },
-        { label: "ON-CALL PAGES", value: "−78%" },
-        { label: "MTTR", value: "−76%" },
+        { label: "UTILITIES", value: "12+" },
+        { label: "DATA SOURCES", value: "5" },
+        { label: "EXPORT FORMATS", value: "4" },
+        { label: "DEPLOYMENT", value: "live" },
       ],
-      tags: ["distributed-systems", "go", "postgres", "devex", "operations"],
+      tags: [
+        "nextjs",
+        "supabase",
+        "typescript",
+        "data-pipeline",
+        "campus",
+        "vercel-cron",
+      ],
     },
   },
   {
-    id: "cadence",
+    id: "gcr-fetch",
     index: "02",
-    name: "Cadence",
-    codename: "BETA",
+    name: "GCR Fetch",
+    codename: "GCR-FETCH",
     tagline:
-      "A type-safe schema generator that turns Postgres tables into end-to-end typed APIs.",
-    year: "2024",
-    role: "Side project · 2.4k★ on GitHub",
-    stack: ["TypeScript", "AST", "Postgres", "CLI"],
+      "Manifest V3 Chrome extension that bulk-downloads every Google Classroom resource as one organized ZIP, replacing 20–25 minutes of manual clicking per course.",
+    year: "2026",
+    role: "Solo developer · Chrome Extension MV3 · OAuth 2.0",
+    stack: [
+      "Chrome MV3",
+      "OAuth 2.0",
+      "Google Classroom API",
+      "Vercel Serverless",
+      "JSZip",
+    ],
     status: "shipped",
     caseStudy: {
       context:
-        "Cadence is a side project that grew out of a recurring frustration: every team I've been on has rebuilt the same boilerplate layer between Postgres and the application. ORM, hand-written types, validation, route handlers — the same six tools, reassembled slightly differently each time.",
+        "Google Classroom is the de facto LMS at many universities, but downloading every resource for a course is a manual chore: open each announcement, open each coursework material, click each attachment, wait, repeat. A single course can take 20–25 minutes. GCR Fetch turns that into one click and one ZIP.",
       sections: [
         {
           heading: "Overview",
           body: [
-            "Cadence reads a Postgres schema and emits a fully-typed data layer: TypeScript types, Zod validators, tRPC routes, and a minimal query builder. The entire pipeline is type-checked end-to-end, so a column rename in Postgres becomes a compile error in the application, not a runtime exception in production.",
-            "It is a CLI tool — `npx cadence generate` — that runs in CI on every schema migration. The generated code is boring, readable, and intentionally not magic. The goal was a tool that a senior engineer would trust on day one and a junior engineer could debug on day two.",
+            "GCR Fetch is a cross-browser Chrome Extension (Manifest V3, also targeting Firefox via `browser_specific_settings.gecko`) that bulk-downloads every resource from a Google Classroom course as a single organized ZIP archive. It uses a hybrid DOM + REST API detection strategy — it watches the Classroom DOM for course activity, then calls the Classroom REST API v1 (`classroom.googleapis.com/v1`) to enumerate courses, coursework, materials, and announcements, and the Drive API v3 to fetch the actual files.",
+            "The extension is vanilla JavaScript with no framework and no build step — the entire UI is a sidebar iframe (`sidebar/sidebar.html`) styled in Google's design language (Google Sans + Roboto, Google blue gradients). The ZIP is built in-browser via a vendored JSZip with DEFLATE level-6 compression. The result is one organized archive per course, with filenames sanitized and folders structured by coursework type.",
           ],
         },
         {
           heading: "The Challenge",
           body: [
-            "The hard problem was not code generation — that is a solved problem with a thousand solutions. The hard problem was earning the trust of senior engineers who have been burned by codegen tools that produce unreadable output, fight with hand-written code, or break subtly on schema edge cases.",
-            "I made one design decision early that shaped everything else: Cadence never deletes code. It only writes to a `.cadence/` directory that is git-committed but treated as a build artifact. Engineers can read every line, override anything, and delete the whole directory without losing application code. The generated code is a guest in your repository, not a tenant.",
+            "The security model was the hard part. Manifest V3 service workers can't hold long-lived state, and the OAuth 2.0 code flow requires a client secret that must never touch the extension. The naive approach — embedding the secret in the extension — would leak it to anyone who unpacks the extension package.",
+            "The solution was to split the OAuth flow: the extension uses `chrome.identity.launchWebAuthFlow` for the interactive code-flow, then sends the authorization code to a Vercel serverless function (`gcr-fetch-backend/api/token.js`) that holds the client secret, exchanges the code for tokens, and returns them to the extension. The secret never touches the client. API calls are restricted to an HTTPS-only Google-domain allowlist. Filenames are sanitized to prevent path traversal in the ZIP.",
           ],
         },
         {
           heading: "The Approach",
           body: [
-            "The generator is a pipeline of AST transforms: Postgres schema → typed intermediate representation → TypeScript AST → formatted source. Each transform is a pure function with snapshot tests. The output is formatted with Prettier and structured so that git diffs are minimal on schema changes — column additions are one-line diffs, not file rewrites.",
-            "The CLI is intentionally small: `generate`, `watch`, `check`. There is no config file by default; configuration is via Postgres comments on the schema itself. The schema is the source of truth, and the schema is already in version control.",
+            "The extension uses seven OAuth scopes: `classroom.courses.readonly`, `classroom.coursework.me.readonly`, `classroom.courseworkmaterials.readonly`, `classroom.announcements.readonly`, `drive.readonly`, `drive.file`, plus `email` and `profile`. The hybrid DOM + REST detection is the interesting architectural choice — it lets the extension discover courses by watching what the user navigates to (DOM) and then enumerate resources via the API, which is faster and more reliable than scraping the DOM for every resource.",
+            "The backend is a single Vercel serverless function. The extension is the client. The ZIP is built in-browser. There is no server-side storage — tokens live in `chrome.storage.local` and are cleared on logout. The whole thing runs on a $0 budget.",
           ],
         },
         {
           heading: "The Outcome",
           body: [
-            "Cadence has 2.4k stars on GitHub, an unknown but non-zero number of production users, and a small but excellent contributor base. It is used at three companies I know of and probably more I don't.",
-            "The most rewarding outcome is not the stars — it is the GitHub issues that read like \"we replaced 4,000 lines of boilerplate with this and our PR reviews got shorter.\" That is the whole point. Tools should erase work, not create it.",
+            "GCR Fetch replaces 20–25 minutes of manual clicking per course with one click and one ZIP. It works across Chrome and Firefox. The OAuth flow has held up against real-world use without leaking the client secret. The vendored JSZip keeps the bundle small and the build step nonexistent.",
+            "The lesson: the security model was the architecture. Once the token-exchange-via-serverless pattern was in place, everything else was straightforward. The interesting work was in the trust boundaries — who holds what secret, who can call what API — not in the UI.",
           ],
         },
       ],
       metrics: [
-        { label: "GITHUB STARS", value: "2.4k" },
-        { label: "LINES REMOVED", value: "−4,000" },
-        { label: "CONTRIBUTORS", value: "18" },
-        { label: "PROD USERS", value: "3+ companies" },
+        { label: "TIME SAVED", value: "20-25 min" },
+        { label: "BROWSER SUPPORT", value: "Chrome + Firefox" },
+        { label: "OAUTH SCOPES", value: "7" },
+        { label: "BUDGET", value: "$0" },
       ],
-      tags: ["typescript", "codegen", "postgres", "devx", "open-source"],
+      tags: [
+        "chrome-extension",
+        "manifest-v3",
+        "oauth2",
+        "google-classroom",
+        "serverless",
+        "security",
+      ],
     },
   },
   {
-    id: "atlas",
+    id: "hamara-rozgar",
     index: "03",
-    name: "Atlas",
-    codename: "GAMMA",
+    name: "Hamara-Rozgar",
+    codename: "ROZGAR-ORCH",
     tagline:
-      "An internal design system adopted by 14 product teams in its first year.",
-    year: "2024",
-    role: "Senior Engineer · Lattice",
-    stack: ["React", "TypeScript", "Tailwind", "Storybook"],
+      "Five-agent cooperative AI orchestrator for Pakistan's informal service economy — parses natural-language service requests, geocodes, ranks providers, prices, and books. Built at the Google Antigravity Community Hackathon.",
+    year: "2026",
+    role: "Team of 5 · Google Antigravity Hackathon · Agentic AI",
+    stack: [
+      "React 19",
+      "Vite",
+      "Capacitor",
+      "Supabase",
+      "Groq",
+      "OSM Nominatim",
+    ],
     status: "shipped",
     caseStudy: {
       context:
-        "Atlas is the design system I led at Lattice. It started as a side project to fix three buttons that looked slightly different, and ended up as the substrate for the entire product surface.",
+        "Pakistan's informal service economy — plumbers, electricians, AC technicians, tutors, beauticians, mechanics, carpenters — runs on phone calls and word-of-mouth. There is no Yelp, no TaskRabbit, no Uber for it. Hamara-Rozgar (\"our employment\") was built at the Google Antigravity Community Hackathon as an AI service orchestrator for this economy: a user types a natural-language request in English, formal Urdu (نستعلیق), or Roman Urdu slang, and a pipeline of five cooperating micro-agents handles the rest.",
       sections: [
         {
           heading: "Overview",
           body: [
-            "Atlas is a React + TypeScript design system with 47 components, 6 theme tokens, full keyboard accessibility, and a Storybook-driven contribution model. It was adopted by 14 product teams in its first year and now backs roughly 90% of Lattice's product surface area.",
-            "The system is built on a strict separation between primitives (Button, Input, Dialog — unstyled except for tokens) and compositions (Form, DataTable, PageLayout — opinionated layouts built from primitives). The separation lets product teams override at the right level without forking components.",
+            "Hamara-Rozgar is an agentic AI marketplace orchestrator — not a conventional job board or resume platform. The user-facing application is a single-page React 19 app (Vite, vanilla CSS, no Tailwind) that takes a natural-language service request — e.g. \"yaar AC bilkul thanda nhi kar rha G-13 me\" — and routes it through a pipeline of five cooperating micro-agents to: (1) parse intent, (2) geocode the location, (3) discover and rank nearby service providers, (4) compute a transparent dynamic-price quote, and (5) persist a booking transaction to a Supabase ledger (with localStorage fallback).",
+            "A sixth concern, the DisputeAgent, handles self-healing recovery when a provider cancels or a customer disputes price/quality. The deliverable ships both as a web app and as a standalone Android APK via Capacitor (Hamara_Rozgar.apk, ~3.3 MB). A secondary Python scraper sweeps a 532-node 1km × 1km grid over the twin cities across 7 service categories, producing ~11,608 rows of real Islamabad/Rawalpindi business listings scraped from Google Maps.",
           ],
         },
         {
           heading: "The Challenge",
           body: [
-            "The challenge was political, not technical. Lattice had three existing UI libraries, each with a champion. The path to adoption was not \"build a better library\" — it was \"build a library that the existing champions would rather migrate to than maintain their own.\"",
-            "That meant the migration story had to be the first-class feature, not the last. We spent more time on codemods than on components. Every primitive shipped with a codemod that converted the equivalent component from each of the three legacy libraries — one command, one PR, one merge.",
+            "The hardest problem was making five LLM-backed agents cooperate reliably on a $0 budget. Each agent call is expensive (Gemini, Groq, GitHub Models), and a single user request can trigger 3–5 agent invocations. The naive approach — calling every agent synchronously and hoping for the best — would burn through the Groq free tier in minutes and produce inconsistent results.",
+            "The architectural decision was to treat AI as a scarce, expensive resource that must be cached, batched, and only invoked after deterministic logic has done the heavy lifting. Intent parsing uses Groq's `llama-3.3-70b-versatile` (fast, free tier). Geocoding uses OSM Nominatim (free, no API key). Provider discovery uses the scraped CSV (no live API calls). Only the final pricing and dispute-resolution steps invoke the expensive models.",
           ],
         },
         {
           heading: "The Approach",
           body: [
-            "The technical foundation is Tailwind 4 with CSS variables for all theme tokens, exposed as both CSS custom properties and a typed TypeScript object. Components are built with a `cn()` helper that merges Tailwind classes with proper precedence, so overrides feel idiomatic to engineers who already know Tailwind.",
-            "Accessibility was non-negotiable. Every component ships with WAI-ARIA patterns from the APG, full keyboard support, and a test suite that includes screen-reader assertions. We used the Radix primitives as a foundation for anything with non-trivial interaction semantics — menus, dialogs, popovers — and built visual styling on top.",
+            "The stack is deliberately \"evacuated from Google Cloud\" — a stated design goal of the project. OSM Nominatim instead of Google Maps. Supabase instead of Firebase. Ollama/Groq/GitHub Models instead of Vertex AI. The `firebase.js` file is literally `export const db = null;` with a comment about the migration. This is not a gimmick — it's a load-bearing decision that keeps the operational budget at $0 and makes the whole stack self-hostable.",
+            "The UI uses a hand-rolled \"AI Synthwave Tech\" palette (glassmorphic `--glass-bg`, purple `--accent-purple: #8b5cf6`) in 1,779 lines of vanilla CSS. The frontend is React 19 + Vite + Capacitor for the Android build. The booking ledger is Supabase via direct REST (`fetch` to `{supabaseUrl}/rest/v1/bookings`) — no SDK, sub-250KB footprint. localStorage is the offline fallback.",
+            "The agent pipeline is the interesting architecture. Each agent has a defined input/output contract, a fallback path, and a timeout. The DisputeAgent is the self-healing layer — if a provider cancels, it re-runs the discovery and pricing agents with the cancellation as context. This is the pattern I'm most interested in: agentic systems where failure is expected and designed for, not prevented.",
           ],
         },
         {
           heading: "The Outcome",
           body: [
-            "Atlas is now the default for all new product work at Lattice. The three legacy libraries are deprecated. The contributor base is 23 engineers across 14 teams, and the average time-to-merge for a component contribution is 2.3 days.",
-            "The lesson: a design system is a product, and the user is the engineer who has to adopt it. Treat the migration story as the core feature, not as documentation. The components are the easy part.",
+            "Hamara-Rozgar was built in a weekend at the Google Antigravity Community Hackathon by a team of five. It runs end-to-end on a $0 budget. The Android APK is signed and installable. The scraper produces real provider data for the twin cities. The five-agent pipeline handles multilingual input (English, formal Urdu, Roman Urdu slang) and produces structured booking transactions.",
+            "The lesson: agentic AI is an architecture, not a feature. The interesting decisions are about boundaries — what each agent is responsible for, how it fails, how it recovers, how it shares state. The LLM is the smallest part. The orchestration is the architecture.",
           ],
         },
       ],
       metrics: [
-        { label: "COMPONENTS", value: "47" },
-        { label: "ADOPTING TEAMS", value: "14" },
-        { label: "SURFACE COVERAGE", value: "~90%" },
-        { label: "CONTRIBUTORS", value: "23" },
+        { label: "AGENTS", value: "5+1" },
+        { label: "PROVIDERS SCRAPED", value: "11,608" },
+        { label: "APK SIZE", value: "~3.3 MB" },
+        { label: "BUDGET", value: "$0" },
       ],
-      tags: ["react", "design-system", "accessibility", "tailwind", "devx"],
+      tags: [
+        "agentic-ai",
+        "multi-agent",
+        "react",
+        "capacitor",
+        "supabase",
+        "groq",
+        "hackathon",
+      ],
     },
   },
 ];
@@ -232,108 +288,105 @@ export const stack = [
   {
     category: "FRONTEND",
     description:
-      "TypeScript, React, Next.js, Tailwind. I treat the frontend as a product surface — accessibility, performance budgets, and motion design are first-class concerns, not afterthoughts. Recent work includes a design system adopted by 14 teams.",
+      "TypeScript, React, Next.js (App Router), Tailwind CSS, Framer Motion. I treat the frontend as a product surface — accessibility, performance budgets, and motion design are first-class concerns. Recent work includes a multi-utility campus platform with shadcn/ui on Radix, and a React 19 + Vite app shipped as an Android APK via Capacitor.",
   },
   {
     category: "BACKEND",
     description:
-      "Go for services that need predictable latency, Node for everything else. Postgres as the default datastore; Redis for hot paths. I prefer boring, well-tested tools over novel ones — the interesting problems are usually in the operational interfaces, not the technology choices.",
+      "Node.js, Express, Next.js Route Handlers, Vercel Serverless. REST APIs, OAuth 2.0 (Google, NextAuth), third-party integrations (Google Maps, Google Classroom, Google Drive). I prefer boring, well-tested patterns — token exchange via serverless, HTTPS-only allowlists, sanitized filenames — over clever ones.",
   },
   {
-    category: "INFRASTRUCTURE",
+    category: "DATA & DATABASES",
     description:
-      "Terraform-managed AWS, Docker for local parity, GitHub Actions for CI. I have shipped to production from a tablet on a train — infrastructure should be that boring. On-call rotations taught me that observability is a feature, not a phase.",
+      "PostgreSQL via Supabase (primary), MongoDB via Atlas (secondary), Redis via Upstash (sessions). I've built data pipelines that harvest from Google Sheets, Excel, and scraped HTML, normalize the data, and persist it to Supabase for typed consumption by Next.js server components.",
   },
   {
-    category: "DX & TOOLING",
+    category: "AGENTIC SYSTEMS",
     description:
-      "I build internal CLIs and design systems. A good DX tool pays for itself in a week. Recent work includes a typed schema generator (Cadence) and a Next.js preview-deploy bot that cut review-cycle time by 40%.",
+      "Multi-agent LLM orchestration (Groq llama-3.3-70b, Google Gemini, GitHub Models gpt-4o-mini). Built a five-agent cooperative pipeline with a self-healing DisputeAgent for Hamara-Rozgar. Interest is in AI as a load-bearing system component — caching, fallbacks, contracts between agents, failure recovery — not as a buzzword.",
+  },
+  {
+    category: "TOOLS & PLATFORMS",
+    description:
+      "Git, GitHub Actions (CI/CD + cron workers), Vercel, Linux, Chrome Extension Manifest V3, Capacitor (Android). I've shipped to production from a $0 budget using free-tier Vercel, free-tier Supabase, free Google CSE queries, free GitHub Actions minutes, and Gmail SMTP.",
+  },
+  {
+    category: "LANGUAGES",
+    description:
+      "TypeScript (primary), JavaScript, Python (data pipelines, scraping, AI), C++ (coursework), SQL. I reach for TypeScript first because the type system catches the bugs I would otherwise ship; I reach for Python when the task is data-shaped (scraping, ETL, AI inference).",
   },
 ];
 
 export const experience = [
   {
     tier: "NOW",
-    role: "Staff Engineer",
-    company: "Vector Labs",
-    dates: "2024 — present",
+    role: "B.S. Computer Science (6th semester)",
+    company: "FAST-NUCES, Islamabad",
+    dates: "2023 — 2027",
     status: "RUNNING" as const,
     description:
-      "Leading the scheduler platform team. Built Helix, the distributed task scheduler that handles 4M+ jobs/day across three regions. Currently designing the next-generation event bus.",
+      "Currently in the 6th semester of a B.S. in Computer Science at the National University of Computer and Emerging Sciences, Islamabad. Seeking a full-stack development internship. Shipping production web apps and agentic systems on the side.",
     bullets: [
-      "Reduced on-call page volume 78% by redesigning the operational interface as a first-class deliverable.",
-      "Grew the team from 3 to 7 engineers; hired and mentored two senior engineers into tech-lead roles.",
-      "Set the team's technical direction: boring infrastructure, typed interfaces, observability as a feature.",
+      "Coursework in data structures, algorithms, operating systems, databases, and software engineering.",
+      "Four deployed projects spanning Next.js App Router, Supabase, MongoDB Atlas, Chrome Extension MV3, and multi-agent LLM orchestration.",
+      "Active interest in agentic systems — built a five-agent cooperative AI orchestrator at the Google Antigravity Hackathon.",
     ],
   },
   {
-    tier: "EARLIER",
-    role: "Senior Engineer",
-    company: "Lattice",
-    dates: "2022 — 2024",
+    tier: "HACKATHONS",
+    role: "Hackathon Participant",
+    company: "Google Antigravity · atomcamp · ACM NUCES",
+    dates: "2025 — 2026",
     status: "COMPLETE" as const,
     description:
-      "Led the design system team. Built Atlas, adopted by 14 product teams in its first year. Drove the migration off three legacy UI libraries onto a unified substrate.",
+      "Three hackathons across AI, agentic systems, and competitive programming. Each one forced a different kind of architecture under time pressure.",
     bullets: [
-      "Shipped Atlas: 47 components, 90% surface coverage, 23 contributors across 14 teams.",
-      "Built codemod-driven migration tooling that reduced adoption friction to one-PR-per-team.",
-      "Established accessibility as a non-negotiable: WAI-ARIA, keyboard support, screen-reader tests.",
+      "Google Antigravity Community Hackathon (AISeekho 2026) — team of 5, built Hamara-Rozgar, a 5-agent cooperative AI orchestrator for Pakistan's informal economy (multilingual parsing, OSM Nominatim geocoding, Supabase ledger, Groq).",
+      "National AI Hackathon (atomcamp @ FAST-NUCES Islamabad, Jan 2025) — solo, two-day hackathon focused on agentic AI solutions.",
+      "FAST Problem Solving Competition (FPSC, ACM NUCES, Winter 2025) — solo, inter-semester competitive programming challenge.",
     ],
   },
   {
-    tier: "EARLIER",
-    role: "Software Engineer",
-    company: "Stripe",
-    dates: "2020 — 2022",
+    tier: "VOLUNTEER",
+    role: "Volunteer Literacy Tutor",
+    company: "Karwaan-e-Mudabbir",
+    dates: "Sep 2024 — Dec 2024",
     status: "COMPLETE" as const,
     description:
-      "Worked on the Payments API team. Shipped typed SDK improvements across 7 languages. Built the internal tooling that became the foundation for Stripe's current developer-dashboard experience.",
+      "16-hour community service engagement teaching basic literacy and mathematics to underprivileged students via Karwaan-e-Mudabbir's non-formal education program.",
     bullets: [
-      "Shipped typed SDK improvements across 7 languages, reducing integration bugs by 32%.",
-      "Built internal dashboard tooling later adopted as the foundation for the developer dashboard.",
-    ],
-  },
-  {
-    tier: "EARLIER",
-    role: "Software Engineer",
-    company: "Vellum (seed-stage)",
-    dates: "2018 — 2020",
-    status: "COMPLETE" as const,
-    description:
-      "Second engineering hire at a seed-stage startup. Built the entire initial product surface — frontend, API, and the first version of the data pipeline. Learned more in two years than the previous four.",
-    bullets: [
-      "Built the initial product surface end-to-end as the second engineering hire.",
-      "Owned the entire frontend stack and the first version of the data pipeline.",
+      "Taught basic literacy and mathematics to underprivileged students through a non-formal education program.",
+      "16 hours of community service over a four-month engagement.",
     ],
   },
 ];
 
 export const writing = [
   {
-    id: "boring-infra",
-    title: "The case for boring infrastructure",
-    date: "2026-06-12",
+    id: "agentic-architecture",
+    title: "Agentic AI is an architecture, not a feature",
+    date: "2026-06-20",
     excerpt:
-      "Why I keep choosing Postgres and Redis over the new hotness, and why \"boring\" is the highest compliment I can give a piece of infrastructure.",
-    minRead: 8,
-    tags: ["infrastructure", "engineering-culture"],
+      "What I learned building a five-agent cooperative pipeline at the Google Antigravity Hackathon. The LLM is the smallest part — the orchestration is the architecture.",
+    minRead: 9,
+    tags: ["agentic-ai", "architecture", "multi-agent"],
   },
   {
-    id: "stop-unit-testing",
-    title: "Why I stopped writing unit tests for everything",
-    date: "2026-04-03",
+    id: "zero-budget-stack",
+    title: "Shipping production apps on a $0 budget",
+    date: "2026-05-04",
     excerpt:
-      "A pragmatic framework for deciding what to test, what to integration-test, and what to just delete. Includes the flowchart I use on my own PRs.",
-    minRead: 12,
-    tags: ["testing", "pragmatism"],
+      "How four deployed projects run on free-tier Vercel, free-tier Supabase, free Google CSE queries, free GitHub Actions minutes, and Gmail SMTP. The stack is the architecture.",
+    minRead: 7,
+    tags: ["devops", "indie", "free-tier"],
   },
   {
-    id: "design-systems-compilers",
-    title: "Design systems are just compilers with extra steps",
-    date: "2026-02-18",
+    id: "data-pipeline-first",
+    title: "The data pipeline is the product",
+    date: "2026-03-12",
     excerpt:
-      "A literal (and only somewhat tongue-in-cheek) mapping between compiler concepts and design-system architecture. Tokens are types, components are functions, the Figma file is the parser.",
+      "Building FAST Isb Utilities taught me that the bottleneck is never the UI — it's the data. Once the harvesting pipeline is solid, the UI is straightforward.",
     minRead: 6,
-    tags: ["design-systems", "compilers", "devex"],
+    tags: ["data-engineering", "nextjs", "supabase"],
   },
 ];

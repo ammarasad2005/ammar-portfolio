@@ -29,32 +29,36 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Alex Rivera — Full Stack Engineer",
+  title: "Ammar Asad — Full Stack Developer",
   description:
-    "Alex Rivera is a Full Stack Engineer based in San Francisco, building distributed systems, developer tooling, and design systems. Currently shipping at Vector Labs.",
+    "Muhammad Ammar Asad is a Full Stack Developer and CS undergrad at FAST-NUCES Islamabad, building web apps and agentic systems with TypeScript, React, Next.js, Node.js, and Supabase. Currently seeking a full-stack internship.",
   keywords: [
-    "Alex Rivera",
-    "Full Stack Engineer",
-    "Distributed Systems",
-    "Developer Tooling",
-    "San Francisco",
+    "Ammar Asad",
+    "Muhammad Ammar Asad",
+    "Full Stack Developer",
+    "Islamabad",
+    "Pakistan",
+    "FAST-NUCES",
+    "Agentic Systems",
     "TypeScript",
-    "Go",
     "React",
     "Next.js",
+    "Supabase",
+    "MongoDB",
+    "Chrome Extension",
   ],
-  authors: [{ name: "Alex Rivera" }],
+  authors: [{ name: "Muhammad Ammar Asad" }],
   openGraph: {
-    title: "Alex Rivera — Full Stack Engineer",
+    title: "Ammar Asad — Full Stack Developer",
     description:
-      "Full Stack Engineer building distributed systems, developer tooling, and design systems in San Francisco.",
+      "Full Stack Developer building web apps and agentic systems in Islamabad. CS undergrad at FAST-NUCES. Currently seeking a full-stack internship.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Alex Rivera — Full Stack Engineer",
+    title: "Ammar Asad — Full Stack Developer",
     description:
-      "Full Stack Engineer building distributed systems, developer tooling, and design systems in San Francisco.",
+      "Full Stack Developer building web apps and agentic systems in Islamabad. CS undergrad at FAST-NUCES. Currently seeking a full-stack internship.",
   },
 };
 

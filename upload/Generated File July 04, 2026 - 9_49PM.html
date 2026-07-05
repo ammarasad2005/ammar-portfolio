@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faisal Mosque - Night Illumination with Moonlight</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #010206; /* Midnight blue night sky */
+            color: #FFB300; 
+            font-family: 'Courier New', Courier, monospace;
+            overflow: hidden;
+            user-select: none;
+        }
+
+        #canvas-container {
+            width: 100vw;
+            height: 100vh;
+            display: block;
+        }
+
+        #ui-overlay {
+            position: absolute;
+            top: 25px;
+            left: 25px;
+            pointer-events: none;
+            background: rgba(3, 3, 7, 0.88);
+            padding: 20px;
+            border: 1px solid #FF9F00;
+            border-radius: 6px;
+            box-shadow: 0 0 25px rgba(255, 159, 0, 0.25);
+            max-width: 380px;
+            z-index: 100;
+        }
+
+        h1 {
+            font-size: 20px;
+            margin: 0 0 10px 0;
+            letter-spacing: 3px;
+            font-weight: bold;
+            color: #FFFFFF;
+            text-shadow: 0 0 8px #FF9F00;
+            border-bottom: 2px solid #FF9F00;
+            padding-bottom: 5px;
+        }
+
+        .status-line {
+            font-size: 11px;
+            margin: 6px 0;
+            color: #FFE0B2;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .highlight {
+            color: #FF9F00;
+            font-weight: bold;
+            text-shadow: 0 0 3px rgba(255,159,0,0.5);
+        }
+
+        #controls-hint {
+            position: absolute;
+            bottom: 25px;
+            left: 50%;
+            transform: translateX(-50%);
+            pointer-events: none;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 10px 20px;
+            border: 1px solid #FF9F00;
+            border-radius: 25px;
+            font-size: 11px;
+            color: #FFFFFF;
+            letter-spacing: 1.5px;
+            text-shadow: 0 0 3px #FF9F00;
+            text-align: center;
+            box-shadow: 0 0 15px rgba(255, 159, 0, 0.2);
+            z-index: 100;
+        }
+
+        #control-panel {
+            position: absolute;
+            bottom: 25px;
+            right: 25px;
+            background: rgba(3, 3, 7, 0.88);
+            padding: 15px;
+            border: 1px solid #FF9F00;
+            border-radius: 6px;
+            pointer-events: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            box-shadow: 0 0 20px rgba(255, 159, 0, 0.15);
+            z-index: 100;
+        }
+
+        .btn {
+            background: #000000;
+            border: 1px solid #FF9F00;
+            color: #FF9F00;
+            padding: 8px 16px;
+            cursor: pointer;
+            font-family: inherit;
+            font-size: 11px;
+            font-weight: bold;
+            transition: all 0.2s ease;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+
+        .btn:hover {
+            background: #FF9F00;
+            color: #000000;
+            box-shadow: 0 0 12px #FF9F00;
+        }
+
+        .btn:active {
+            transform: scale(0.96);
+        }
+
+        #scanline {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(
+                rgba(18, 16, 16, 0) 50%, 
+                rgba(0, 0, 0, 0.35) 50%
+            );
+            background-size: 100% 4px;
+            z-index: 10;
+            pointer-events: none;
+            opacity: 0.3;
+        }
+    </style>
+    <!-- Use stable unpkg CDN URLs for Three.js -->
+    <script src="https://unpkg.com/three@0.128.0/build/three.min.js"></script>
+    <script src="https://unpkg.com/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+</head>
+<body>
+
+    <div id="scanline"></div>
+    <div id="canvas-container"></div>
+
+    <div id="ui-overlay">
+        <h1>FAISAL_MOSQUE // MOONLIGHT</h1>
+        <div class="status-line"><span>PIPELINE:</span><span class="highlight">PHYSICALLY BASED (PBR)</span></div>
+        <div class="status-line"><span>AMBIENT SKY:</span><span class="highlight">4200K MOONLIGHT (ACTIVE)</span></div>
+        <div class="status-line"><span>INTERIOR CHANDELIER:</span><span class="highlight">ACTIVE (3000K)</span></div>
+        <div class="status-line"><span>SHADOW MAPS:</span><span class="highlight">PCF_SOFT_SHADOWS</span></div>
+        <div class="status-line" style="margin-top: 15px; border-top: 1px solid rgba(255,159,0,0.3); padding-top: 12px; font-size: 10px; opacity: 0.85; line-height: 1.5;">
+            PHYSICAL SUBSTANCE PROPERTIES:<br>
+            - ROOF: White Concrete (Roughness 0.55, Metalness 0.0)<br>
+            - MINARETS: Polished Marble (Roughness 0.25, Metalness 0.0)<br>
+            - PLAZA: Mirror Terrazzo (Roughness 0.12, Metalness 0.1)<br>
+            - GLASS: Smooth Flint Glass (Roughness 0.05, Translucent)<br>
+            - CRESCENT: Polished Brass (Roughness 0.15, Metalness 0.9)
+        </div>
+    </div>
+
+    <div id="controls-hint">
+        DRAG TO ROTATE | SCROLL TO ZOOM | RIGHT-CLICK DRAG TO PAN
+    </div>
+
+    <div id="control-panel">
+        <button class="btn" id="btn-rotation">ROTATION: ON</button>
+        <button class="btn" id="btn-color">CHANDELIER: ON</button>
+        <button class="btn" id="btn-wireframe">FLOODLIGHTS: ON</button>
+        <button class="btn" id="btn-reset">RESET VIEW</button>
+    </div>
+
+    <script>
+        // --- 1. Scene & Renderer Setup with Shadow Maps ---
+        const container = document.getElementById('canvas-container');
+        const scene = new THREE.Scene();
+        scene.fog = new THREE.FogExp2(0x010206, 0.001); // Dark sky fog
+
+        const camera = new THREE.PerspectiveCamera(40, window.innerWidth / window.innerHeight, 0.1, 1500);
+        camera.position.set(-130, 75, 180);
+
+        const renderer = new THREE.WebGLRenderer({ antialias: true });
+        renderer.setPixelRatio(window.devicePixelRatio);
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.setClearColor(0x010206, 1);
+        
+        // Enable real physical shadow mapping
+        renderer.shadowMap.enabled = true;
+        renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+        container.appendChild(renderer.domElement);
+
+        const controls = new THREE.OrbitControls(camera, renderer.domElement);
+        controls.enableDamping = true;
+        controls.dampingFactor = 0.05;
+        controls.maxPolarAngle = Math.PI / 2 - 0.01;
+        controls.minDistance = 30;
+        controls.maxDistance = 500;
+
+        const mosqueGroup = new THREE.Group();
+        scene.add(mosqueGroup);
+
+        // --- 2. Natural Night Lighting Simulation with MOONLIGHT ---
+        // Faint deep blue-grey sky glow (ambient)
+        const ambientLight = new THREE.AmbientLight(0x1a2238, 1.2); 
+        scene.add(ambientLight);
+
+        // REAL MOONLIGHT (Directional cool blue light shining downwards to illuminate details softly)
+        const moonLight = new THREE.DirectionalLight(0x8ab4f8, 1.8);
+        moonLight.position.set(-100, 200, -50);
+        moonLight.castShadow = true;
+        moonLight.shadow.mapSize.width = 2048;
+        moonLight.shadow.mapSize.height = 2048;
+        moonLight.shadow.camera.near = 0.5;
+        moonLight.shadow.camera.far = 500;
+        moonLight.shadow.camera.left = -100;
+        moonLight.shadow.camera.right = 100;
+        moonLight.shadow.camera.top = 100;
+        moonLight.shadow.camera.bottom = -100;
+        scene.add(moonLight);
+
+        // Spotlights representing the warm amber ground floods illuminating the main tent
+        const spotlightConfig = {
+            color: 0xffa01a, // Warm amber spotlights
+            intensity: 5.0,
+            distance: 250,
+            angle: Math.PI / 4,
+            penumbra: 0.5
+        };
+
+        // 4 Floodlights centered around the prayer hall
+        const floodLights = [
+            {x: 45, y: 0.5, z: 45},
+            {x: 45, y: 0.5, z: -45},
+            {x: -45, y: 0.5, z: -45},
+            {x: -45, y: 0.5, z: 45}
+        ];
+        floodLights.forEach(loc => {
+            const spot = new THREE.SpotLight(spotlightConfig.color, spotlightConfig.intensity, spotlightConfig.distance, spotlightConfig.angle, spotlightConfig.penumbra);
+            spot.position.set(loc.x, loc.y, loc.z);
+            spot.target = mosqueGroup; 
+            spot.castShadow = true;
+            spot.shadow.mapSize.width = 1024;
+            spot.shadow.mapSize.height = 1024;
+            scene.add(spot);
+        });
+
+        // Bright white spotlights focused on Minarets
+        const minaretSpots = [
+            {pos: {x: 48, y: 2, z: 48}, target: {x: 38, y: 50, z: 38}},
+            {pos: {x: 48, y: 2, z: -48}, target: {x: 38, y: 50, z: -38}},
+            {pos: {x: -48, y: 2, z: -48}, target: {x: -38, y: 50, z: -38}},
+            {pos: {x: -48, y: 2, z: 48}, target: {x: -38, y: 50, z: 38}}
+        ];
+        minaretSpots.forEach(s => {
+            const spot = new THREE.SpotLight(0xeef6ff, 8.0, 300, Math.PI / 12, 0.4);
+            spot.position.set(s.pos.x, s.pos.y, s.pos.z);
+            
+            const tObj = new THREE.Object3D();
+            tObj.position.set(s.target.x, s.target.y, s.target.z);
+            scene.add(tObj);
+            spot.target = tObj;
+
+            spot.castShadow = true;
+            spot.shadow.mapSize.width = 1024;
+            spot.shadow.mapSize.height = 1024;
+            scene.add(spot);
+        });
+
+        // INTERIOR CHANDELIER LIGHT (Real pointlight inside the prayer hall)
+        const chandelierLight = new THREE.PointLight(0xff9900, 10.0, 100); 
+        chandelierLight.position.set(0, 15, 0); 
+        chandelierLight.castShadow = true;
+        scene.add(chandelierLight);
+
+        // Glowing chandelier bulb
+        const bulbGeom = new THREE.SphereGeometry(1.2, 16, 16);
+        const bulbMat = new THREE.MeshBasicMaterial({ color: 0xffaa00 });
+        const bulb = new THREE.Mesh(bulbGeom, bulbMat);
+        bulb.position.copy(chandelierLight.position);
+        mosqueGroup.add(bulb);
+
+        // --- 3. Physically-Based Materials (PBR - No Emissive Self-Radiation) ---
+        const roofMaterial = new THREE.MeshStandardMaterial({
+            color: 0xf3f1e8,       
+            roughness: 0.55,       
+            metalness: 0.0,
+            side: THREE.DoubleSide
+        });
+
+        const minaretMaterial = new THREE.MeshStandardMaterial({
+            color: 0xffffff,       
+            roughness: 0.22,       
+            metalness: 0.0
+        });
+
+        const glassMaterial = new THREE.MeshStandardMaterial({
+            color: 0x332205,       
+            roughness: 0.05,       
+            metalness: 0.1,
+            transparent: true,
+            opacity: 0.5,
+            side: THREE.DoubleSide
+        });
+
+        const floorMaterial = new THREE.MeshStandardMaterial({
+            color: 0x0a0b10,       
+            roughness: 0.12,       
+            metalness: 0.1,
+            side: THREE.DoubleSide
+        });
+
+        const brassMaterial = new THREE.MeshStandardMaterial({
+            color: 0xd4af37,       
+            roughness: 0.15,
+            metalness: 0.9         
+        });
+
+        const darkStructureMaterial = new THREE.MeshStandardMaterial({
+            color: 0x111111,       
+            roughness: 0.6,
+            metalness: 0.2
+        });
+
+        const floorLineMaterial = new THREE.LineBasicMaterial({
+            color: 0x222222,
+            transparent: true,
+            opacity: 0.4
+        });
+
+        // --- 4. Building Faisal Mosque Geometry ---
+
+        function addHologramMesh(geometry, mat) {
+            const mesh = new THREE.Mesh(geometry, mat);
+            mesh.castShadow = true;
+            mesh.receiveShadow = true;
+            mosqueGroup.add(mesh);
+            return mesh;
+        }
+
+        function buildSubdividedTriangleCustom(p1, p2, p3, mat, subdivisions = 8) {
+            const geom = new THREE.BufferGeometry();
+            const vertices = [];
+
+            for (let i = 0; i <= subdivisions; i++) {
+                let u = i / subdivisions;
+                for (let j = 0; j <= subdivisions - i; j++) {
+                    let v = j / subdivisions;
+                    let w = 1 - u - v;
+                    let pt = new THREE.Vector3()
+                        .addScaledVector(p1, u)
+                        .addScaledVector(p2, v)
+                        .addScaledVector(p3, w);
+                    vertices.push(pt.x, pt.y, pt.z);
+                }
+            }
+
+            const indices = [];
+            let indexOffset = 0;
+            const rowStartIndices = [];
+            for (let i = 0; i <= subdivisions; i++) {
+                rowStartIndices.push(indexOffset);
+                indexOffset += (subdivisions - i + 1);
+            }
+
+            for (let i = 0; i < subdivisions; i++) {
+                let r1 = rowStartIndices[i];
+                let r2 = rowStartIndices[i + 1];
+                let count = subdivisions - i;
+                for (let j = 0; j < count; j++) {
+                    indices.push(r1 + j, r1 + j + 1, r2 + j);
+                    if (j < count - 1) {
+                        indices.push(r1 + j + 1, r2 + j + 1, r2 + j);
+                    }
+                }
+            }
+
+            geom.setAttribute('position', new THREE.Float32BufferAttribute(vertices, 3));
+            geom.setIndex(indices);
+            geom.computeVertexNormals();
+
+            addHologramMesh(geom, mat);
+        }
+
+        // A. Highly Reflective Terrazzo Base
+        const platformGeom = new THREE.BoxGeometry(130, 4, 160, 10, 1, 12);
+        platformGeom.translate(0, -2, 10);
+        const platform = addHologramMesh(platformGeom, floorMaterial);
+
+        // B. Main Prayer Hall Structure (Sealed, No Gaps)
+        const peakY = 42;
+        const peak = new THREE.Vector3(0, peakY, 0);
+
+        const corners = {
+            NE: new THREE.Vector3(30, 0, 30),
+            SE: new THREE.Vector3(30, 0, -30),
+            SW: new THREE.Vector3(-30, 0, -30),
+            NW: new THREE.Vector3(-30, 0, 30)
+        };
+
+        const gables = {
+            E: new THREE.Vector3(30, 24, 0),
+            S: new THREE.Vector3(0, 24, -30),
+            W: new THREE.Vector3(-30, 24, 0),
+            N: new THREE.Vector3(0, 24, 30)
+        };
+
+        // 1. Generate the 8 Roof Plates
+        const roofPlates = [
+            [peak, corners.NE, gables.E],
+            [peak, gables.E, corners.SE],
+            [peak, corners.SE, gables.S],
+            [peak, gables.S, corners.SW],
+            [peak, corners.SW, gables.W],
+            [peak, gables.W, corners.NW],
+            [peak, corners.NW, gables.N],
+            [peak, gables.N, corners.NE]
+        ];
+        roofPlates.forEach(p => buildSubdividedTriangleCustom(p[0], p[1], p[2], roofMaterial, 8));
+
+        // 2. Generate the 4 Enclosing Gable Walls (Amber Tinted Glass Facade)
+        const verticalWalls = [
+            [corners.SE, corners.NE, gables.E], 
+            [corners.SW, corners.SE, gables.S], 
+            [corners.NW, corners.SW, gables.W], 
+            [corners.NE, corners.NW, gables.N]  
+        ];
+        verticalWalls.forEach(w => buildSubdividedTriangleCustom(w[0], w[1], w[2], glassMaterial, 8));
+
+        // C. Base Anchor blocks at the 4 corners (Off-white concrete)
+        const cornersKeys = ['NE', 'SE', 'SW', 'NW'];
+        cornersKeys.forEach(k => {
+            const dest = corners[k];
+            const anchorGeom = new THREE.BoxGeometry(6, 4, 6);
+            anchorGeom.translate(dest.x, 2, dest.z);
+            addHologramMesh(anchorGeom, roofMaterial);
+        });
+
+        // D. High-Poly Louver Grids (Dark Charcoal window frames)
+        function buildDetailedLouvers(pLeft, pRight, pTop, axis, constantVal) {
+            const numStripes = 14;
+            for (let i = 1; i <= numStripes; i++) {
+                let t = i / numStripes;
+                let y = pTop.y * t;
+                let leftVal = pLeft[axis] * (1 - t) + pTop[axis] * t;
+                let rightVal = pRight[axis] * (1 - t) + pTop[axis] * t;
+
+                let length = Math.abs(rightVal - leftVal);
+                let midVal = (leftVal + rightVal) / 2;
+
+                const louverGeom = new THREE.BoxGeometry(
+                    axis === 'x' ? length : 1.0,
+                    0.4,
+                    axis === 'z' ? length : 1.0
+                );
+                louverGeom.translate(
+                    axis === 'x' ? midVal : constantVal,
+                    y,
+                    axis === 'z' ? midVal : constantVal
+                );
+                addHologramMesh(louverGeom, darkStructureMaterial);
+            }
+        }
+        buildDetailedLouvers(corners.SE, corners.NE, gables.E, 'z', 30.1); 
+        buildDetailedLouvers(corners.SW, corners.NW, gables.W, 'z', -30.1);
+        buildDetailedLouvers(corners.SW, corners.SE, gables.S, 'x', -30.1);
+        buildDetailedLouvers(corners.NW, corners.NE, gables.N, 'x', 30.1);
+
+        // E. Solid White Marble Minarets at the corners
+        const minrBase = 2.5;
+        const minrShaft = 1.5;
+        const minSlices = 24; 
+        const minaretLocs = [
+            {x: 38, z: 38}, {x: 38, z: -38}, {x: -38, z: -38}, {x: -38, z: 38}
+        ];
+
+        minaretLocs.forEach(loc => {
+            const mx = loc.x;
+            const mz = loc.z;
+
+            // 1. Base podium cylinder
+            const baseGeom = new THREE.CylinderGeometry(minrBase, minrBase, 12, 8, 4);
+            baseGeom.translate(mx, 6, mz);
+            addHologramMesh(baseGeom, minaretMaterial);
+
+            // 2. Main cylindrical fluted Shaft
+            const shaftGeom = new THREE.CylinderGeometry(minrShaft, minrShaft, 62, minSlices, 12);
+            shaftGeom.translate(mx, 43, mz);
+            addHologramMesh(shaftGeom, minaretMaterial);
+
+            // 3. Spire top cone
+            const spireGeom = new THREE.ConeGeometry(minrShaft, 12, minSlices, 4);
+            spireGeom.translate(mx, 80, mz);
+            addHologramMesh(spireGeom, minaretMaterial);
+
+            // 4. Two circular balconies (Polished Brass Torus)
+            const balconyHeights = [42, 62];
+            balconyHeights.forEach(bh => {
+                const balcGeom = new THREE.TorusGeometry(2.0, 0.45, 8, minSlices);
+                balcGeom.rotateX(Math.PI / 2);
+                balcGeom.translate(mx, bh, mz);
+                addHologramMesh(balcGeom, brassMaterial);
+            });
+
+            // 5. Golden spire crescent (Polished Brass)
+            const cresGeom = new THREE.TorusGeometry(0.8, 0.2, 8, 12, Math.PI);
+            cresGeom.rotateZ(-Math.PI / 2);
+            cresGeom.translate(mx, 87, mz);
+            addHologramMesh(cresGeom, brassMaterial);
+        });
+
+        // F. Perimeter Walkway Colonnades (White Columns & Golden beams)
+        function buildSolidArcades(startZ, endZ, posX) {
+            const columnsCount = 14;
+            for (let i = 0; i <= columnsCount; i++) {
+                let z = startZ + (i / columnsCount) * (endZ - startZ);
+                // Pillar (White)
+                const colGeom = new THREE.CylinderGeometry(0.8, 0.8, 6, 8, 2);
+                colGeom.translate(posX, 3, z);
+                addHologramMesh(colGeom, minaretMaterial);
+
+                // Lintel Beam (Amber/Gold roof walk)
+                if (i < columnsCount) {
+                    let nextZ = startZ + ((i + 1) / columnsCount) * (endZ - startZ);
+                    let len = Math.abs(nextZ - z);
+                    const beamGeom = new THREE.BoxGeometry(0.8, 0.6, len);
+                    beamGeom.translate(posX, 6.3, (z + nextZ) / 2);
+                    addHologramMesh(beamGeom, roofMaterial);
+                }
+            }
+        }
+        buildSolidArcades(-60, 80, -60);
+        buildSolidArcades(-60, 80, 60);
+
+        // G. Sunken Reflecting Courtyard Pool (Reflective Deep Aqua water)
+        function buildReflectingPool(xStart, xEnd, zStart, zEnd) {
+            let width = Math.abs(xEnd - xStart);
+            let len = Math.abs(zEnd - zStart);
+            const borderGeom = new THREE.BoxGeometry(width + 2, 0.4, len + 2);
+            borderGeom.translate((xStart + xEnd)/2, 0.2, (zStart + zEnd)/2);
+            addHologramMesh(borderGeom, roofMaterial);
+
+            const waterGeom = new THREE.PlaneGeometry(width, len, 8, 8);
+            waterGeom.rotateX(-Math.PI / 2);
+            waterGeom.translate((xStart + xEnd)/2, 0.15, (zStart + zEnd)/2);
+            
+            const waterMesh = new THREE.Mesh(waterGeom, new THREE.MeshStandardMaterial({
+                color: 0x001710, // Deep teal reflecting pool
+                roughness: 0.08,
+                metalness: 0.9,
+                side: THREE.DoubleSide
+            }));
+            waterMesh.receiveShadow = true;
+            mosqueGroup.add(waterMesh);
+        }
+        buildReflectingPool(-25, 25, -55, -35);
+
+        // H. Main top Crescent (Polished Brass)
+        const mainCresGeom = new THREE.TorusGeometry(1.6, 0.25, 8, 16, Math.PI);
+        mainCresGeom.rotateZ(-Math.PI / 2);
+        mainCresGeom.translate(0, peakY + 2.5, 0);
+        addHologramMesh(mainCresGeom, brassMaterial);
+
+
+        // --- 7. UI Controls ---
+        let autoRotate = true;
+        let chandelierOn = true;
+
+        document.getElementById('btn-rotation').addEventListener('click', (e) => {
+            autoRotate = !autoRotate;
+            e.target.textContent = `ROTATION: ${autoRotate ? 'ON' : 'OFF'}`;
+        });
+
+        const colorBtn = document.getElementById('btn-color');
+        colorBtn.textContent = "CHANDELIER: ON";
+        colorBtn.addEventListener('click', (e) => {
+            chandelierOn = !chandelierOn;
+            chandelierLight.intensity = chandelierOn ? 10.0 : 0.0;
+            bulb.visible = chandelierOn;
+            e.target.textContent = `CHANDELIER: ${chandelierOn ? 'ON' : 'OFF'}`;
+        });
+
+        let floodsOn = true;
+        const wireBtn = document.getElementById('btn-wireframe');
+        wireBtn.textContent = "FLOODLIGHTS: ON";
+        wireBtn.addEventListener('click', (e) => {
+            floodsOn = !floodsOn;
+            scene.children.forEach(child => {
+                if (child.isSpotLight) {
+                    child.intensity = floodsOn ? (child.color.getHex() === 0xeef6ff ? 8.0 : 5.0) : 0.0;
+                }
+            });
+            e.target.textContent = `FLOODLIGHTS: ${floodsOn ? 'ON' : 'OFF'}`;
+        });
+
+        document.getElementById('btn-reset').addEventListener('click', () => {
+            controls.reset();
+            camera.position.set(-130, 75, 180);
+            autoRotate = true;
+            document.getElementById('btn-rotation').textContent = "ROTATION: ON";
+        });
+
+        // --- 8. Animation Loop ---
+        const clock = new THREE.Clock();
+
+        function animate() {
+            requestAnimationFrame(animate);
+
+            const elapsed = clock.getElapsedTime();
+
+            if (autoRotate) {
+                mosqueGroup.rotation.y = elapsed * 0.12;
+            }
+
+            controls.update();
+            renderer.render(scene, camera);
+        }
+
+        window.addEventListener('resize', () => {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        });
+
+        animate();
+    </script>
+</body>
+</html>
